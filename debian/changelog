@@ -1,3 +1,19 @@
+ubuntu-touch-meta (1.003) raring; urgency=low
+
+  * Refreshed dependencies for updated sdk seed with ubuntu-ui-toolkit changes
+    in raring-proposed.
+  * Added qtdeclarative5-folderlistmodel-plugin to sdk-recommends
+  * Added qtdeclarative5-localstorage-plugin to sdk-recommends
+  * Added qtdeclarative5-particles-plugin to sdk-recommends
+  * Added qtdeclarative5-qtaudioengine-plugin to sdk-recommends
+  * Added qtdeclarative5-qtmultimedia-plugin to sdk-recommends
+  * Added qtdeclarative5-qtquick2-plugin to sdk-recommends
+  * Added qtdeclarative5-qtsensors-plugin to sdk-recommends
+  * Added qtdeclarative5-window-plugin to sdk-recommends
+  * Added qtdeclarative5-xmllistmodel-plugin to sdk-recommends
+
+ -- Loïc Minier <lool@dooz.org>  Thu, 21 Mar 2013 03:04:16 +0100
+
 ubuntu-touch-meta (1.002) raring; urgency=low
 
   * Add ubuntu-sdk metapackage; taken over from ubuntu-ui-toolkit.
