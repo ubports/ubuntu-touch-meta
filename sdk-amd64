@@ -8,6 +8,7 @@ qt3d5-dev
 qt5-default
 qtbase5-dev
 qtcreator
+qtcreator-plugin-ubuntu
 qtdeclarative5-dev
 qtdeclarative5-dev-tools
 qtdeclarative5-ubuntu-ui-toolkit-plugin

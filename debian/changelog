@@ -1,3 +1,9 @@
+ubuntu-touch-meta (1.004) raring; urgency=low
+
+  * Add qtcreator-plugin-ubuntu to sdk (LP: #1163125)
+
+ -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Tue, 02 Apr 2013 11:17:34 +0300
+
 ubuntu-touch-meta (1.003) raring; urgency=low
 
   * Refreshed dependencies for updated sdk seed with ubuntu-ui-toolkit changes
