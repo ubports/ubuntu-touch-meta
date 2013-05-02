@@ -3,6 +3,7 @@ account-plugin-tools
 account-plugin-twitter
 alsa-base
 alsa-utils
+bluez
 ca-certificates
 dbus-x11
 fonts-freefont-ttf
@@ -14,7 +15,9 @@ hud
 language-pack-en
 libmessaging-menu0
 maliit-framework
-nemo-keyboard
+maliit-keyboard
+maliit-keyboard-data
+nano
 network-manager
 python3-gi
 python3-oauthlib
@@ -23,10 +26,10 @@ qt5-default
 qtchooser
 qtdeclarative5-ubuntu-ui-toolkit-plugin
 signon-plugin-oauth2
+software-properties-common
 telepathy-gabble
 ttf-dejavu-extra
 ttf-ubuntu-font-family
 ubuntu-mobile-icons
-ubuntu-ui-toolkit-examples
 unity-lens-applications
 wireless-tools
