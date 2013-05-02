@@ -1,3 +1,19 @@
+ubuntu-touch-meta (1.005) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added bluez to touch
+  * Added maliit-keyboard to touch
+  * Added maliit-keyboard-data to touch
+  * Added nano to touch
+  * Added software-properties-common to touch
+  * Removed nemo-keyboard from touch
+  * Removed ubuntu-ui-toolkit-examples from touch
+  * manually add all missing bits to touch-i386 and touch-armhf from
+    http://bazaar.launchpad.net/~ubuntu-core-dev/ubuntu-seeds/ubuntu-touch.saucy/view/head:/touch
+    so we can start building from PPAs
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Thu, 02 May 2013 00:29:01 +0200
+
 ubuntu-touch-meta (1.004) raring; urgency=low
 
   * Add qtcreator-plugin-ubuntu to sdk (LP: #1163125)
