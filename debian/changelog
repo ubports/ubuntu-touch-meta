@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.007) saucy; urgency=low
+
+  * aaaand ... manually move all recommends back to depends since the image is
+    currently built with --no-install-recommends
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 03 May 2013 02:31:38 +0200
+
 ubuntu-touch-meta (1.006) saucy; urgency=low
 
   * manually move all depends to recommends, else we can't migrate from
