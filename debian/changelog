@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.008) saucy; urgency=low
+
+  * Rereshed dependencies
+  * Added friends-app to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 10 May 2013 13:49:21 +0200
+
 ubuntu-touch-meta (1.007) saucy; urgency=low
 
   * aaaand ... manually move all recommends back to depends since the image is
