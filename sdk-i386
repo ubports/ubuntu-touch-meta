@@ -1,4 +1,5 @@
 libqt5graphicaleffects5
+libqt5sql5-sqlite
 libqt5svg5-dev
 libqt5v8-5-dev
 libqt5webkit5-dev

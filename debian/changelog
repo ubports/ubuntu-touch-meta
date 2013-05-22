@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.009) saucy; urgency=low
+
+  * Rereshed dependencies
+  * Added libqt5sql5-sqlite to sdk
+  * Added libqt5webkit5-qmlwebkitplugin to sdk-recommends
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 22 May 2013 11:41:54 +0200
+
 ubuntu-touch-meta (1.008) saucy; urgency=low
 
   * Rereshed dependencies
