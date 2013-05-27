@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.010) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added initramfs-tools-ubuntu-touch to touch-armhf
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Mon, 27 May 2013 13:33:11 +0200
+
 ubuntu-touch-meta (1.009) saucy; urgency=low
 
   * Rereshed dependencies
