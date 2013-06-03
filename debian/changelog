@@ -1,3 +1,9 @@
+ubuntu-touch-meta (1.015) saucy; urgency=low
+
+  * Fix typo, demo-assets-video needs to be demo-assets-videos
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Mon, 03 Jun 2013 16:31:43 +0200
+
 ubuntu-touch-meta (1.014) saucy; urgency=low
 
   * Refreshed dependencies
