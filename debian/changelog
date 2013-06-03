@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.014) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added demo-assets-shell to touch-armhf touch-i386
+  * Added demo-assets-video to touch-armhf touch-i386
+  * Added demo-assets-music to touch-armhf touch-i386
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Mon, 03 Jun 2013 10:55:15 +0200
+
 ubuntu-touch-meta (1.013) saucy; urgency=low
 
   * sync with phablet seeds (omitting demo-assets-shell|video|music since they

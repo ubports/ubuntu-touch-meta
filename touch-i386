@@ -45,6 +45,9 @@ indicators-client-plugin-power
 indicators-client-plugin-datetime
 unity-lens-people
 unity-lens-applications
+demo-assets-shell
+demo-assets-video
+demo-assets-music
 hud
 qtubuntu
 qt5-default
