@@ -1,3 +1,17 @@
+ubuntu-touch-meta (1.013) saucy; urgency=low
+
+  * sync with phablet seeds (omitting demo-assets-shell|video|music since they
+    are not in any saucy archive yet)
+  * Refreshed dependencies
+  * Added syncevolution to touch-armhf touch-i386
+  * Added mobile-broadband-provider-info to touch-armhf touch-i386
+  * Added ubuntu-mobile-icons to touch-armhf touch-i386
+  * Removed ubuntu-mobile from touch-armhf touch-i386
+  * Removed indicators-client-examples from touch-armhf touch-i386
+  * Removed demo-assets from touch-armhf touch-i386
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Mon, 03 Jun 2013 10:19:21 +0200
+
 ubuntu-touch-meta (1.012) saucy; urgency=low
 
   * Refreshed dependencies

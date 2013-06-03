@@ -32,9 +32,10 @@ account-plugin-tools
 account-plugin-twitter
 account-plugin-facebook
 libqtfolks1
-ubuntu-mobile
+ubuntu-mobile-icons
 ubuntu-qtlocation-plugin
 software-properties-common
+mobile-broadband-provider-info
 qml-phone-shell
 indicators-client
 indicators-client-plugin-sound
@@ -42,7 +43,6 @@ indicators-client-plugin-network
 indicators-client-plugin-messaging
 indicators-client-plugin-power
 indicators-client-plugin-datetime
-indicators-client-examples
 unity-lens-people
 unity-lens-applications
 hud
@@ -57,7 +57,6 @@ phone-app
 mediaplayer-app
 notes-app
 libandroid-audiosystem-asound2
-demo-assets
 webapps-demo
 share-app
 ubuntu-calendar-app
@@ -65,6 +64,7 @@ ubuntu-calculator-app
 ubuntu-clock-app
 ubuntu-weather-app
 friends-app
+syncevolution
 nano
 iputils-ping
 wireless-tools
