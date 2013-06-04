@@ -6,7 +6,7 @@ Standards-Version: 3.9.5
 Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 
 Package: ubuntu-sdk
-Architecture: any
+Architecture: amd64 armhf i386
 Depends: ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
 Description: Ubuntu SDK
@@ -17,7 +17,7 @@ Description: Ubuntu SDK
   - Demos and examples
 
 Package: ubuntu-touch
-Architecture: any
+Architecture: amd64 armhf i386
 Depends: ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
 Description: Ubuntu touch system
