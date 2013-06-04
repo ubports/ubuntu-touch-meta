@@ -1,3 +1,28 @@
+ubuntu-touch-meta (1.016) saucy; urgency=low
+
+  * Refactor update.cfg slightly to be less repetitive; no functional
+    change.
+
+  * Refreshed dependencies
+  * Added android-tools-adbd to touch [amd64 i386]
+  * Added friends-app to touch [amd64]
+  * Added initramfs-tools-ubuntu-touch to touch [amd64 i386]
+  * Added libqt5qml-graphicaleffects to sdk
+  * Added lxc-android-config to touch [amd64 i386]
+  * Added mobile-broadband-provider-info to touch [amd64]
+  * Added qtdeclarative5-accounts-plugin to sdk-recommends
+  * Added qtdeclarative5-friends-plugin to sdk-recommends
+  * Added syncevolution to touch [amd64]
+  * Added ubuntu-ui-toolkit-doc to sdk
+  * Removed iputils-ping from touch [armhf i386]
+  * Removed isc-dhcp-client from touch [armhf i386]
+  * Removed libandroid-audiosystem-asound2 from touch [i386]
+  * Removed libqt5graphicaleffects5 from sdk
+  * Removed net-tools from touch [armhf i386]
+  * Removed powerd from touch [i386]
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 04 Jun 2013 11:12:27 +0100
+
 ubuntu-touch-meta (1.015) saucy; urgency=low
 
   * Fix typo, demo-assets-video needs to be demo-assets-videos

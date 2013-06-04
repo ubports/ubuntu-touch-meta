@@ -1,4 +1,4 @@
-libqt5graphicaleffects5
+libqt5qml-graphicaleffects
 libqt5sql5-sqlite
 libqt5svg5-dev
 libqt5v8-5-dev
@@ -19,5 +19,6 @@ qtscript5-dev
 qtsensors5-dev
 qttools5-dev
 qttools5-dev-tools
+ubuntu-ui-toolkit-doc
 ubuntu-ui-toolkit-examples
 ubuntu-ui-toolkit-theme
