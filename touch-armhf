@@ -47,7 +47,6 @@ powerd
 python3-gi
 python3-oauthlib
 python3-pkg-resources
-qml-phone-shell
 qt5-default
 qtchooser
 qtdeclarative5-ubuntu-ui-toolkit-plugin
@@ -62,12 +61,15 @@ ttf-ubuntu-font-family
 ubuntu-calculator-app
 ubuntu-calendar-app
 ubuntu-clock-app
+ubuntu-filemanager-app
 ubuntu-mobile-icons
 ubuntu-qtlocation-plugin
+ubuntu-terminal-app
 ubuntu-touch-session
 ubuntu-weather-app
 unity-lens-applications
 unity-lens-people
+unity8
 webapps-demo
 webbrowser-app
 wireless-tools
