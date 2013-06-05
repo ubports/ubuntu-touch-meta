@@ -16,6 +16,8 @@ gir1.2-accounts-1.0
 hud
 initramfs-tools-ubuntu-touch
 language-pack-en
+libhybris
+libhybris-test
 libmessaging-menu0
 lxc-android-config
 maliit-framework
@@ -37,5 +39,6 @@ telepathy-gabble
 ttf-dejavu-extra
 ttf-ubuntu-font-family
 ubuntu-mobile-icons
+ubuntu-touch-session
 unity-lens-applications
 wireless-tools

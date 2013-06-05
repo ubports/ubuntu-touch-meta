@@ -1,3 +1,14 @@
+ubuntu-touch-meta (1.018) saucy; urgency=low
+
+  * Drop unused PPAs
+  * Refreshed dependencies
+  * Added libhybris to touch [amd64]
+  * Added libhybris-test to touch [amd64]
+  * Added ubuntu-touch-session to touch
+  * Removed ubuntu-session from touch [armhf i386]
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 05 Jun 2013 11:29:33 +0200
+
 ubuntu-touch-meta (1.017) saucy; urgency=low
 
   * Only build package on amd64, armhf, and i386, matching update.cfg.
