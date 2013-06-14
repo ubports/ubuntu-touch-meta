@@ -1,3 +1,20 @@
+ubuntu-touch-meta (1.020) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added camera-app to touch [amd64]
+  * Added fonts-dejavu-extra to touch
+  * Added gallery-app to touch [amd64]
+  * Added libandroid-audiosystem-asound2 to touch [i386]
+  * Added mediaplayer-app to touch [amd64]
+  * Added notes-app to touch [amd64]
+  * Added qtubuntu to touch [amd64]
+  * Added share-app to touch [amd64]
+  * Added webbrowser-app to touch [amd64]
+  * Removed qt5-default from touch
+  * Removed ttf-dejavu-extra from touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 14 Jun 2013 17:08:09 +0200
+
 ubuntu-touch-meta (1.019) saucy; urgency=low
 
   * Refreshed dependencies

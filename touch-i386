@@ -12,6 +12,7 @@ dbus-x11
 demo-assets-music
 demo-assets-shell
 demo-assets-videos
+fonts-dejavu-extra
 fonts-freefont-ttf
 friends
 friends-app
@@ -28,6 +29,7 @@ indicators-client-plugin-power
 indicators-client-plugin-sound
 initramfs-tools-ubuntu-touch
 language-pack-en
+libandroid-audiosystem-asound2
 libhybris
 libhybris-test
 libmessaging-menu0
@@ -45,7 +47,6 @@ phone-app
 python3-gi
 python3-oauthlib
 python3-pkg-resources
-qt5-default
 qtchooser
 qtdeclarative5-ubuntu-ui-toolkit-plugin
 qtubuntu
@@ -54,7 +55,6 @@ signon-plugin-oauth2
 software-properties-common
 syncevolution
 telepathy-gabble
-ttf-dejavu-extra
 ttf-ubuntu-font-family
 ubuntu-calculator-app
 ubuntu-calendar-app
