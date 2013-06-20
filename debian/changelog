@@ -1,3 +1,14 @@
+ubuntu-touch-meta (1.022) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added demo-assets-scopes to touch [armhf i386]
+  * Added unity-lens-music to touch
+  * Added unity-lens-video to touch
+  * Added unity-scope-home to touch
+  * Added unity-scopes-runner to touch
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Thu, 20 Jun 2013 00:59:10 -0300
+
 ubuntu-touch-meta (1.021) saucy; urgency=low
 
   * Refreshed dependencies

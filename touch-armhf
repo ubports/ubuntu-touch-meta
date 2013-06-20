@@ -10,6 +10,7 @@ camera-app
 chewie
 dbus-x11
 demo-assets-music
+demo-assets-scopes
 demo-assets-shell
 demo-assets-videos
 fonts-dejavu-extra
@@ -67,6 +68,10 @@ ubuntu-terminal-app
 ubuntu-touch-session
 ubuntu-weather-app
 unity-lens-applications
+unity-lens-music
+unity-lens-video
+unity-scope-home
+unity-scopes-runner
 unity8
 webapps-demo
 webbrowser-app
