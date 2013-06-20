@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.023) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added ubuntu-system-settings to touch
+  * Added ubuntu-system-settings-online-accounts to touch
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Thu, 20 Jun 2013 11:10:57 -0400
+
 ubuntu-touch-meta (1.022) saucy; urgency=low
 
   * Refreshed dependencies

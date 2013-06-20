@@ -64,6 +64,8 @@ ubuntu-clock-app
 ubuntu-filemanager-app
 ubuntu-mobile-icons
 ubuntu-qtlocation-plugin
+ubuntu-system-settings
+ubuntu-system-settings-online-accounts
 ubuntu-terminal-app
 ubuntu-touch-session
 ubuntu-weather-app
