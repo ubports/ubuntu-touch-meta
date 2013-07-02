@@ -21,6 +21,7 @@ initramfs-tools-ubuntu-touch
 language-pack-en
 libhybris
 libhybris-test
+libhybris-utils
 libmessaging-menu0
 lxc-android-config
 maliit-framework

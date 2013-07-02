@@ -33,6 +33,7 @@ language-pack-en
 libandroid-audiosystem-asound2
 libhybris
 libhybris-test
+libhybris-utils
 libmessaging-menu0
 libqtfolks1
 lxc-android-config
@@ -45,6 +46,7 @@ nano
 network-manager
 notes-app
 phone-app
+powerd
 python3-gi
 python3-oauthlib
 python3-pkg-resources

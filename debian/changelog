@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.025) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added libhybris-utils to touch
+  * Added powerd to touch [i386]
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Tue, 02 Jul 2013 02:16:38 -0300
+
 ubuntu-touch-meta (1.024) saucy; urgency=low
 
   * Refreshed dependencies

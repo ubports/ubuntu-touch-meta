@@ -33,6 +33,7 @@ language-pack-en
 libandroid-audiosystem-asound2
 libhybris
 libhybris-test
+libhybris-utils
 libmessaging-menu0
 libqtfolks1
 lxc-android-config
