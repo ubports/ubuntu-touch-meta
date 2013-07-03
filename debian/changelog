@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.027) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added qtubuntu-android to touch [amd64 i386]
+  * Added system-image-cli to touch
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Wed, 03 Jul 2013 14:20:49 -0400
+
 ubuntu-touch-meta (1.026) saucy; urgency=low
 
   * Refreshed dependencies

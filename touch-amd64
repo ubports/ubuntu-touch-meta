@@ -38,10 +38,12 @@ python3-oauthlib
 python3-pkg-resources
 qtchooser
 qtdeclarative5-ubuntu-ui-toolkit-plugin
+qtubuntu-android
 share-app
 signon-plugin-oauth2
 software-properties-common
 syncevolution
+system-image-cli
 telepathy-gabble
 ttf-ubuntu-font-family
 ubuntu-mobile-icons
