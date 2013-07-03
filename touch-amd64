@@ -32,12 +32,12 @@ mobile-broadband-provider-info
 nano
 network-manager
 notes-app
+powerd
 python3-gi
 python3-oauthlib
 python3-pkg-resources
 qtchooser
 qtdeclarative5-ubuntu-ui-toolkit-plugin
-qtubuntu
 share-app
 signon-plugin-oauth2
 software-properties-common

@@ -52,7 +52,7 @@ python3-oauthlib
 python3-pkg-resources
 qtchooser
 qtdeclarative5-ubuntu-ui-toolkit-plugin
-qtubuntu
+qtubuntu-android
 share-app
 signon-plugin-oauth2
 software-properties-common

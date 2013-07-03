@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.026) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added powerd to touch [amd64]
+  * Added qtubuntu-android to touch [armhf]
+  * Removed qtubuntu from touch
+
+ -- Didier Roche <didrocks@ubuntu.com>  Wed, 03 Jul 2013 19:33:42 +0200
+
 ubuntu-touch-meta (1.025) saucy; urgency=low
 
   * Refreshed dependencies
