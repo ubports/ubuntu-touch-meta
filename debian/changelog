@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.028) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added click to touch
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 08 Jul 2013 15:00:10 +0100
+
 ubuntu-touch-meta (1.027) saucy; urgency=low
 
   * Refreshed dependencies
