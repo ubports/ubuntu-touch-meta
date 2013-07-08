@@ -57,6 +57,7 @@ qtubuntu-android
 share-app
 signon-plugin-oauth2
 software-properties-common
+sudokutouchgame
 syncevolution
 system-image-cli
 telepathy-gabble
@@ -73,6 +74,7 @@ ubuntu-terminal-app
 ubuntu-touch-generic-initrd
 ubuntu-touch-session
 ubuntu-weather-app
+ufw
 unity-lens-applications
 unity-lens-music
 unity-lens-video

@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.029) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added sudokutouchgame to touch [armhf i386]
+  * Added ufw to touch
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Mon, 08 Jul 2013 18:03:58 -0300
+
 ubuntu-touch-meta (1.028) saucy; urgency=low
 
   * Refreshed dependencies
