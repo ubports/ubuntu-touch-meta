@@ -1,3 +1,16 @@
+ubuntu-touch-meta (1.030) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added qtbase5-doc to sdk
+  * Added qtcreator-doc to sdk
+  * Added qtgraphicaleffects5-doc to sdk
+  * Added qtmultimedia5-doc to sdk
+  * Added qtscript5-doc to sdk
+  * Added qtsvg5-doc to sdk
+  * Added qttools5-doc to sdk
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 10 Jul 2013 13:21:12 +0200
+
 ubuntu-touch-meta (1.029) saucy; urgency=low
 
   * Refreshed dependencies
