@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.031) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added ofono-scripts to touch [armhf i386]
+  * Added sudoku-app to touch [armhf i386]
+  * Removed sudokutouchgame from touch [armhf i386]
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Thu, 11 Jul 2013 17:03:17 +0200
+
 ubuntu-touch-meta (1.030) saucy; urgency=low
 
   * Refreshed dependencies
