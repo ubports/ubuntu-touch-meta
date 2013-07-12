@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.032) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added calendar-app to touch [armhf i386]
+  * Removed ubuntu-calendar-app from touch [armhf i386]
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Fri, 12 Jul 2013 01:21:58 -0300
+
 ubuntu-touch-meta (1.031) saucy; urgency=low
 
   * Refreshed dependencies
