@@ -1,3 +1,23 @@
+ubuntu-touch-meta (1.033) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added indicator-battery to touch [armhf i386]
+  * Added indicator-messages to touch
+  * Added indicator-network to touch
+  * Added indicator-sound to touch
+  * Added indicator-time to touch [armhf i386]
+  * Removed indicators-client from touch [armhf i386]
+  * Removed indicators-client-plugin-datetime from touch [armhf i386]
+  * Removed indicators-client-plugin-messaging from touch [armhf i386]
+  * Removed indicators-client-plugin-network from touch [armhf i386]
+  * Removed indicators-client-plugin-power from touch [armhf i386]
+  * Removed indicators-client-plugin-sound from touch [armhf i386]
+  * Removed unity-lens-music from touch
+  * Removed unity-lens-video from touch
+  * Removed unity-scopes-runner from touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 12 Jul 2013 13:25:22 +0200
+
 ubuntu-touch-meta (1.032) saucy; urgency=low
 
   * Refreshed dependencies
