@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.034) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Removed indicator-network from touch
+  * Removed indicator-sound from touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 12 Jul 2013 16:52:12 +0200
+
 ubuntu-touch-meta (1.033) saucy; urgency=low
 
   * Refreshed dependencies

@@ -26,8 +26,6 @@ gir1.2-accounts-1.0
 hud
 indicator-battery
 indicator-messages
-indicator-network
-indicator-sound
 indicator-time
 initramfs-tools-ubuntu-touch
 language-pack-en
