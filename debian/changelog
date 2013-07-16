@@ -1,3 +1,13 @@
+ubuntu-touch-meta (1.035) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added dropping-letters to touch [armhf i386]
+  * Added music-app to touch [armhf i386]
+  * Added stock-ticker-mobile-app to touch [armhf i386]
+  * Added ubuntu-rssreader-app to touch [armhf i386]
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Tue, 16 Jul 2013 17:01:52 -0300
+
 ubuntu-touch-meta (1.034) saucy; urgency=low
 
   * Refreshed dependencies

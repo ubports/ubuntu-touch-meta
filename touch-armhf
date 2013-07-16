@@ -15,6 +15,7 @@ demo-assets-music
 demo-assets-scopes
 demo-assets-shell
 demo-assets-videos
+dropping-letters
 fonts-dejavu-extra
 fonts-freefont-ttf
 friends
@@ -41,6 +42,7 @@ maliit-keyboard
 maliit-keyboard-data
 mediaplayer-app
 mobile-broadband-provider-info
+music-app
 nano
 network-manager
 notes-app
@@ -56,6 +58,7 @@ qtubuntu-android
 share-app
 signon-plugin-oauth2
 software-properties-common
+stock-ticker-mobile-app
 sudoku-app
 syncevolution
 system-image-cli
@@ -66,6 +69,7 @@ ubuntu-clock-app
 ubuntu-filemanager-app
 ubuntu-mobile-icons
 ubuntu-qtlocation-plugin
+ubuntu-rssreader-app
 ubuntu-system-settings
 ubuntu-system-settings-online-accounts
 ubuntu-terminal-app
