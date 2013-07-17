@@ -1,6 +1,7 @@
 account-plugin-facebook
 account-plugin-tools
 account-plugin-twitter
+address-book-app
 alsa-base
 alsa-utils
 android-tools-adbd
@@ -68,7 +69,6 @@ ubuntu-calculator-app
 ubuntu-clock-app
 ubuntu-filemanager-app
 ubuntu-mobile-icons
-ubuntu-qtlocation-plugin
 ubuntu-rssreader-app
 ubuntu-system-settings
 ubuntu-system-settings-online-accounts
