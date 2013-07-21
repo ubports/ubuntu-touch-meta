@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.039) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added unity-scope-click to touch
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Sat, 20 Jul 2013 21:24:47 -0400
+
 ubuntu-touch-meta (1.038) saucy; urgency=low
 
   * Refreshed dependencies
