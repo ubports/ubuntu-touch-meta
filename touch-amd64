@@ -9,6 +9,7 @@ bluez
 ca-certificates
 camera-app
 click
+click-apparmor
 dbus-x11
 fonts-dejavu-extra
 fonts-freefont-ttf
