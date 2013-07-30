@@ -5,6 +5,7 @@ address-book-app
 alsa-base
 alsa-utils
 android-tools-adbd
+apport
 bluez
 ca-certificates
 calendar-app
@@ -86,4 +87,5 @@ unity8
 webapps-demo
 webbrowser-app
 wget
+whoopsie
 wireless-tools

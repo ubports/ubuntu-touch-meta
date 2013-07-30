@@ -5,6 +5,7 @@ address-book-app
 alsa-base
 alsa-utils
 android-tools-adbd
+apport
 bluez
 ca-certificates
 camera-app
@@ -61,4 +62,5 @@ unity-scope-click
 unity-scope-home
 webbrowser-app
 wget
+whoopsie
 wireless-tools
