@@ -45,6 +45,7 @@ python3-pkg-resources
 qtchooser
 qtdeclarative5-ubuntu-ui-toolkit-plugin
 qtubuntu-android
+qtubuntu-media
 share-app
 signon-plugin-oauth2
 software-properties-common
