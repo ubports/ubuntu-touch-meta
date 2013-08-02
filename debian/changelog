@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.043) saucy; urgency=low
+
+  * update.cfg: Remove ubuntu-unity/next PPA; unity8 is now in the primary
+    archive.
+  * Refreshed dependencies
+  * Added unity8 to touch [amd64]
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri, 02 Aug 2013 16:44:08 +0100
+
 ubuntu-touch-meta (1.042) saucy; urgency=low
 
   * Refreshed dependencies
