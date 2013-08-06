@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.045) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added autopilot-touch to touch
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Tue, 06 Aug 2013 17:50:06 -0300
+
 ubuntu-touch-meta (1.044) saucy; urgency=low
 
   * Refreshed dependencies

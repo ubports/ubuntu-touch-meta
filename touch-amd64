@@ -7,6 +7,7 @@ alsa-utils
 android-tools-adbd
 apport
 apport-noui
+autopilot-touch
 bluez
 ca-certificates
 camera-app
