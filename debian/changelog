@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.044) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added apport-noui to touch
+
+ -- Evan Dandrea <ev@ubuntu.com>  Tue, 06 Aug 2013 13:15:39 +0100
+
 ubuntu-touch-meta (1.043) saucy; urgency=low
 
   * update.cfg: Remove ubuntu-unity/next PPA; unity8 is now in the primary

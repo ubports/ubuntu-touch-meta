@@ -6,6 +6,7 @@ alsa-base
 alsa-utils
 android-tools-adbd
 apport
+apport-noui
 bluez
 ca-certificates
 calendar-app
