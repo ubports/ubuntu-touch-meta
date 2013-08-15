@@ -8,6 +8,7 @@ android-tools-adbd
 apport
 apport-noui
 autopilot-touch
+bluetooth-touch
 bluez
 ca-certificates
 camera-app
