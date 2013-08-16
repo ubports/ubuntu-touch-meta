@@ -30,9 +30,10 @@ friends-twitter
 gallery-app
 gir1.2-accounts-1.0
 hud
-indicator-battery
+indicator-datetime
 indicator-messages
-indicator-time
+indicator-power
+indicator-sound
 initramfs-tools-ubuntu-touch
 language-pack-en
 libandroid-audiosystem-asound2

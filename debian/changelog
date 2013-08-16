@@ -1,3 +1,14 @@
+ubuntu-touch-meta (1.048) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added indicator-datetime to touch
+  * Added indicator-power to touch
+  * Added indicator-sound to touch
+  * Removed indicator-battery from touch [armhf i386]
+  * Removed indicator-time from touch [armhf i386]
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 16 Aug 2013 18:32:38 +0200
+
 ubuntu-touch-meta (1.047) saucy; urgency=low
 
   * Refreshed dependencies
