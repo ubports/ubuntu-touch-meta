@@ -51,6 +51,7 @@ python3-oauthlib
 python3-pkg-resources
 qtchooser
 qtdeclarative5-ubuntu-ui-toolkit-plugin
+qtorganizer5-eds
 qtubuntu-android
 qtubuntu-media
 share-app
@@ -60,6 +61,7 @@ syncevolution
 system-image-cli
 telepathy-gabble
 ttf-ubuntu-font-family
+ubuntu-keyboard
 ubuntu-mobile-icons
 ubuntu-system-settings
 ubuntu-system-settings-online-accounts

@@ -61,6 +61,7 @@ python3-oauthlib
 python3-pkg-resources
 qtchooser
 qtdeclarative5-ubuntu-ui-toolkit-plugin
+qtorganizer5-eds
 qtubuntu-android
 qtubuntu-media
 share-app
@@ -73,6 +74,7 @@ ttf-ubuntu-font-family
 ubuntu-calculator-app
 ubuntu-clock-app
 ubuntu-filemanager-app
+ubuntu-keyboard
 ubuntu-mobile-icons
 ubuntu-rssreader-app
 ubuntu-system-settings
