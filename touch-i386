@@ -13,7 +13,6 @@ bluez
 ca-certificates
 calendar-app
 camera-app
-chewie
 click
 click-apparmor
 dbus-x11
@@ -32,6 +31,7 @@ gir1.2-accounts-1.0
 hud
 indicator-datetime
 indicator-messages
+indicator-network
 indicator-power
 indicator-sound
 initramfs-tools-ubuntu-touch
