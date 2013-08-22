@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.051) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Removed maliit-framework from touch
+  * Removed maliit-keyboard from touch
+  * Removed maliit-keyboard-data from touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Thu, 22 Aug 2013 18:29:13 +0200
+
 ubuntu-touch-meta (1.050) saucy; urgency=low
 
   * Refreshed dependencies
