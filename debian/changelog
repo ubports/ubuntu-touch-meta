@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.052) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added ubuntu-touch-customization-hooks to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 23 Aug 2013 18:32:23 +0200
+
 ubuntu-touch-meta (1.051) saucy; urgency=low
 
   * Refreshed dependencies
