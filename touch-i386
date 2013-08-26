@@ -29,6 +29,7 @@ friends-twitter
 gallery-app
 gir1.2-accounts-1.0
 hud
+indicator-bluetooth
 indicator-datetime
 indicator-messages
 indicator-network
@@ -85,6 +86,7 @@ unity-lens-applications
 unity-scope-click
 unity-scope-home
 unity8
+url-dispatcher
 webapps-demo
 webbrowser-app
 wget

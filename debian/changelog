@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.053) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added indicator-bluetooth to touch
+  * Added url-dispatcher to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Mon, 26 Aug 2013 17:56:37 +0200
+
 ubuntu-touch-meta (1.052) saucy; urgency=low
 
   * Refreshed dependencies
