@@ -23,6 +23,7 @@ friends-facebook
 friends-twitter
 gallery-app
 gir1.2-accounts-1.0
+gstreamer0.10-pulseaudio
 hud
 indicator-bluetooth
 indicator-datetime
@@ -36,6 +37,8 @@ libhybris
 libhybris-test
 libhybris-utils
 libmessaging-menu0
+libqt5multimedia5-plugins
+libubuntu-location-service0
 lxc-android-config
 mediaplayer-app
 mobile-broadband-provider-info
@@ -45,6 +48,8 @@ notes-app
 ofono-scripts
 packagekit-plugin-click
 powerd
+pulseaudio
+pulseaudio-module-bluetooth
 python3-gi
 python3-oauthlib
 python3-pkg-resources
@@ -53,6 +58,7 @@ qtdeclarative5-ubuntu-ui-toolkit-plugin
 qtorganizer5-eds
 qtubuntu-android
 qtubuntu-media
+rtkit
 share-app
 signon-plugin-oauth2
 software-properties-common
@@ -61,6 +67,7 @@ system-image-cli
 telepathy-gabble
 ttf-ubuntu-font-family
 ubuntu-keyboard
+ubuntu-location-service-examples
 ubuntu-mobile-icons
 ubuntu-system-settings
 ubuntu-system-settings-online-accounts
