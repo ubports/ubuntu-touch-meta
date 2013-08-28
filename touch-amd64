@@ -15,6 +15,7 @@ camera-app
 click
 click-apparmor
 dbus-x11
+dialer-app
 fonts-dejavu-extra
 fonts-freefont-ttf
 friends
@@ -27,6 +28,7 @@ gstreamer0.10-pulseaudio
 hud
 indicator-bluetooth
 indicator-datetime
+indicator-location
 indicator-messages
 indicator-network
 indicator-power
@@ -41,6 +43,7 @@ libqt5multimedia5-plugins
 libubuntu-location-service0
 lxc-android-config
 mediaplayer-app
+messaging-app
 mobile-broadband-provider-info
 nano
 network-manager

@@ -20,6 +20,7 @@ demo-assets-music
 demo-assets-scopes
 demo-assets-shell
 demo-assets-videos
+dialer-app
 fonts-dejavu-extra
 fonts-freefont-ttf
 friends
@@ -32,6 +33,7 @@ gstreamer0.10-pulseaudio
 hud
 indicator-bluetooth
 indicator-datetime
+indicator-location
 indicator-messages
 indicator-network
 indicator-power
@@ -47,6 +49,7 @@ libqtfolks1
 libubuntu-location-service0
 lxc-android-config
 mediaplayer-app
+messaging-app
 mobile-broadband-provider-info
 music-app
 nano
@@ -54,7 +57,6 @@ network-manager
 notes-app
 ofono-scripts
 packagekit-plugin-click
-phone-app
 powerd
 pulseaudio
 pulseaudio-module-bluetooth

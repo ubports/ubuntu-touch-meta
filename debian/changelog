@@ -1,3 +1,13 @@
+ubuntu-touch-meta (1.056) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added dialer-app to touch
+  * Added indicator-location to touch
+  * Added messaging-app to touch
+  * Removed phone-app from touch [armhf i386]
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Wed, 28 Aug 2013 19:15:12 -0300
+
 ubuntu-touch-meta (1.055) saucy; urgency=low
 
   * Refreshed dependencies
