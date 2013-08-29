@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.057) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added packagekit to touch
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 29 Aug 2013 14:15:03 +0100
+
 ubuntu-touch-meta (1.056) saucy; urgency=low
 
   * Refreshed dependencies
