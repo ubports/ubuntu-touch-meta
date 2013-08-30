@@ -43,6 +43,7 @@ libqt5multimedia5-plugins
 libubuntu-location-service0
 lxc-android-config
 mediaplayer-app
+mediascanner
 messaging-app
 mobile-broadband-provider-info
 nano
@@ -80,6 +81,7 @@ ufw
 unity-lens-applications
 unity-scope-click
 unity-scope-home
+unity-scope-mediascanner
 unity8
 url-dispatcher
 webbrowser-app
