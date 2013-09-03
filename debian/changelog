@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.061) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added qtdeclarative5-u1db1.0 to touch
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Tue, 03 Sep 2013 19:54:10 -0400
+
 ubuntu-touch-meta (1.060) saucy; urgency=low
 
   * Refreshed dependencies
