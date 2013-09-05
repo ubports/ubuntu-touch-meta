@@ -25,6 +25,7 @@ friends-twitter
 gallery-app
 gir1.2-accounts-1.0
 gstreamer0.10-pulseaudio
+gstreamer1.0-plugins-good
 hud
 indicator-bluetooth
 indicator-datetime

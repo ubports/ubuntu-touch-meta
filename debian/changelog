@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.062) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added gstreamer1.0-plugins-good to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Thu, 05 Sep 2013 11:00:50 +0200
+
 ubuntu-touch-meta (1.061) saucy; urgency=low
 
   * Refreshed dependencies
