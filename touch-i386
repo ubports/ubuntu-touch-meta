@@ -29,7 +29,9 @@ friends-facebook
 friends-twitter
 gallery-app
 gir1.2-accounts-1.0
+gstreamer0.10-fluendo-mp3
 gstreamer0.10-pulseaudio
+gstreamer1.0-fluendo-mp3
 gstreamer1.0-plugins-good
 hud
 indicator-bluetooth
@@ -66,6 +68,7 @@ python3-gi
 python3-oauthlib
 python3-pkg-resources
 qtchooser
+qtdeclarative5-friends-plugin
 qtdeclarative5-u1db1.0
 qtdeclarative5-ubuntu-ui-toolkit-plugin
 qtorganizer5-eds

@@ -1,3 +1,13 @@
+ubuntu-touch-meta (1.063) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added gstreamer0.10-fluendo-mp3 to touch
+  * Added gstreamer1.0-fluendo-mp3 to touch
+  * Added qtdeclarative5-friends-plugin to touch
+  * Set debian/source/format to 3.0 (native).
+
+ -- Loïc Minier <loic.minier@ubuntu.com>  Fri, 06 Sep 2013 17:22:53 +0200
+
 ubuntu-touch-meta (1.062) saucy; urgency=low
 
   * Refreshed dependencies
