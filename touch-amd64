@@ -53,6 +53,7 @@ nano
 network-manager
 notes-app
 ofono-scripts
+openssh-server
 packagekit
 packagekit-plugin-click
 powerd
