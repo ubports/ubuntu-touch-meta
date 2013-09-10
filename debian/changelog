@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.064) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added qtdeclarative5-qtlocation-plugin to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Tue, 10 Sep 2013 17:34:15 +0200
+
 ubuntu-touch-meta (1.063) saucy; urgency=low
 
   * Refreshed dependencies
