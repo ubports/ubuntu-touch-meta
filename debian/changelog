@@ -1,3 +1,14 @@
+ubuntu-touch-meta (1.067) saucy; urgency=low
+
+  * Drop the phablet-team PPA
+  * Refreshed dependencies
+  * Removed demo-assets-music from touch [armhf i386]
+  * Removed demo-assets-scopes from touch [armhf i386]
+  * Removed demo-assets-shell from touch [armhf i386]
+  * Removed demo-assets-videos from touch [armhf i386]
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 11 Sep 2013 22:29:58 +0200
+
 ubuntu-touch-meta (1.066) saucy; urgency=low
 
   * Refreshed dependencies
