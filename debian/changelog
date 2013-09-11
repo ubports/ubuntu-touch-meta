@@ -1,3 +1,13 @@
+ubuntu-touch-meta (1.066) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added content-hub to touch
+  * Added qtcreator-plugin-ubuntu-cordova to sdk
+  * Added unity-webapps-qml to touch
+  * Removed webapps-demo from touch [armhf i386]
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 11 Sep 2013 20:42:14 +0200
+
 ubuntu-touch-meta (1.065) saucy; urgency=low
 
   * Refreshed dependencies

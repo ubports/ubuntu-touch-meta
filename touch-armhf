@@ -15,6 +15,7 @@ calendar-app
 camera-app
 click
 click-apparmor
+content-hub
 dbus-x11
 demo-assets-music
 demo-assets-scopes
@@ -103,9 +104,9 @@ unity-lens-applications
 unity-scope-click
 unity-scope-home
 unity-scope-mediascanner
+unity-webapps-qml
 unity8
 url-dispatcher
-webapps-demo
 webbrowser-app
 wget
 whoopsie
