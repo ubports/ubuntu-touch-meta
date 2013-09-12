@@ -45,6 +45,7 @@ libhybris-utils
 libmessaging-menu0
 libqt5multimedia5-plugins
 libubuntu-location-service0
+libunity-scopes-json-def-phone
 lxc-android-config
 mediaplayer-app
 mediascanner

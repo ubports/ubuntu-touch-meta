@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.068) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added libunity-scopes-json-def-phone to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Thu, 12 Sep 2013 20:20:10 +0200
+
 ubuntu-touch-meta (1.067) saucy; urgency=low
 
   * Drop the phablet-team PPA
