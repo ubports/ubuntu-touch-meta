@@ -1,0 +1,71 @@
+Task-Per-Derivative: 1
+Task-Section: user
+Task-Description: Ubuntu SDK
+Task-Extended-Description: This task provides the Ubuntu SDK.
+Task-Key: ubuntu-touch
+Task-Metapackage: ubuntu-sdk
+
+= Qt 5 APIs =
+
+ * libqt5qml-graphicaleffects
+ * libqt5sql5-sqlite
+ * libqt5svg5-dev
+ * libqt5v8-5-dev
+ * libqt5webkit5-dev
+ * libqt5xmlpatterns5-dev
+ * qt3d5-dev
+ * qtbase5-dev
+ * qtdeclarative5-dev
+ * qtdeclarative5-dev-tools
+ * qtlocation5-dev
+ * qtmultimedia5-dev
+ * qtscript5-dev
+ * qtsensors5-dev
+ * qttools5-dev
+ * qttools5-dev-tools
+
+ * (libqt5webkit5-qmlwebkitplugin)
+ * (qtdeclarative5-accounts-plugin)
+ * (qtdeclarative5-folderlistmodel-plugin)
+ * (qtdeclarative5-friends-plugin)
+ * (qtdeclarative5-localstorage-plugin)
+ * (qtdeclarative5-particles-plugin)
+ * (qtdeclarative5-qtaudioengine-plugin)
+ * (qtdeclarative5-qtmultimedia-plugin)
+ * (qtdeclarative5-qtquick2-plugin)
+ * (qtdeclarative5-qtsensors-plugin)
+ * (qtdeclarative5-window-plugin)
+ * (qtdeclarative5-xmllistmodel-plugin)
+
+ # forces Qt5 as the default; conflicts with Qt4 -- XXX should be a Recommends?
+ * qt5-default
+
+= Documentation =
+
+ * qtbase5-doc
+ * qtcreator-doc
+ * qtgraphicaleffects5-doc
+ * qtmultimedia5-doc
+ * qtscript5-doc
+ * qtsvg5-doc
+ * qttools5-doc
+
+= Ubuntu UI Toolkit =
+
+ * qtdeclarative5-ubuntu-ui-toolkit-plugin
+ * ubuntu-ui-toolkit-doc
+ * ubuntu-ui-toolkit-examples
+ * ubuntu-ui-toolkit-theme
+
+= HTML5 Toolkit =
+
+ * cordova-ubuntu-2.8
+ * ubuntu-html5-theme
+
+= Tools =
+
+ * qmlscene
+ * qtcreator
+ * qtcreator-plugin-ubuntu
+ * qtcreator-plugin-ubuntu-cordova
+

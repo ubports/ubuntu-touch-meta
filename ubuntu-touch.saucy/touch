@@ -1,0 +1,142 @@
+Task-Per-Derivative: 1
+Task-Section: user
+Task-Description: Ubuntu touch
+Task-Extended-Description: This task provides the Ubuntu touch environment.
+Task-Key: ubuntu-touch
+Task-Metapackage: ubuntu-touch
+
+== Core ==
+
+ * libhybris
+ * libhybris-test
+ * libhybris-utils
+ * isc-dhcp-client
+ * net-tools
+ * network-manager
+ * bluez
+ * ca-certificates
+ * alsa-base
+ * alsa-utils
+ * ttf-ubuntu-font-family
+ * fonts-freefont-ttf
+ * fonts-dejavu-extra
+ * dbus-x11
+ * ubuntu-touch-session
+ * powerd
+ * language-pack-en
+ * ubuntu-keyboard
+ * friends
+ * friends-facebook
+ * friends-twitter
+ * telepathy-gabble
+ * libmessaging-menu0
+ * signon-plugin-oauth2
+ * python3-gi
+ * python3-pkg-resources
+ * python3-oauthlib
+ * gir1.2-accounts-1.0
+ * account-plugin-tools
+ * account-plugin-twitter
+ * account-plugin-facebook
+ * ubuntu-mobile-icons
+ * software-properties-common
+ * mobile-broadband-provider-info
+ * system-image-cli
+ * click
+ * packagekit
+ * packagekit-plugin-click
+ * unity-scope-click
+ * click-apparmor
+ * ufw
+ * wget
+ * bluetooth-touch
+ * ubuntu-keyboard
+ * ubuntu-touch-customization-hooks
+ * pulseaudio
+ * pulseaudio-module-bluetooth
+ * rtkit
+ * gstreamer0.10-pulseaudio
+ * content-hub
+# 0.10 version needed with current QtMultimedia for music-app; 1.0 version
+# needed with current mediascanner
+ * gstreamer0.10-fluendo-mp3    # MP3 support
+ * gstreamer1.0-fluendo-mp3    # MP3 support
+ * gstreamer1.0-plugins-good
+ * libqt5multimedia5-plugins
+ * libubuntu-location-service0
+ * ubuntu-location-service-examples
+ * mediascanner
+ * qtdeclarative5-qtlocation-plugin
+
+== Shell ==
+
+ * unity8
+ * libunity-scopes-json-def-phone
+ * indicator-bluetooth
+ * indicator-datetime
+ * indicator-location
+ * indicator-messages
+ * indicator-network
+ * indicator-power
+ * indicator-sound
+ * unity-lens-applications
+ * unity-scope-home
+ * unity-scope-mediascanner
+ * url-dispatcher
+ * ofono-scripts
+
+== Apps ==
+
+ * hud
+ * qtubuntu-android
+ * qtchooser
+ * qtdeclarative5-ubuntu-ui-toolkit-plugin
+ * webbrowser-app
+ * camera-app
+ * gallery-app
+ * dialer-app
+ * messaging-app
+ * address-book-app
+ * mediaplayer-app
+ * notes-app
+ * share-app
+ * calendar-app
+ * ubuntu-calculator-app
+ * ubuntu-clock-app
+ * ubuntu-weather-app
+ * friends-app
+ * syncevolution
+ * ubuntu-terminal-app
+ * ubuntu-filemanager-app
+ * ubuntu-touch-settings
+ * ubuntu-system-settings
+ * ubuntu-system-settings-online-accounts
+ * music-app
+ * ubuntu-rssreader-app
+ * qtorganizer5-eds
+ * qtdeclarative5-u1db1.0
+ * qtdeclarative5-friends-plugin
+ * unity-webapps-qml
+
+== Debug ==
+
+ * nano
+ * wireless-tools
+ * openssh-server
+
+== Testing ==
+
+ * autopilot-touch
+
+== Container Related ==
+
+ * initramfs-tools-ubuntu-touch
+ * ubuntu-touch-generic-initrd [armhf]
+ * android-tools-adbd
+ * lxc-android-config
+
+== Error Reporting ==
+
+ * whoopsie
+ * apport
+ * apport-noui
