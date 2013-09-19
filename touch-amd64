@@ -1,6 +1,7 @@
 account-plugin-facebook
 account-plugin-tools
 account-plugin-twitter
+account-plugin-ubuntuone
 address-book-app
 alsa-base
 alsa-utils
@@ -45,6 +46,7 @@ libhybris-test
 libhybris-utils
 libmessaging-menu0
 libqt5multimedia5-plugins
+libqt5script5
 libubuntu-location-service0
 libunity-scopes-json-def-phone
 lxc-android-config
@@ -68,6 +70,7 @@ python3-oauthlib
 python3-pkg-resources
 qtchooser
 qtdeclarative5-friends-plugin
+qtdeclarative5-qtgrilo0.1
 qtdeclarative5-qtlocation-plugin
 qtdeclarative5-u1db1.0
 qtdeclarative5-ubuntu-ui-toolkit-plugin

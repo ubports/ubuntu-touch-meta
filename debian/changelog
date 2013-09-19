@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.072) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added account-plugin-ubuntuone to touch
+  * Added libqt5script5 to touch (LP: #1225749)
+  * Added qtdeclarative5-qtgrilo0.1 to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Thu, 19 Sep 2013 13:09:08 +0200
+
 ubuntu-touch-meta (1.071) saucy; urgency=low
 
   * Refreshed dependencies
