@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.073) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added click-update-manager to touch
+  * Removed qtdeclarative5-qtgrilo0.1 from touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Thu, 19 Sep 2013 19:31:28 +0200
+
 ubuntu-touch-meta (1.072) saucy; urgency=low
 
   * Refreshed dependencies

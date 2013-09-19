@@ -16,6 +16,7 @@ calendar-app
 camera-app
 click
 click-apparmor
+click-update-manager
 content-hub
 dbus-x11
 dialer-app
@@ -72,7 +73,6 @@ python3-oauthlib
 python3-pkg-resources
 qtchooser
 qtdeclarative5-friends-plugin
-qtdeclarative5-qtgrilo0.1
 qtdeclarative5-qtlocation-plugin
 qtdeclarative5-u1db1.0
 qtdeclarative5-ubuntu-ui-toolkit-plugin
