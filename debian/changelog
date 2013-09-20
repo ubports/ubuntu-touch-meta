@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.074) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added unity-scope-video-remote to touch
+
+ -- Loïc Minier <loic.minier@ubuntu.com>  Fri, 20 Sep 2013 16:55:09 +0200
+
 ubuntu-touch-meta (1.073) saucy; urgency=low
 
   * Refreshed dependencies
