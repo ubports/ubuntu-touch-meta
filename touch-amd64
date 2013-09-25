@@ -1,4 +1,5 @@
 account-plugin-facebook
+account-plugin-google
 account-plugin-tools
 account-plugin-twitter
 account-plugin-ubuntuone
@@ -71,6 +72,7 @@ python3-oauthlib
 python3-pkg-resources
 qtchooser
 qtdeclarative5-friends-plugin
+qtdeclarative5-poppler1.0
 qtdeclarative5-qtlocation-plugin
 qtdeclarative5-u1db1.0
 qtdeclarative5-ubuntu-ui-toolkit-plugin

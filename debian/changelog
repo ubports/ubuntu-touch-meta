@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.075) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added account-plugin-google to touch
+  * Added qtdeclarative5-poppler-qml-plugin to touch [armhf i386]
+  * Added qtdeclarative5-poppler1.0 to touch [amd64]
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 25 Sep 2013 19:28:06 +0200
+
 ubuntu-touch-meta (1.074) saucy; urgency=low
 
   * Refreshed dependencies
