@@ -49,7 +49,6 @@ libhybris-test
 libhybris-utils
 libmessaging-menu0
 libqt5multimedia5-plugins
-libqt5script5
 libubuntu-location-service0
 libunity-scopes-json-def-phone
 lxc-android-config
@@ -72,12 +71,6 @@ pulseaudio-module-bluetooth
 python3-gi
 python3-oauthlib
 python3-pkg-resources
-qtchooser
-qtdeclarative5-friends-plugin
-qtdeclarative5-poppler-qml-plugin
-qtdeclarative5-qtlocation-plugin
-qtdeclarative5-u1db1.0
-qtdeclarative5-ubuntu-ui-toolkit-plugin
 qtorganizer5-eds
 qtubuntu-android
 rtkit

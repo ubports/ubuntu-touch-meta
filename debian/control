@@ -7,18 +7,36 @@ Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 
 Package: ubuntu-sdk
 Architecture: amd64 armhf i386
-Depends: ${germinate:Depends}, ${misc:Depends}
+Depends: ubuntu-sdk-libs-dev, ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
 Description: Ubuntu SDK
  This package depends on all the packages of the Ubuntu SDK:
-  - Qt 5
+  - Runtime libraries
+  - Development headers
   - Qt Creator
-  - Qt Components for Ubuntu
   - Demos and examples
+
+Package: ubuntu-sdk-libs
+Architecture: amd64 armhf i386
+Multi-Arch: same
+Depends: ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: Ubuntu SDK Runtime libraries
+ This package depends on all the packages of the Ubuntu SDK:
+  - Runtime libraries
+
+Package: ubuntu-sdk-libs-dev
+Architecture: amd64 armhf i386
+Multi-Arch: same
+Depends: ubuntu-sdk-libs, ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: Ubuntu SDK
+ This package depends on all the packages of the Ubuntu SDK:
+  - Development headers
 
 Package: ubuntu-touch
 Architecture: amd64 armhf i386
-Depends: ${germinate:Depends}, ${misc:Depends}
+Depends: ubuntu-sdk-libs, ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
 Description: Ubuntu touch system
  This package depends on all of the packages in the Ubuntu touch system
