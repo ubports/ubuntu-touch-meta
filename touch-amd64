@@ -63,6 +63,7 @@ ofono-scripts
 openssh-server
 packagekit
 packagekit-plugin-click
+policykit-desktop-privileges
 powerd
 pulseaudio
 pulseaudio-module-bluetooth

@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.079) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added policykit-desktop-privileges to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 27 Sep 2013 12:16:17 +0200
+
 ubuntu-touch-meta (1.078) saucy; urgency=low
 
   * Fix seed_base to point at real seed.
