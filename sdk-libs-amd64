@@ -1,4 +1,5 @@
 cordova-ubuntu-2.8
+libqt5multimedia5-plugins
 libqt5qml-graphicaleffects
 libqt5script5
 libqt5sql5-sqlite
