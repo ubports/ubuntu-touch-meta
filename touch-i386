@@ -78,6 +78,7 @@ python3-pkg-resources
 qtdeclarative5-qtmultimedia-touch-plugin
 qtorganizer5-eds
 qtubuntu-android
+rssreader-app
 rtkit
 share-app
 signon-plugin-oauth2
@@ -92,7 +93,6 @@ ubuntu-filemanager-app
 ubuntu-keyboard
 ubuntu-location-service-examples
 ubuntu-mobile-icons
-ubuntu-rssreader-app
 ubuntu-system-settings
 ubuntu-system-settings-online-accounts
 ubuntu-terminal-app
