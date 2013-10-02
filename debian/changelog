@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.082) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added unity-scope-onlinemusic to touch
+
+ -- Didier Roche <didrocks@ubuntu.com>  Wed, 02 Oct 2013 17:22:36 +0200
+
 ubuntu-touch-meta (1.081) saucy; urgency=low
 
   * Refreshed dependencies
