@@ -41,7 +41,12 @@ indicator-network
 indicator-power
 indicator-sound
 initramfs-tools-ubuntu-touch
-language-pack-en
+language-pack-gnome-de-base
+language-pack-gnome-en-base
+language-pack-gnome-es-base
+language-pack-gnome-fr-base
+language-pack-gnome-pt-base
+language-pack-gnome-zh-hans-base
 libhybris
 libhybris-test
 libhybris-utils

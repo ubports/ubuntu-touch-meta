@@ -1,3 +1,16 @@
+ubuntu-touch-meta (1.083) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added language-pack-gnome-de-base to touch
+  * Added language-pack-gnome-en-base to touch
+  * Added language-pack-gnome-es-base to touch
+  * Added language-pack-gnome-fr-base to touch
+  * Added language-pack-gnome-pt-base to touch
+  * Added language-pack-gnome-zh-hans-base to touch
+  * Removed language-pack-en from touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 04 Oct 2013 20:11:42 +0200
+
 ubuntu-touch-meta (1.082) saucy; urgency=low
 
   * Refreshed dependencies
