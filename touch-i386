@@ -15,6 +15,7 @@ bluez
 ca-certificates
 calendar-app
 camera-app
+cameraplugin-aal
 click
 click-apparmor
 click-update-manager
@@ -57,6 +58,7 @@ libqgsttools-p1-touch
 libqt5multimedia5-touch
 libqt5multimedia5-touch-plugins
 libqt5multimediaquick-p5-touch
+libqtubuntu-media-signals1
 libubuntu-location-service0
 libunity-scopes-json-def-phone
 lxc-android-config
@@ -83,7 +85,7 @@ python3-pkg-resources
 qtdeclarative5-qtmultimedia-touch-plugin
 qtorganizer5-eds
 qtubuntu-android
-rssreader-app
+qtvideonode-plugin
 rtkit
 share-app
 signon-plugin-oauth2
@@ -92,8 +94,6 @@ syncevolution
 system-image-cli
 telepathy-gabble
 ttf-ubuntu-font-family
-ubuntu-calculator-app
-ubuntu-clock-app
 ubuntu-filemanager-app
 ubuntu-keyboard
 ubuntu-location-service-examples
@@ -104,7 +104,6 @@ ubuntu-terminal-app
 ubuntu-touch-customization-hooks
 ubuntu-touch-session
 ubuntu-touch-settings
-ubuntu-weather-app
 ufw
 unity-lens-applications
 unity-scope-click
@@ -114,6 +113,7 @@ unity-scope-onlinemusic
 unity-scope-video-remote
 unity-webapps-qml
 unity8
+upstart-app-launch-tools
 url-dispatcher
 webbrowser-app
 wget

@@ -1,3 +1,20 @@
+ubuntu-touch-meta (1.084) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added cameraplugin-aal to touch
+  * Added libqtubuntu-media-signals1 to touch
+  * Added qtdeclarative5-friends0.2 to sdk-libs
+  * Added qtdeclarative5-usermetrics0.1 to sdk-libs
+  * Added qtvideonode-plugin to touch
+  * Added upstart-app-launch-tools to touch
+  * Removed qtdeclarative5-friends-plugin from sdk-libs
+  * Removed rssreader-app from touch [armhf i386]
+  * Removed ubuntu-calculator-app from touch [armhf i386]
+  * Removed ubuntu-clock-app from touch [armhf i386]
+  * Removed ubuntu-weather-app from touch [armhf i386]
+
+ -- Loïc Minier <loic.minier@ubuntu.com>  Mon, 07 Oct 2013 19:55:21 +0200
+
 ubuntu-touch-meta (1.083) saucy; urgency=low
 
   * Refreshed dependencies
