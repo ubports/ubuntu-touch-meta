@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.085) saucy; urgency=low
+
+  * Add /usr/share/click/frameworks/ubuntu-sdk-13.10.framework to
+    ubuntu-sdk-libs.
+
+ -- Loïc Minier <loic.minier@ubuntu.com>  Mon, 07 Oct 2013 20:23:12 +0200
+
 ubuntu-touch-meta (1.084) saucy; urgency=low
 
   * Refreshed dependencies
