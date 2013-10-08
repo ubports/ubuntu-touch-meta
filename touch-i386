@@ -13,7 +13,6 @@ autopilot-touch
 bluetooth-touch
 bluez
 ca-certificates
-calendar-app
 camera-app
 cameraplugin-aal
 click
@@ -70,7 +69,6 @@ mtp-server
 music-app
 nano
 network-manager
-notes-app
 ofono-scripts
 openssh-server
 packagekit
