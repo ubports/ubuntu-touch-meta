@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.088) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Removed share-app from touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 11 Oct 2013 10:56:24 +0200
+
 ubuntu-touch-meta (1.087) saucy; urgency=low
 
   * Refreshed dependencies
