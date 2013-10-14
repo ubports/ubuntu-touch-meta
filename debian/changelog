@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.090) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Removed music-app from touch [armhf i386]
+  * Added ubuntu-touch-sounds to touch
+
+ -- Loïc Minier <lool@dooz.org>  Mon, 14 Oct 2013 18:44:26 +0200
+
 ubuntu-touch-meta (1.089) saucy; urgency=low
 
   * Refreshed dependencies
