@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.094) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-arphic-ukai to touch
+  * Added ubuntu-location-service-bin to touch
+  * Removed ubuntu-location-service-examples from touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Tue, 15 Oct 2013 19:05:44 +0200
+
 ubuntu-touch-meta (1.093) saucy; urgency=low
 
   * Refreshed dependencies

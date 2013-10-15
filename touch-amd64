@@ -21,6 +21,7 @@ click-update-manager
 content-hub
 dbus-x11
 dialer-app
+fonts-arphic-ukai
 fonts-dejavu-extra
 fonts-freefont-ttf
 friends
@@ -90,7 +91,7 @@ system-image-cli
 telepathy-gabble
 ttf-ubuntu-font-family
 ubuntu-keyboard
-ubuntu-location-service-examples
+ubuntu-location-service-bin
 ubuntu-mobile-icons
 ubuntu-system-settings
 ubuntu-system-settings-online-accounts
