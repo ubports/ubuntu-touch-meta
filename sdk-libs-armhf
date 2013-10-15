@@ -9,9 +9,10 @@ qtchooser
 qtdeclarative5-accounts-plugin
 qtdeclarative5-folderlistmodel-plugin
 qtdeclarative5-friends0.2
+qtdeclarative5-hud1.0
 qtdeclarative5-localstorage-plugin
 qtdeclarative5-particles-plugin
-qtdeclarative5-poppler-qml-plugin
+qtdeclarative5-poppler1.0
 qtdeclarative5-qtaudioengine-plugin
 qtdeclarative5-qtlocation-plugin
 qtdeclarative5-qtmultimedia-plugin
