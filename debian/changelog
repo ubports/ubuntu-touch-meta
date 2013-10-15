@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.093) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Removed qtdeclarative5-hud1.0 from sdk-libs; obsolete and dropping-letters
+    has been ported to new API.
+
+ -- Loïc Minier <loic.minier@ubuntu.com>  Tue, 15 Oct 2013 15:51:57 +0200
+
 ubuntu-touch-meta (1.092) saucy; urgency=low
 
   * Drop coreapps-drivers daily PPA; not used anymore, everything converted to
