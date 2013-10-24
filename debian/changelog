@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.096) trusty; urgency=low
+
+  * update.cfg: Switch to trusty.
+  * Refreshed dependencies
+  * Removed qtdeclarative5-qtaudioengine-plugin from sdk-libs
+
+ -- Michael Terry <mterry@ubuntu.com>  Thu, 24 Oct 2013 15:34:12 -0400
+
 ubuntu-touch-meta (1.095) saucy; urgency=low
 
   * Refreshed dependencies
