@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.097) trusty; urgency=low
+
+  * Refreshed dependencies
+  * Revert the last uplaod, this was neither discussed with any of teh touch
+    teams, nor did it have a landing plan entry or any test run.
+  * Added qtdeclarative5-qtaudioengine-plugin to sdk-libs
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 25 Oct 2013 11:25:05 +0200
+
 ubuntu-touch-meta (1.096) trusty; urgency=low
 
   * update.cfg: Switch to trusty.
