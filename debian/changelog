@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.099) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added qtdeclarative5-online-accounts-client0.1 to sdk-libs
+  * Added qtdeclarative5-ubuntu-content0.1 to sdk-libs
+  * Removed qtcreator-plugin-ubuntu-cordova from sdk
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Thu, 02 Jan 2014 16:52:14 -0500
+
 ubuntu-touch-meta (1.098) trusty; urgency=low
 
   * Refreshed dependencies
