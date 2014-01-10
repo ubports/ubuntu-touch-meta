@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.100) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added mir-test-tools to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 10 Jan 2014 18:46:49 +0100
+
 ubuntu-touch-meta (1.099) trusty; urgency=medium
 
   * Refreshed dependencies
