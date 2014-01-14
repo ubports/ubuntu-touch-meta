@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.102) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added account-plugin-evernote to touch
+
+ -- Didier Roche <didrocks@ubuntu.com>  Tue, 14 Jan 2014 15:22:02 +0100
+
 ubuntu-touch-meta (1.101) trusty; urgency=medium
 
   * Refreshed dependencies
