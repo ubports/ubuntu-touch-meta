@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.101) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added usensord to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Tue, 14 Jan 2014 14:21:10 +0100
+
 ubuntu-touch-meta (1.100) trusty; urgency=medium
 
   * Refreshed dependencies
