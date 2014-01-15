@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.103) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-html5-container to sdk-libs (LP: #1268699)
+  * Added ubuntu-html5-theme-examples to sdk-libs (LP: #1221919)
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 15 Jan 2014 12:24:46 +0100
+
 ubuntu-touch-meta (1.102) trusty; urgency=medium
 
   * Refreshed dependencies
