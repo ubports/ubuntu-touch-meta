@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.104) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added webapp-container to touch
+
+ -- Didier Roche <didrocks@ubuntu.com>  Mon, 20 Jan 2014 10:36:17 +0100
+
 ubuntu-touch-meta (1.103) trusty; urgency=medium
 
   * Refreshed dependencies
