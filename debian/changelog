@@ -1,3 +1,27 @@
+ubuntu-touch-meta (1.105) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-keyboard-arabic to touch
+  * Added ubuntu-keyboard-chinese-pinyin to touch
+  * Added ubuntu-keyboard-czech to touch
+  * Added ubuntu-keyboard-danish to touch
+  * Added ubuntu-keyboard-dutch to touch
+  * Added ubuntu-keyboard-english to touch
+  * Added ubuntu-keyboard-finnish to touch
+  * Added ubuntu-keyboard-french to touch
+  * Added ubuntu-keyboard-german to touch
+  * Added ubuntu-keyboard-hebrew to touch
+  * Added ubuntu-keyboard-hungarian to touch
+  * Added ubuntu-keyboard-italian to touch
+  * Added ubuntu-keyboard-polish to touch
+  * Added ubuntu-keyboard-portuguese to touch
+  * Added ubuntu-keyboard-russian to touch
+  * Added ubuntu-keyboard-spanish to touch
+  * Added ubuntu-keyboard-swedish to touch
+  * Removed ubuntu-keyboard from touch
+
+ -- Didier Roche <didrocks@ubuntu.com>  Wed, 22 Jan 2014 14:22:46 +0100
+
 ubuntu-touch-meta (1.104) trusty; urgency=medium
 
   * Refreshed dependencies
