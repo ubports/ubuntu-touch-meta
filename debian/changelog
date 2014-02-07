@@ -1,3 +1,13 @@
+ubuntu-touch-meta (1.106) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added cmake to sdk-libs-dev
+  * Added grilo-plugins-0.2-mediascanner to touch
+  * Added ubuntu-html5-theme-examples to sdk-libs-dev-recommends
+  * Removed ubuntu-html5-theme-examples from sdk-libs
+
+ -- Didier Roche <didrocks@ubuntu.com>  Fri, 07 Feb 2014 12:25:50 +0000
+
 ubuntu-touch-meta (1.105) trusty; urgency=medium
 
   * Refreshed dependencies
