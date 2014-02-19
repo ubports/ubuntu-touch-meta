@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.107) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Removed click-update-manager from touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 19 Feb 2014 19:10:11 +0100
+
 ubuntu-touch-meta (1.106) trusty; urgency=medium
 
   * Refreshed dependencies
