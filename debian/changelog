@@ -1,3 +1,16 @@
+ubuntu-touch-meta (1.109) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added gstreamer0.10-plugins-good to touch
+  * Added libexiv2-12 to touch
+  * Added libmediainfo0 to touch
+  * Added libtinyxml2-0.0.0 to touch
+  * Added libzen0 to touch
+  * Removed camera-app from touch
+  * Removed gallery-app from touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Sat, 22 Feb 2014 13:14:38 +0100
+
 ubuntu-touch-meta (1.108) trusty; urgency=medium
 
   * Refreshed dependencies
