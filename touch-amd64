@@ -18,6 +18,7 @@ camera-app
 cameraplugin-aal
 click
 click-apparmor
+click-update-manager
 content-hub
 dbus-x11
 dialer-app
