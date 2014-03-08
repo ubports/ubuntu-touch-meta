@@ -1,3 +1,13 @@
+ubuntu-touch-meta (1.110) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added gstreamer1.0-plugins-bad-faad to touch
+  * Added gstreamer1.0-plugins-bad-videoparsers to touch
+  * Removed dbus-x11 from touch
+  * Removed gstreamer1.0-plugins-bad from touch
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Sat, 08 Mar 2014 01:17:10 +0000
+
 ubuntu-touch-meta (1.109) trusty; urgency=medium
 
   * Refreshed dependencies

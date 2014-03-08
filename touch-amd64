@@ -19,7 +19,6 @@ click
 click-apparmor
 click-update-manager
 content-hub
-dbus-x11
 dialer-app
 fonts-arphic-ukai
 fonts-dejavu-extra
@@ -32,7 +31,8 @@ gir1.2-accounts-1.0
 grilo-plugins-0.2-mediascanner
 gstreamer0.10-plugins-good
 gstreamer1.0-fluendo-mp3
-gstreamer1.0-plugins-bad
+gstreamer1.0-plugins-bad-faad
+gstreamer1.0-plugins-bad-videoparsers
 gstreamer1.0-plugins-good
 gstreamer1.0-pulseaudio
 hud
