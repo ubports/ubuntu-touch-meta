@@ -57,6 +57,8 @@ libhybris-test
 libhybris-utils
 libmediainfo0
 libmessaging-menu0
+libmirclientplatform-android
+libmirplatformgraphics-android
 libqgsttools-p1-touch
 libqt5multimedia5-touch
 libqt5multimedia5-touch-plugins
@@ -71,6 +73,7 @@ mediaplayer-app
 mediascanner
 messaging-app
 mir-test-tools
+mir-utils
 mobile-broadband-provider-info
 mtp-server
 nano
