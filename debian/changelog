@@ -1,3 +1,9 @@
+ubuntu-touch-meta (1.112) trusty; urgency=medium
+
+  * Ship new ubuntu-sdk-14.04-dev framework
+
+ -- Didier Roche <didrocks@ubuntu.com>  Fri, 14 Mar 2014 15:32:09 +0100
+
 ubuntu-touch-meta (1.111) trusty; urgency=medium
 
   * Refreshed dependencies
