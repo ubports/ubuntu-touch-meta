@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.113) trusty; urgency=medium
+
+  * Rename ubuntu-sdk-14.04-dev framework to ubuntu-sdk-14.04-dev1, per
+    https://wiki.ubuntu.com/Click/Frameworks.
+  * Add appropriate Base-Name and Base-Version fields to all frameworks.
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri, 14 Mar 2014 14:56:03 +0000
+
 ubuntu-touch-meta (1.112) trusty; urgency=medium
 
   * Ship new ubuntu-sdk-14.04-dev framework
