@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.114) trusty; urgency=medium
+
+  * Removed libqt5v8-5-dev from sdk-libs-dev, no longer exists as
+    Qt 5.2 switched to its own v4 engine.
+
+ -- Dmitry Shachnev <mitya57@ubuntu.com>  Sat, 15 Mar 2014 12:19:53 +0400
+
 ubuntu-touch-meta (1.113) trusty; urgency=medium
 
   * Rename ubuntu-sdk-14.04-dev framework to ubuntu-sdk-14.04-dev1, per

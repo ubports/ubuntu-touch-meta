@@ -10,7 +10,6 @@ Task-Metapackage: ubuntu-sdk
  * libqt5qml-graphicaleffects
  * libqt5sql5-sqlite
  * libqt5svg5-dev
- * libqt5v8-5-dev
  * libqt5webkit5-dev
  * libqt5xmlpatterns5-dev
  * qt3d5-dev
