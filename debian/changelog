@@ -1,3 +1,15 @@
+ubuntu-touch-meta (1.115) trusty; urgency=medium
+
+  * Create ubuntu-sdk-14.04-qml-dev1, ubuntu-sdk-14.04-papi-dev1, and
+    ubuntu-sdk-14.04-html-dev1 frameworks, per
+    https://wiki.ubuntu.com/Click/Frameworks (reading it properly this
+    time).
+  * Refreshed dependencies
+  * Added suru-icon-theme to touch
+  * Removed ubuntu-mobile-icons from touch
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 17 Mar 2014 11:46:15 +0000
+
 ubuntu-touch-meta (1.114) trusty; urgency=medium
 
   * Removed libqt5v8-5-dev from sdk-libs-dev, no longer exists as

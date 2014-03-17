@@ -96,6 +96,7 @@ qtvideonode-plugin
 rtkit
 signon-plugin-oauth2
 software-properties-common
+suru-icon-theme
 syncevolution
 system-image-cli
 telepathy-gabble
@@ -118,7 +119,6 @@ ubuntu-keyboard-russian
 ubuntu-keyboard-spanish
 ubuntu-keyboard-swedish
 ubuntu-location-service-bin
-ubuntu-mobile-icons
 ubuntu-system-settings
 ubuntu-system-settings-online-accounts
 ubuntu-touch-customization-hooks
