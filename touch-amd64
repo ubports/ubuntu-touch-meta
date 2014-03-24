@@ -65,7 +65,6 @@ libqt5multimediaquick-p5-touch
 libqtubuntu-media-signals1
 libtinyxml2-0.0.0
 libubuntu-location-service0
-libunity-scopes-json-def-phone
 libzen0
 lxc-android-config
 mediaplayer-app
@@ -126,10 +125,8 @@ ubuntu-touch-settings
 ubuntu-touch-sounds
 ufw
 unity-scope-click
-unity-scope-home
-unity-scope-mediascanner
-unity-scope-onlinemusic
-unity-scope-video-remote
+unity-scope-mediascanner2
+unity-scope-scopes
 unity-webapps-qml
 unity8
 upstart-app-launch-tools

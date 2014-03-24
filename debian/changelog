@@ -1,3 +1,22 @@
+ubuntu-touch-meta (1.117) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Removed unity-scope-onlinemusic from touch
+
+ -- Didier Roche <didrocks@ubuntu.com>  Mon, 24 Mar 2014 12:53:00 +0100
+
+ubuntu-touch-meta (1.116) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added unity-scope-mediascanner2 to touch
+  * Added unity-scope-scopes to touch
+  * Removed libunity-scopes-json-def-phone from touch
+  * Removed unity-scope-home from touch
+  * Removed unity-scope-mediascanner from touch
+  * Removed unity-scope-video-remote from touch
+
+ -- Didier Roche <didrocks@ubuntu.com>  Mon, 24 Mar 2014 12:36:42 +0100
+
 ubuntu-touch-meta (1.115) trusty; urgency=medium
 
   * Create ubuntu-sdk-14.04-qml-dev1, ubuntu-sdk-14.04-papi-dev1, and
