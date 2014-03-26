@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.119) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added libunity-scopes-dev to sdk-libs-dev
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 26 Mar 2014 13:04:20 +0100
+
 ubuntu-touch-meta (1.118) trusty; urgency=medium
 
   * Refreshed dependencies
