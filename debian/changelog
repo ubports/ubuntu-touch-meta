@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.120) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added thumbnailer-service to touch
+
+ -- Mathieu Trudel-Lapierre <mathieu-tl@ubuntu.com>  Tue, 01 Apr 2014 16:53:30 -0400
+
 ubuntu-touch-meta (1.119) trusty; urgency=medium
 
   * Refreshed dependencies
