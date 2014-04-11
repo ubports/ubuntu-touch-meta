@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.124) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Removed ubuntu-push-client from touch
+
+ -- Didier Roche <didrocks@ubuntu.com>  Fri, 11 Apr 2014 17:51:58 +0200
+
 ubuntu-touch-meta (1.123) trusty; urgency=medium
 
   * Refreshed dependencies
