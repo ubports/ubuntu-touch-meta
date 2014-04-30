@@ -1,3 +1,18 @@
+ubuntu-touch-meta (1.127) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added media-hub to touch
+  * Added qtdeclarative5-ubuntu-download-manager0.1 to sdk-libs
+  * Added qtubuntu-media to touch
+  * Removed libqgsttools-p1-touch from touch
+  * Removed libqt5multimedia5-touch from touch
+  * Removed libqt5multimedia5-touch-plugins from touch
+  * Removed libqt5multimediaquick-p5-touch from touch
+  * Removed qtdeclarative5-qtmultimedia-touch-plugin from touch
+  * adjust update.cfg for utopic
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 30 Apr 2014 19:42:27 +0200
+
 ubuntu-touch-meta (1.126) trusty; urgency=medium
 
   * Refreshed dependencies

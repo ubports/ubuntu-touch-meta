@@ -57,15 +57,12 @@ libmediainfo0
 libmessaging-menu0
 libmirclientplatform-android
 libmirplatformgraphics-android
-libqgsttools-p1-touch
-libqt5multimedia5-touch
-libqt5multimedia5-touch-plugins
-libqt5multimediaquick-p5-touch
 libqtubuntu-media-signals1
 libtinyxml2-0.0.0
 libubuntu-location-service0
 libzen0
 lxc-android-config
+media-hub
 mediaplayer-app
 mediascanner
 messaging-app
@@ -87,9 +84,9 @@ pulseaudio-module-bluetooth
 python3-gi
 python3-oauthlib
 python3-pkg-resources
-qtdeclarative5-qtmultimedia-touch-plugin
 qtorganizer5-eds
 qtubuntu-android
+qtubuntu-media
 qtvideonode-plugin
 rtkit
 signon-plugin-oauth2
