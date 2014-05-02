@@ -19,6 +19,7 @@ click
 click-apparmor
 content-hub
 dialer-app
+fbset
 fonts-arphic-ukai
 fonts-dejavu-extra
 fonts-freefont-ttf
@@ -49,6 +50,7 @@ language-pack-gnome-es-base
 language-pack-gnome-fr-base
 language-pack-gnome-pt-base
 language-pack-gnome-zh-hans-base
+libautopilot-qt
 libexiv2-12
 libhybris
 libhybris-test
@@ -81,6 +83,10 @@ policykit-desktop-privileges
 powerd
 pulseaudio
 pulseaudio-module-bluetooth
+python-autopilot
+python-evdev
+python3-autopilot
+python3-evdev
 python3-gi
 python3-oauthlib
 python3-pkg-resources

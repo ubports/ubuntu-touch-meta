@@ -1,3 +1,15 @@
+ubuntu-touch-meta (1.128) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added fbset to touch
+  * Added libautopilot-qt to touch
+  * Added python-autopilot to touch
+  * Added python-evdev to touch
+  * Added python3-autopilot to touch
+  * Added python3-evdev to touch
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Fri, 02 May 2014 15:41:27 +0100
+
 ubuntu-touch-meta (1.127) utopic; urgency=medium
 
   * Refreshed dependencies
