@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.129) utopic; urgency=medium
+
+  * Add final 14.04 frameworks on top of the 14.04-dev1 ones (but keep the
+    -dev1 ones as we should be compatible); LP: #1310715.
+
+ -- Loïc Minier <loic.minier@ubuntu.com>  Tue, 06 May 2014 14:27:13 +0200
+
 ubuntu-touch-meta (1.128) utopic; urgency=medium
 
   * Refreshed dependencies
