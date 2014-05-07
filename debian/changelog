@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.130) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added qtdeclarative5-quicklayouts-plugin to sdk-libs
+  * Removed cordova-ubuntu-2.8 from sdk-libs
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 07 May 2014 19:32:13 +0200
+
 ubuntu-touch-meta (1.129) utopic; urgency=medium
 
   * Add final 14.04 frameworks on top of the 14.04-dev1 ones (but keep the
