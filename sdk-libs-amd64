@@ -3,6 +3,7 @@ libqt5qml-graphicaleffects
 libqt5script5
 libqt5sql5-sqlite
 libqt5webkit5-qmlwebkitplugin
+qml-module-qtmultimedia
 qmlscene
 qtchooser
 qtdeclarative5-accounts-plugin
@@ -13,7 +14,6 @@ qtdeclarative5-online-accounts-client0.1
 qtdeclarative5-particles-plugin
 qtdeclarative5-poppler1.0
 qtdeclarative5-qtlocation-plugin
-qtdeclarative5-qtmultimedia-plugin
 qtdeclarative5-qtorganizer-plugin
 qtdeclarative5-qtpositioning-plugin
 qtdeclarative5-qtquick2-plugin

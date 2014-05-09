@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.131) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added qml-module-qtmultimedia to sdk-libs
+  * Removed qtdeclarative5-qtmultimedia-plugin from sdk-libs
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Fri, 09 May 2014 13:34:53 -0300
+
 ubuntu-touch-meta (1.130) utopic; urgency=medium
 
   * Refreshed dependencies
