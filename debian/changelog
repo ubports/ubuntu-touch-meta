@@ -1,3 +1,20 @@
+ubuntu-touch-meta (1.132) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added libqt53d5-gles to touch [amd64 i386]
+  * Added libqt5gui5-gles to touch [amd64 i386]
+  * Added libqt5location5-gles to touch [amd64 i386]
+  * Added libqt5multimediawidgets5-gles to touch [amd64 i386]
+  * Added libqt5opengl5-gles to touch [amd64 i386]
+  * Added libqt5quick5-gles to touch [amd64 i386]
+  * Added libqt5quickparticles5-gles to touch [amd64 i386]
+  * Added qml-module-qtmultimedia-gles to touch [amd64 i386]
+  * Added qtdeclarative5-qtlocation-plugin-gles to touch [amd64 i386]
+  * Added qtdeclarative5-ubuntu-ui-toolkit-plugin-gles to touch [amd64
+    i386]
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Sat, 10 May 2014 16:06:46 -0300
+
 ubuntu-touch-meta (1.131) utopic; urgency=medium
 
   * Refreshed dependencies

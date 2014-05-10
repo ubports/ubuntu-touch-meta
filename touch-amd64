@@ -59,6 +59,13 @@ libmediainfo0
 libmessaging-menu0
 libmirclientplatform-android
 libmirplatformgraphics-android
+libqt53d5-gles
+libqt5gui5-gles
+libqt5location5-gles
+libqt5multimediawidgets5-gles
+libqt5opengl5-gles
+libqt5quick5-gles
+libqt5quickparticles5-gles
 libqtubuntu-media-signals1
 libtinyxml2-0.0.0
 libubuntu-location-service0
@@ -90,6 +97,9 @@ python3-evdev
 python3-gi
 python3-oauthlib
 python3-pkg-resources
+qml-module-qtmultimedia-gles
+qtdeclarative5-qtlocation-plugin-gles
+qtdeclarative5-ubuntu-ui-toolkit-plugin-gles
 qtorganizer5-eds
 qtubuntu-android
 qtubuntu-media
