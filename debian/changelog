@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.134) utopic; urgency=low
+
+  * Refreshed dependencies
+  * Added qtdeclarative5-ubuntu-mediascanner0.1 to sdk-libs
+  * Added qtdeclarative5-ubuntu-syncmonitor0.1 to sdk-libs
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 14 May 2014 18:37:11 +0200
+
 ubuntu-touch-meta (1.133) utopic; urgency=low
 
   * Refreshed dependencies
