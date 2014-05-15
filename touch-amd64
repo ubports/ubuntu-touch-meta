@@ -90,8 +90,6 @@ policykit-desktop-privileges
 powerd
 pulseaudio
 pulseaudio-module-bluetooth
-python-autopilot
-python-evdev
 python3-autopilot
 python3-evdev
 python3-gi
