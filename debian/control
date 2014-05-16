@@ -43,3 +43,13 @@ Description: Ubuntu touch system
  .
  It is safe to remove this package if some of the touch system packages are
  not desired.
+
+Package: ubuntu-desktop-next
+Architecture: any
+Depends: ubuntu-sdk-libs, ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: Ubuntu Desktop system - Unity 8 edition
+ This package depends on the Unity 8 desktop environment and the applications
+ designed to work well with it.
+ .
+ It is safe to remove this package if some of these packages are not desired.
