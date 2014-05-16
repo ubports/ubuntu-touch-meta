@@ -45,7 +45,7 @@ Description: Ubuntu touch system
  not desired.
 
 Package: ubuntu-desktop-next
-Architecture: any
+Architecture: amd64 armhf i386
 Depends: ubuntu-sdk-libs, ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
 Description: Ubuntu Desktop system - Unity 8 edition

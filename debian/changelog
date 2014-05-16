@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.137) utopic; urgency=medium
+
+  * Arch restrict ubuntu-desktop-next to the architectures the packages are
+    available for.
+
+ -- Iain Lane <iain.lane@canonical.com>  Fri, 16 May 2014 17:42:38 +0100
+
 ubuntu-touch-meta (1.136) utopic; urgency=medium
 
   * Add new ubuntu-desktop-next metapackage.
