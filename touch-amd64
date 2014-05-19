@@ -59,6 +59,7 @@ libmediainfo0
 libmessaging-menu0
 libmirclientplatform-android
 libmirplatformgraphics-android
+libplatform-api1-hybris-tests
 libqt53d5-gles
 libqt5gui5-gles
 libqt5location5-gles
