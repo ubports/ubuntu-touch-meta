@@ -1,3 +1,9 @@
+ubuntu-touch-meta (1.139) utopic; urgency=medium
+
+  * Add 14.10-dev1 frameworks; LP: #1316552.
+
+ -- Loïc Minier <loic.minier@ubuntu.com>  Wed, 21 May 2014 17:57:42 +0200
+
 ubuntu-touch-meta (1.138) utopic; urgency=medium
 
   * Refreshed dependencies
