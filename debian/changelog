@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.140) utopic; urgency=medium
+
+  * Update to reflect desktop-next being renamed to desktop in
+    ubuntu-touch.utopic.
+
+ -- Iain Lane <iain.lane@canonical.com>  Thu, 22 May 2014 16:29:13 +0100
+
 ubuntu-touch-meta (1.139) utopic; urgency=medium
 
   * Add 14.10-dev1 frameworks; LP: #1316552.

@@ -2,4 +2,4 @@ sdk ubuntu-sdk
 sdk-libs ubuntu-sdk-libs
 sdk-libs-dev ubuntu-sdk-libs-dev
 touch ubuntu-touch
-desktop-next ubuntu-desktop-next
+desktop ubuntu-desktop-next
