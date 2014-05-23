@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.141) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Removed libtinyxml2-0.0.0 from desktop, touch
+  * Added libtinyxml2-2 to desktop, touch
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Fri, 23 May 2014 01:48:19 -0600
+
 ubuntu-touch-meta (1.140) utopic; urgency=medium
 
   * Update to reflect desktop-next being renamed to desktop in
