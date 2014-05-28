@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.143) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added pay-service to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 28 May 2014 09:39:48 +0200
+
 ubuntu-touch-meta (1.142) utopic; urgency=medium
 
   * Refreshed dependencies
