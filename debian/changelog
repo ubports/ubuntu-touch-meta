@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.144) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added oxideqt-codecs-extra to sdk-libs
+  * Removed ofono-scripts from desktop
+  * Removed oxideqt-codecs-extra from desktop, touch
+
+ -- Iain Lane <iain.lane@canonical.com>  Wed, 28 May 2014 17:12:36 +0100
+
 ubuntu-touch-meta (1.143) utopic; urgency=medium
 
   * Refreshed dependencies

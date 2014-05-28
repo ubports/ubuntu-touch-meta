@@ -1,4 +1,0 @@
-include platform.saucy
-touch: minimal
-sdk:
-supported: touch

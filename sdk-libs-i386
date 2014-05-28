@@ -3,6 +3,7 @@ libqt5qml-graphicaleffects
 libqt5script5
 libqt5sql5-sqlite
 libqt5webkit5-qmlwebkitplugin
+oxideqt-codecs-extra
 qml-module-qtmultimedia
 qmlscene
 qtchooser
