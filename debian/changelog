@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.145) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-app-launch-tools to desktop, touch
+  * Removed upstart-app-launch-tools from desktop, touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 04 Jun 2014 11:27:34 +0200
+
 ubuntu-touch-meta (1.144) utopic; urgency=medium
 
   * Refreshed dependencies

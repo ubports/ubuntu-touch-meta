@@ -94,6 +94,7 @@ system-image-cli
 telepathy-gabble
 thumbnailer-service
 ttf-ubuntu-font-family
+ubuntu-app-launch-tools
 ubuntu-keyboard-arabic
 ubuntu-keyboard-chinese-pinyin
 ubuntu-keyboard-czech
@@ -126,7 +127,6 @@ unity-scope-scopes
 unity-webapps-qml
 unity8
 unity8-desktop-session-mir
-upstart-app-launch-tools
 url-dispatcher
 usensord
 webapp-container

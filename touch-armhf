@@ -105,6 +105,7 @@ system-image-cli
 telepathy-gabble
 thumbnailer-service
 ttf-ubuntu-font-family
+ubuntu-app-launch-tools
 ubuntu-keyboard-arabic
 ubuntu-keyboard-chinese-pinyin
 ubuntu-keyboard-czech
@@ -137,7 +138,6 @@ unity-scope-mediascanner2
 unity-scope-scopes
 unity-webapps-qml
 unity8
-upstart-app-launch-tools
 urfkill
 url-dispatcher
 usensord
