@@ -81,6 +81,7 @@ ofono-scripts
 openssh-server
 packagekit
 packagekit-plugin-click
+packagekit-tools
 pay-service
 policykit-desktop-privileges
 powerd
