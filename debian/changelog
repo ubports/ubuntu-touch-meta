@@ -1,3 +1,13 @@
+ubuntu-touch-meta (1.148) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added eventstat to touch
+  * Added forkstat to touch
+  * Added health-check to touch
+  * Added powerstat to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 11 Jun 2014 12:35:32 +0200
+
 ubuntu-touch-meta (1.147) utopic; urgency=medium
 
   * Refreshed dependencies

@@ -19,10 +19,12 @@ click
 click-apparmor
 content-hub
 dialer-app
+eventstat
 fbset
 fonts-arphic-ukai
 fonts-dejavu-extra
 fonts-freefont-ttf
+forkstat
 friends
 friends-app
 friends-facebook
@@ -36,6 +38,7 @@ gstreamer1.0-plugins-bad-faad
 gstreamer1.0-plugins-bad-videoparsers
 gstreamer1.0-plugins-good
 gstreamer1.0-pulseaudio
+health-check
 hud
 indicator-bluetooth
 indicator-datetime
@@ -92,6 +95,7 @@ packagekit-tools
 pay-service
 policykit-desktop-privileges
 powerd
+powerstat
 pulseaudio
 pulseaudio-module-bluetooth
 python3-autopilot
