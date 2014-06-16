@@ -1,3 +1,38 @@
+ubuntu-touch-meta (1.149) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added language-pack-touch-cs to touch
+  * Added language-pack-touch-de to touch
+  * Added language-pack-touch-el to touch
+  * Added language-pack-touch-en to touch
+  * Added language-pack-touch-es to touch
+  * Added language-pack-touch-fi to touch
+  * Added language-pack-touch-fr to touch
+  * Added language-pack-touch-gd to touch
+  * Added language-pack-touch-gl to touch
+  * Added language-pack-touch-hu to touch
+  * Added language-pack-touch-id to touch
+  * Added language-pack-touch-it to touch
+  * Added language-pack-touch-ja to touch
+  * Added language-pack-touch-lv to touch
+  * Added language-pack-touch-nb to touch
+  * Added language-pack-touch-pl to touch
+  * Added language-pack-touch-pt to touch
+  * Added language-pack-touch-ru to touch
+  * Added language-pack-touch-sl to touch
+  * Added language-pack-touch-sr to touch
+  * Added language-pack-touch-uk to touch
+  * Added language-pack-touch-zh-hans to touch
+  * Added language-pack-touch-zh-hant to touch
+  * Removed language-pack-gnome-de-base from touch
+  * Removed language-pack-gnome-en-base from touch
+  * Removed language-pack-gnome-es-base from touch
+  * Removed language-pack-gnome-fr-base from touch
+  * Removed language-pack-gnome-pt-base from touch
+  * Removed language-pack-gnome-zh-hans-base from touch
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 16 Jun 2014 12:41:53 +0200
+
 ubuntu-touch-meta (1.148) utopic; urgency=medium
 
   * Refreshed dependencies
