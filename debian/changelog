@@ -1,3 +1,21 @@
+ubuntu-touch-meta (1.151) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added language-pack-touch-bs to touch
+  * Added language-pack-touch-lt to touch
+  * Added language-pack-touch-ms to touch
+  * Added language-pack-touch-nl to touch
+  * Added language-pack-touch-oc to touch
+  * Added language-pack-touch-ro to touch
+  * Added language-pack-touch-sk to touch
+  * Added language-pack-touch-sv to touch
+  * Added language-pack-touch-tr to touch
+  * Added language-pack-touch-ug to touch
+  * Added libqt5sensors5-dev to sdk-libs-dev (LP: #1317885)
+  * Removed qtsensors5-dev from sdk-libs-dev
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Tue, 17 Jun 2014 13:45:33 +0200
+
 ubuntu-touch-meta (1.150) utopic; urgency=medium
 
   * Refreshed dependencies

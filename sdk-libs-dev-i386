@@ -1,4 +1,5 @@
 cmake
+libqt5sensors5-dev
 libqt5svg5-dev
 libqt5webkit5-dev
 libqt5xmlpatterns5-dev
@@ -11,6 +12,5 @@ qtdeclarative5-dev-tools
 qtlocation5-dev
 qtmultimedia5-dev
 qtscript5-dev
-qtsensors5-dev
 qttools5-dev
 qttools5-dev-tools
