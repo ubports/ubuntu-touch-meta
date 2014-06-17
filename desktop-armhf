@@ -69,7 +69,9 @@ nano
 network-manager
 notes-app
 openssh-server
+packagekit
 packagekit-plugin-click
+packagekit-tools
 policykit-desktop-privileges
 powerd
 pulseaudio

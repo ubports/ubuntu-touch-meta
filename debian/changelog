@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.153) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added packagekit to desktop
+  * Added packagekit-tools to desktop
+
+ -- Iain Lane <iain.lane@canonical.com>  Tue, 17 Jun 2014 17:58:25 +0100
+
 ubuntu-touch-meta (1.152) utopic; urgency=medium
 
   * Refreshed dependencies
