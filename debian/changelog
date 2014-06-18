@@ -1,3 +1,9 @@
+ubuntu-touch-meta (1.154) utopic; urgency=medium
+
+  * Add -dev2 frameworks to allow depending on qt 5.3.
+
+ -- Loïc Minier <loic.minier@ubuntu.com>  Wed, 18 Jun 2014 16:04:58 +0200
+
 ubuntu-touch-meta (1.153) utopic; urgency=medium
 
   * Refreshed dependencies
