@@ -1,3 +1,18 @@
+ubuntu-touch-meta (1.155) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added language-pack-touch-ast to touch
+  * Added language-pack-touch-bg to touch
+  * Added language-pack-touch-ca to touch
+  * Added language-pack-touch-da to touch
+  * Added language-pack-touch-eu to touch
+  * Added language-pack-touch-he to touch
+  * Added language-pack-touch-hi to touch
+  * Added language-pack-touch-ko to touch
+  * Added pulseaudio-utils to touch
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Fri, 20 Jun 2014 12:40:41 -0300
+
 ubuntu-touch-meta (1.154) utopic; urgency=medium
 
   * Add -dev2 frameworks to allow depending on qt 5.3.
