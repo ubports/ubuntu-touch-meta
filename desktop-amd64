@@ -28,7 +28,6 @@ friends-facebook
 friends-twitter
 gallery-app
 gir1.2-accounts-1.0
-grilo-plugins-0.2-mediascanner
 gstreamer0.10-plugins-good
 gstreamer1.0-fluendo-mp3
 gstreamer1.0-plugins-bad-faad
@@ -61,7 +60,6 @@ light-themes
 lightdm
 media-hub
 mediaplayer-app
-mediascanner
 messaging-app
 mobile-broadband-provider-info
 mtp-server
