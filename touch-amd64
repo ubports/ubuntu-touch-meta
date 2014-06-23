@@ -178,6 +178,7 @@ ubuntu-location-service-bin
 ubuntu-push-client
 ubuntu-system-settings
 ubuntu-system-settings-online-accounts
+ubuntu-system-settings-wizard
 ubuntu-touch-customization-hooks
 ubuntu-touch-session
 ubuntu-touch-settings
