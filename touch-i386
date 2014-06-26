@@ -130,6 +130,7 @@ powerd
 powerstat
 pulseaudio
 pulseaudio-module-bluetooth
+pulseaudio-module-droid
 pulseaudio-utils
 python3-autopilot
 python3-evdev

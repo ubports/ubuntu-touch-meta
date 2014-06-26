@@ -1,3 +1,13 @@
+ubuntu-touch-meta (1.158) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added libcontent-hub-dev to sdk-libs-dev
+  * Added libcontent-hub-doc to sdk
+  * Added libcontent-hub0 to sdk-libs
+  * Added pulseaudio-module-droid to touch
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Thu, 26 Jun 2014 15:11:57 -0300
+
 ubuntu-touch-meta (1.157) utopic; urgency=medium
 
   * Refreshed dependencies

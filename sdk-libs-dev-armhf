@@ -1,4 +1,5 @@
 cmake
+libcontent-hub-dev
 libqt5sensors5-dev
 libqt5svg5-dev
 libqt5webkit5-dev
