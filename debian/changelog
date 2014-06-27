@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.159) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added libqt5keychain0 to sdk-libs
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 27 Jun 2014 12:09:56 +0200
+
 ubuntu-touch-meta (1.158) utopic; urgency=medium
 
   * Refreshed dependencies
