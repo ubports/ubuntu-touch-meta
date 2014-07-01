@@ -18,6 +18,7 @@ cameraplugin-aal
 click
 click-apparmor
 content-hub
+dbus-property-service
 dialer-app
 eventstat
 fbset
