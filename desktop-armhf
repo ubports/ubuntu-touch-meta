@@ -134,7 +134,6 @@ unity8
 unity8-desktop-session-mir
 url-dispatcher
 usensord
-valgrind
 webapp-container
 webbrowser-app
 wget

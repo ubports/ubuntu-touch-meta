@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.163) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Removed valgrind from desktop, touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Mon, 07 Jul 2014 19:32:30 +0200
+
 ubuntu-touch-meta (1.162) utopic; urgency=medium
 
   * Refreshed dependencies
