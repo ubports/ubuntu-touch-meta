@@ -58,6 +58,8 @@ libubuntu-location-service1
 libzen0
 light-themes
 lightdm
+lsof
+ltrace
 media-hub
 mediaplayer-app
 messaging-app
@@ -87,10 +89,12 @@ qtvideonode-plugin
 rtkit
 signon-plugin-oauth2
 software-properties-common
+strace
 suru-icon-theme
 sync-monitor-uoa
 syncevolution
 system-image-cli
+tcptraceroute
 telepathy-gabble
 thumbnailer-service
 ttf-ubuntu-font-family
@@ -130,6 +134,7 @@ unity8
 unity8-desktop-session-mir
 url-dispatcher
 usensord
+valgrind
 webapp-container
 webbrowser-app
 wget

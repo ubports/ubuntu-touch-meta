@@ -1,3 +1,14 @@
+ubuntu-touch-meta (1.162) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added lsof to desktop, touch
+  * Added ltrace to desktop, touch
+  * Added strace to desktop, touch
+  * Added tcptraceroute to desktop, touch
+  * Added valgrind to desktop, touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Mon, 07 Jul 2014 15:43:25 +0200
+
 ubuntu-touch-meta (1.161) utopic; urgency=medium
 
   * Refreshed dependencies

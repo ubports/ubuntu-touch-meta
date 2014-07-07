@@ -109,6 +109,8 @@ libqtubuntu-media-signals1
 libtinyxml2-2
 libubuntu-location-service1
 libzen0
+lsof
+ltrace
 lxc-android-config
 media-hub
 mediaplayer-app
@@ -149,10 +151,12 @@ rtkit
 signon-plugin-oauth2
 smemstat
 software-properties-common
+strace
 suru-icon-theme
 sync-monitor-uoa
 syncevolution
 system-image-cli
+tcptraceroute
 telepathy-gabble
 thumbnailer-service
 ttf-ubuntu-font-family
@@ -193,6 +197,7 @@ unity8
 urfkill
 url-dispatcher
 usensord
+valgrind
 webapp-container
 webbrowser-app
 wget
