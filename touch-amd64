@@ -26,8 +26,6 @@ fonts-arphic-ukai
 fonts-dejavu-extra
 fonts-freefont-ttf
 forkstat
-friends
-friends-app
 friends-facebook
 friends-twitter
 gir1.2-accounts-1.0
@@ -140,6 +138,7 @@ python3-gi
 python3-oauthlib
 python3-pkg-resources
 qml-module-qtmultimedia-gles
+qtdeclarative5-friends0.2
 qtdeclarative5-qtlocation-plugin-gles
 qtdeclarative5-ubuntu-ui-toolkit-plugin-gles
 qtorganizer5-eds

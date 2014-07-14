@@ -26,8 +26,6 @@ fonts-arphic-ukai
 fonts-dejavu-extra
 fonts-freefont-ttf
 forkstat
-friends
-friends-app
 friends-facebook
 friends-twitter
 gir1.2-accounts-1.0
@@ -133,6 +131,7 @@ python3-evdev
 python3-gi
 python3-oauthlib
 python3-pkg-resources
+qtdeclarative5-friends0.2
 qtorganizer5-eds
 qtubuntu-android
 qtubuntu-media

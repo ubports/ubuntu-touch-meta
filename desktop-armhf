@@ -22,8 +22,6 @@ fbset
 fonts-arphic-ukai
 fonts-dejavu-extra
 fonts-freefont-ttf
-friends
-friends-app
 friends-facebook
 friends-twitter
 gallery-app
@@ -83,6 +81,7 @@ python3-evdev
 python3-gi
 python3-oauthlib
 python3-pkg-resources
+qtdeclarative5-friends0.2
 qtorganizer5-eds
 qtubuntu-media
 qtvideonode-plugin

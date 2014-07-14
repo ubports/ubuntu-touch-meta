@@ -1,3 +1,13 @@
+ubuntu-touch-meta (1.164) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added qtdeclarative5-friends0.2 to desktop, touch
+  * Removed friends from desktop, touch
+  * Removed friends-app from desktop, touch
+  * Removed qtdeclarative5-friends0.2 from sdk-libs
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 14 Jul 2014 09:53:18 -0700
+
 ubuntu-touch-meta (1.163) utopic; urgency=medium
 
   * Refreshed dependencies
