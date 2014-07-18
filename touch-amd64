@@ -95,6 +95,7 @@ libmediainfo0
 libmessaging-menu0
 libmirclientplatform-android
 libmirplatformgraphics-android
+libnss-extrausers
 libqt53d5-gles
 libqt5gui5-gles
 libqt5location5-gles

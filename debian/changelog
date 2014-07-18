@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.166) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added libnss-extrausers to touch
+
+ -- Michael Terry <mterry@ubuntu.com>  Fri, 18 Jul 2014 10:50:20 -0400
+
 ubuntu-touch-meta (1.165) utopic; urgency=medium
 
   * Add -dev3 framework for qml, which drops support for the friends API.
