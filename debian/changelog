@@ -1,3 +1,27 @@
+ubuntu-touch-meta (1.167) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added eventstat to desktop
+  * Added fonts-nanum to desktop, touch
+  * Added forkstat to desktop
+  * Added health-check to desktop
+  * Added indicator-transfer to touch
+  * Added libnss-extrausers to desktop
+  * Added mir-test-tools to desktop
+  * Added mir-utils to desktop
+  * Added nuntium to desktop
+  * Added ofono-scripts to desktop
+  * Added pay-service to desktop
+  * Added powerstat to desktop
+  * Added pulseaudio-utils to desktop
+  * Added qtdeclarative5-ubuntu-telephony-phonenumber0.1 to sdk-libs
+  * Added smemstat to desktop
+  * Added ubuntu-application-api2-examples to desktop
+  * Added ubuntu-touch-customization-hooks to desktop
+  * Added urfkill to desktop
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Tue, 22 Jul 2014 01:00:27 -0300
+
 ubuntu-touch-meta (1.166) utopic; urgency=medium
 
   * Refreshed dependencies

@@ -25,6 +25,7 @@ fbset
 fonts-arphic-ukai
 fonts-dejavu-extra
 fonts-freefont-ttf
+fonts-nanum
 forkstat
 friends-facebook
 friends-twitter
@@ -44,6 +45,7 @@ indicator-messages
 indicator-network
 indicator-power
 indicator-sound
+indicator-transfer
 initramfs-tools-ubuntu-touch
 language-pack-touch-ast
 language-pack-touch-bg
