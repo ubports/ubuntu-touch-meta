@@ -1,3 +1,17 @@
+ubuntu-touch-meta (1.168) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added qml-module-qtgraphicaleffects to sdk-libs
+  * Added qml-module-qtquick-layouts to sdk-libs
+  * Added qml-module-qtsensors to sdk-libs
+  * Added qml-module-qtwebkit to sdk-libs
+  * Removed libqt5qml-graphicaleffects from sdk-libs
+  * Removed libqt5webkit5-qmlwebkitplugin from sdk-libs
+  * Removed qtdeclarative5-qtsensors-plugin from sdk-libs
+  * Removed qtdeclarative5-quicklayouts-plugin from sdk-libs
+
+ -- Michael Vogt <mvo@ubuntu.com>  Tue, 22 Jul 2014 15:09:24 +0200
+
 ubuntu-touch-meta (1.167) utopic; urgency=medium
 
   * Refreshed dependencies
