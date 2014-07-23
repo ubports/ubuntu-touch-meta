@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.169) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Removed libubuntu-location-service1 from desktop, touch
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 23 Jul 2014 10:55:23 -0700
+
 ubuntu-touch-meta (1.168) utopic; urgency=medium
 
   * Refreshed dependencies
