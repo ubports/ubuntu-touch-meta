@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.172) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Removed libmirclientplatform-android from desktop
+  * Removed libmirplatformgraphics-android from desktop
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 28 Jul 2014 20:29:58 -0700
+
 ubuntu-touch-meta (1.171) utopic; urgency=medium
 
   * Refreshed dependencies
