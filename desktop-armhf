@@ -53,6 +53,8 @@ language-pack-gnome-zh-hans-base
 libautopilot-qt
 libmediainfo0
 libmessaging-menu0
+libmirclientplatform-android
+libmirplatformgraphics-android
 libnss-extrausers
 libqtubuntu-media-signals1
 libtinyxml2-2

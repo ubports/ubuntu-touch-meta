@@ -96,6 +96,8 @@ libhybris-utils
 libmediainfo0
 libmessaging-menu0
 libmirclientplatform-android
+libmirclientplatform-android
+libmirplatformgraphics-android
 libmirplatformgraphics-android
 libnss-extrausers
 libqt53d5-gles
