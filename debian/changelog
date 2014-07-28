@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.170) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added udisks2 to desktop, touch
+  * Removed libexiv2-12 from desktop, touch
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Mon, 28 Jul 2014 11:49:46 -0300
+
 ubuntu-touch-meta (1.169) utopic; urgency=medium
 
   * Refreshed dependencies

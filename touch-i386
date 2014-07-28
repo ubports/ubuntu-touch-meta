@@ -90,7 +90,6 @@ language-pack-touch-uk
 language-pack-touch-zh-hans
 language-pack-touch-zh-hant
 libautopilot-qt
-libexiv2-12
 libhybris
 libhybris-test
 libhybris-utils
@@ -189,6 +188,7 @@ ubuntu-touch-customization-hooks
 ubuntu-touch-session
 ubuntu-touch-settings
 ubuntu-touch-sounds
+udisks2
 ufw
 unity-scope-click
 unity-scope-mediascanner2
