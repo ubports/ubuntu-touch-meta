@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.174) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added account-polld to desktop, touch
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Tue, 29 Jul 2014 20:36:25 -0300
+
 ubuntu-touch-meta (1.173) utopic; urgency=medium
 
   [ Michal Sawicz ]
