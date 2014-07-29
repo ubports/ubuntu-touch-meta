@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.173) utopic; urgency=medium
+
+  [ Michal Sawicz ]
+  * Refreshed dependencies
+  * Added qtmir-android to touch
+
+ -- Robert Bruce Park <robert.park@canonical.com>  Tue, 29 Jul 2014 01:21:36 -0700
+
 ubuntu-touch-meta (1.172) utopic; urgency=medium
 
   * Refreshed dependencies
@@ -898,7 +906,7 @@ ubuntu-touch-meta (1.076) saucy; urgency=low
   Removed libqt5webkit5-qmlwebkitplugin from sdk-recommends
   Removed cordova-ubuntu-2.8 from sdk
   Removed ubuntu-html5-theme from sdk
-  
+
   = Moved to sdk-libs-dev Depends =
   Removed libqt5svg5-dev from sdk
   Removed libqt5v8-5-dev from sdk
@@ -1575,4 +1583,3 @@ ubuntu-touch-meta (1.001) raring; urgency=low
   * Initial release
 
  -- Oliver Grawert <ogra@ubuntu.com>  Tue, 19 Mar 2013 16:04:11 +0100
-
