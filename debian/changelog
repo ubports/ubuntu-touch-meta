@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.175) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Replace fonts-arphic-ukai with fonts-wqy-microhei on desktop, touch
+    (LP: #1346766)
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 01 Aug 2014 10:22:21 +0200
+
 ubuntu-touch-meta (1.174) utopic; urgency=medium
 
   * Refreshed dependencies
