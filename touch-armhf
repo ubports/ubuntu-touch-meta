@@ -11,6 +11,7 @@ alsa-utils
 android-tools-adbd
 apport
 apport-noui
+autopilot-qt5
 autopilot-touch
 bluetooth-touch
 bluez
@@ -90,7 +91,6 @@ language-pack-touch-ug
 language-pack-touch-uk
 language-pack-touch-zh-hans
 language-pack-touch-zh-hant
-libautopilot-qt
 libhybris
 libhybris-test
 libhybris-utils
@@ -136,6 +136,7 @@ python3-pkg-resources
 qtdeclarative5-friends0.2
 qtmir-android
 qtorganizer5-eds
+qttestability-autopilot
 qtubuntu-android
 qtubuntu-media
 qtvideonode-plugin
