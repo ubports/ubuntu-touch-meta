@@ -10,6 +10,7 @@ alsa-base
 alsa-utils
 apport
 apport-noui
+autopilot-qt5
 autopilot-touch
 bluetooth-touch
 bluez
@@ -51,7 +52,6 @@ language-pack-gnome-es-base
 language-pack-gnome-fr-base
 language-pack-gnome-pt-base
 language-pack-gnome-zh-hans-base
-libautopilot-qt
 libmediainfo0
 libmessaging-menu0
 libnss-extrausers
@@ -94,6 +94,7 @@ python3-oauthlib
 python3-pkg-resources
 qtdeclarative5-friends0.2
 qtorganizer5-eds
+qttestability-autopilot
 qtubuntu-media
 qtvideonode-plugin
 rtkit
