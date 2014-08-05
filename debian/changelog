@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.178) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added ciborium to desktop, touch
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Tue, 05 Aug 2014 22:09:32 -0300
+
 ubuntu-touch-meta (1.177) utopic; urgency=medium
 
   * Refreshed dependencies
