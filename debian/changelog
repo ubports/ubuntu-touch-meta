@@ -1,3 +1,15 @@
+ubuntu-touch-meta (1.179) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added account-plugin-flickr to touch
+  * Added qtdeclarative5-ubuntu-content0.1 to sdk-libs
+  * Removed qtdeclarative5-ubuntu-content1 from sdk-libs
+  * Refreshed dependencies
+  * Added qtdeclarative5-ubuntu-content1 to sdk-libs
+  * Removed qtdeclarative5-ubuntu-content0.1 from sdk-libs
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Wed, 13 Aug 2014 11:29:28 -0400
+
 ubuntu-touch-meta (1.178) utopic; urgency=medium
 
   * Refreshed dependencies
