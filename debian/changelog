@@ -1,3 +1,16 @@
+ubuntu-touch-meta (1.180) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added autopilot-desktop to sdk
+  * Added intltool to sdk
+  * Added phablet-tools to sdk
+  * Added qml-module-qt-labs-settings to sdk-libs
+  * Added qtdeclarative5-ubuntu-push-plugin to sdk-libs
+  * Added ubuntu-device-flash to sdk
+  * Added ubuntu-ui-toolkit-autopilot to sdk
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Tue, 19 Aug 2014 16:39:46 +0200
+
 ubuntu-touch-meta (1.179) utopic; urgency=medium
 
   * Refreshed dependencies
