@@ -19,7 +19,9 @@ camera-app
 ciborium
 click
 click-apparmor
+click-ubuntu-policy
 content-hub
+debsig-verify
 dmz-cursor-theme
 eventstat
 fbset

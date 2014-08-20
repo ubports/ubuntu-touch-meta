@@ -21,8 +21,10 @@ cameraplugin-aal
 ciborium
 click
 click-apparmor
+click-ubuntu-policy
 content-hub
 dbus-property-service
+debsig-verify
 dialer-app
 eventstat
 fbset

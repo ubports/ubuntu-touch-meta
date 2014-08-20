@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.181) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added click-ubuntu-policy to desktop, touch
+  * Added debsig-verify to desktop, touch
+
+ -- Michael Vogt <mvo@ubuntu.com>  Wed, 20 Aug 2014 13:40:57 +0200
+
 ubuntu-touch-meta (1.180) utopic; urgency=medium
 
   * Refreshed dependencies
