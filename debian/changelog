@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.183) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-location-provider-here to touch
+
+ -- Loïc Minier <loic.minier@ubuntu.com>  Wed, 03 Sep 2014 23:54:02 +0200
+
 ubuntu-touch-meta (1.182) utopic; urgency=medium
 
   * Refreshed dependencies
