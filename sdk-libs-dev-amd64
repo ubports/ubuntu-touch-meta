@@ -1,5 +1,11 @@
 cmake
+google-mock
+libboost1.55-dev
 libcontent-hub-dev
+libjsoncpp-dev
+libnet-cpp-dev
+libprocess-cpp-dev
+libproperties-cpp-dev
 libqt5sensors5-dev
 libqt5svg5-dev
 libqt5webkit5-dev

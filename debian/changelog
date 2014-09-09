@@ -1,3 +1,18 @@
+ubuntu-touch-meta (1.184) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added google-mock to sdk-libs-dev
+  * Added libboost1.55-dev to sdk-libs-dev
+  * Added libjsoncpp-dev to sdk-libs-dev
+  * Added libjsoncpp0 to sdk-libs
+  * Added libnet-cpp-dev to sdk-libs-dev
+  * Added libnet-cpp1 to sdk-libs
+  * Added libprocess-cpp-dev to sdk-libs-dev
+  * Added libprocess-cpp2 to sdk-libs
+  * Added libproperties-cpp-dev to sdk-libs-dev
+
+ -- Didier Roche <didrocks@ubuntu.com>  Tue, 09 Sep 2014 10:14:14 +0200
+
 ubuntu-touch-meta (1.183) utopic; urgency=medium
 
   * Refreshed dependencies
