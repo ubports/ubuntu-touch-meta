@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.185) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added python3 to sdk-libs-dev
+  * Added ubuntu-ui-toolkit-doc to sdk-libs-dev
+  * Removed ubuntu-ui-toolkit-doc from sdk
+
+ -- Michael Vogt <mvo@ubuntu.com>  Wed, 10 Sep 2014 17:04:37 +0200
+
 ubuntu-touch-meta (1.184) utopic; urgency=medium
 
   * Refreshed dependencies
