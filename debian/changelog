@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.186) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Removed fonts-dejavu-extra from touch
+  * Removed fonts-freefont-ttf from touch
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Fri, 19 Sep 2014 12:58:28 -0700
+
 ubuntu-touch-meta (1.185) utopic; urgency=medium
 
   * Refreshed dependencies
