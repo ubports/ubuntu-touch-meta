@@ -29,6 +29,7 @@ dialer-app
 eventstat
 fbset
 fonts-nanum
+fonts-takao-pgothic
 fonts-wqy-microhei
 forkstat
 friends-facebook
@@ -45,6 +46,7 @@ health-check
 hud
 indicator-bluetooth
 indicator-datetime
+indicator-display
 indicator-location
 indicator-messages
 indicator-network

@@ -29,6 +29,7 @@ dialer-app
 eventstat
 fbset
 fonts-nanum
+fonts-takao-pgothic
 fonts-wqy-microhei
 forkstat
 friends-facebook
@@ -45,6 +46,7 @@ health-check
 hud
 indicator-bluetooth
 indicator-datetime
+indicator-display
 indicator-location
 indicator-messages
 indicator-network
@@ -102,11 +104,9 @@ libmirclientplatform-android
 libmirplatformgraphics-android
 libnss-extrausers
 libqt53d5-gles
-libqt5gui5-gles
 libqt5location5-gles
 libqt5multimediawidgets5-gles
 libqt5opengl5-gles
-libqt5quick5-gles
 libqt5quickparticles5-gles
 libqtubuntu-media-signals1
 libtinyxml2-2

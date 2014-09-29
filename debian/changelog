@@ -1,3 +1,17 @@
+ubuntu-touch-meta (1.188) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added fonts-takao-pgothic to desktop, touch
+  * Added indicator-display to touch
+  * Added libqt5gui5-gles to sdk-libs [amd64 i386]
+  * Added libqt5quick5-gles to sdk-libs [amd64 i386]
+  * Removed libqt5gui5 from sdk-libs [amd64 i386]
+  * Removed libqt5gui5-gles from touch [amd64 i386]
+  * Removed libqt5quick5 from sdk-libs [amd64 i386]
+  * Removed libqt5quick5-gles from touch [amd64 i386]
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Mon, 29 Sep 2014 14:20:05 +0200
+
 ubuntu-touch-meta (1.187) utopic; urgency=medium
 
   * Refreshed dependencies
