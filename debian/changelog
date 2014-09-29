@@ -1,3 +1,19 @@
+ubuntu-touch-meta (1.189) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added libqt5gui5-gles to touch [amd64 i386]
+  * Added libqt5quick5-gles to touch [amd64 i386]
+  * Removed libqt5core5a from sdk-libs
+  * Removed libqt5gui5 from sdk-libs [armhf]
+  * Removed libqt5gui5-gles from sdk-libs [amd64 i386]
+  * Removed libqt5qml5 from sdk-libs
+  * Removed libqt5quick5 from sdk-libs [armhf]
+  * Removed libqt5quick5-gles from sdk-libs [amd64 i386]
+  * Removed libqt5sql5 from sdk-libs
+  * Removed libqt5widgets5 from sdk-libs
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Mon, 29 Sep 2014 16:55:40 +0200
+
 ubuntu-touch-meta (1.188) utopic; urgency=medium
 
   * Refreshed dependencies

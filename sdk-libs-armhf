@@ -2,16 +2,10 @@ libcontent-hub0
 libjsoncpp0
 libnet-cpp1
 libprocess-cpp2
-libqt5core5a
-libqt5gui5
 libqt5keychain0
 libqt5multimedia5-plugins
-libqt5qml5
-libqt5quick5
 libqt5script5
-libqt5sql5
 libqt5sql5-sqlite
-libqt5widgets5
 oxideqt-codecs-extra
 qml-module-qt-labs-settings
 qml-module-qtgraphicaleffects
