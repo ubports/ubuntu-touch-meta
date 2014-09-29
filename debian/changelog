@@ -1,3 +1,16 @@
+ubuntu-touch-meta (1.187) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added libqt5core5a to sdk-libs
+  * Added libqt5gui5 to sdk-libs
+  * Added libqt5qml5 to sdk-libs
+  * Added libqt5quick5 to sdk-libs
+  * Added libqt5sql5 to sdk-libs
+  * Added libqt5widgets5 to sdk-libs
+  * Added signon-apparmor-extension to desktop, touch
+
+ -- Michael Vogt <mvo@ubuntu.com>  Mon, 29 Sep 2014 08:59:17 +0200
+
 ubuntu-touch-meta (1.186) utopic; urgency=medium
 
   * Refreshed dependencies
