@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.190) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added cmake-extras to sdk-libs-dev
+  * Removed signon-apparmor-extension from desktop, touch
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Fri, 03 Oct 2014 15:26:18 -0300
+
 ubuntu-touch-meta (1.189) utopic; urgency=medium
 
   * Refreshed dependencies

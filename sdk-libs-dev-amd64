@@ -1,4 +1,5 @@
 cmake
+cmake-extras
 google-mock
 libboost1.55-dev
 libcontent-hub-dev
