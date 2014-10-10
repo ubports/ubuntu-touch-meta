@@ -1,3 +1,13 @@
+ubuntu-touch-meta (1.191) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added libmirclient8driver-android to touch
+  * Added libmirplatform3driver-android to touch
+  * Removed libmirclientplatform-android from touch
+  * Removed libmirplatformgraphics-android from touch
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri, 10 Oct 2014 22:28:09 +0100
+
 ubuntu-touch-meta (1.190) utopic; urgency=medium
 
   * Refreshed dependencies

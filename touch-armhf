@@ -100,8 +100,8 @@ libhybris-test
 libhybris-utils
 libmediainfo0
 libmessaging-menu0
-libmirclientplatform-android
-libmirplatformgraphics-android
+libmirclient8driver-android
+libmirplatform3driver-android
 libnss-extrausers
 libqtubuntu-media-signals1
 libtinyxml2-2
