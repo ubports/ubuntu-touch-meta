@@ -1,3 +1,14 @@
+ubuntu-touch-meta (1.194) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Removed autopilot-qt5 from desktop, touch
+  * Removed autopilot-touch from desktop, touch
+  * Removed python3-autopilot from desktop, touch
+  * Removed python3-evdev from desktop, touch
+  * Removed qttestability-autopilot from desktop, touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Tue, 21 Oct 2014 17:42:55 +0200
+
 ubuntu-touch-meta (1.193) utopic; urgency=medium
 
   * Add final 14.10 framework names.

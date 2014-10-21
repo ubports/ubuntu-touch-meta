@@ -11,8 +11,6 @@ alsa-utils
 android-tools-adbd
 apport
 apport-noui
-autopilot-qt5
-autopilot-touch
 bluetooth-touch
 bluez
 ca-certificates
@@ -131,15 +129,12 @@ pulseaudio
 pulseaudio-module-bluetooth
 pulseaudio-module-droid
 pulseaudio-utils
-python3-autopilot
-python3-evdev
 python3-gi
 python3-oauthlib
 python3-pkg-resources
 qtdeclarative5-friends0.2
 qtmir-android
 qtorganizer5-eds
-qttestability-autopilot
 qtubuntu-android
 qtubuntu-media
 qtvideonode-plugin
