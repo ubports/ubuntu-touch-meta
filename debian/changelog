@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.195) vivid; urgency=medium
+
+  * adjust update.cfg for vivid
+  * Refreshed dependencies
+  * Added gir1.2-ubuntu-app-launch-2 to desktop, touch
+  * Removed language-pack-touch-hi from touch
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 05 Nov 2014 08:33:45 +0100
+
 ubuntu-touch-meta (1.194) utopic; urgency=medium
 
   * Refreshed dependencies

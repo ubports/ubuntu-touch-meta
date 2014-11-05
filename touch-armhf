@@ -32,6 +32,7 @@ forkstat
 friends-facebook
 friends-twitter
 gir1.2-accounts-1.0
+gir1.2-ubuntu-app-launch-2
 gstreamer0.10-plugins-good
 gstreamer1.0-fluendo-mp3
 gstreamer1.0-hybris
@@ -67,7 +68,6 @@ language-pack-touch-fr
 language-pack-touch-gd
 language-pack-touch-gl
 language-pack-touch-he
-language-pack-touch-hi
 language-pack-touch-hu
 language-pack-touch-id
 language-pack-touch-it
