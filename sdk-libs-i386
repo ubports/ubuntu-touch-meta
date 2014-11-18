@@ -9,7 +9,9 @@ libqt5sql5-sqlite
 oxideqt-codecs-extra
 qml-module-qt-labs-settings
 qml-module-qtgraphicaleffects
+qml-module-qtlocation
 qml-module-qtmultimedia
+qml-module-qtpositioning
 qml-module-qtquick-layouts
 qml-module-qtsensors
 qml-module-qtwebkit
@@ -21,9 +23,7 @@ qtdeclarative5-localstorage-plugin
 qtdeclarative5-online-accounts-client0.1
 qtdeclarative5-particles-plugin
 qtdeclarative5-poppler1.0
-qtdeclarative5-qtlocation-plugin
 qtdeclarative5-qtorganizer-plugin
-qtdeclarative5-qtpositioning-plugin
 qtdeclarative5-qtquick2-plugin
 qtdeclarative5-u1db1.0
 qtdeclarative5-ubuntu-content1

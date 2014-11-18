@@ -1,3 +1,16 @@
+ubuntu-touch-meta (1.197) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added intltool to sdk-libs-dev
+  * Added signon-apparmor-extension to desktop, touch
+  * Removed intltool from sdk
+  * Added qml-module-qtlocation to sdk-libs
+  * Added qml-module-qtpositioning to sdk-libs
+  * Removed qtdeclarative5-qtlocation-plugin from sdk-libs
+  * Removed qtdeclarative5-qtpositioning-plugin from sdk-libs
+
+ -- Michael Vogt <mvo@ubuntu.com>  Tue, 18 Nov 2014 08:57:05 +0100
+
 ubuntu-touch-meta (1.195) vivid; urgency=medium
 
   * adjust update.cfg for vivid

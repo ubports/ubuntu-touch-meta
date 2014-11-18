@@ -1,6 +1,7 @@
 cmake
 cmake-extras
 google-mock
+intltool
 libboost1.55-dev
 libcontent-hub-dev
 libjsoncpp-dev
