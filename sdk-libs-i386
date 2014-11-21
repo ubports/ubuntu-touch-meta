@@ -15,9 +15,9 @@ qml-module-qtpositioning
 qml-module-qtquick-layouts
 qml-module-qtsensors
 qml-module-qtwebkit
+qml-module-ubuntu-onlineaccounts
 qmlscene
 qtchooser
-qtdeclarative5-accounts-plugin
 qtdeclarative5-folderlistmodel-plugin
 qtdeclarative5-localstorage-plugin
 qtdeclarative5-online-accounts-client0.1
