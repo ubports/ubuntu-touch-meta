@@ -97,8 +97,6 @@ libhybris-test
 libhybris-utils
 libmediainfo0
 libmessaging-menu0
-libmirclient8driver-android
-libmirplatform3driver-android
 libnss-extrausers
 libqtubuntu-media-signals1
 libtinyxml2-2
@@ -109,6 +107,7 @@ lxc-android-config
 media-hub
 mediaplayer-app
 messaging-app
+mir-graphics-drivers-android
 mir-test-tools
 mir-utils
 mobile-broadband-provider-info

@@ -1,3 +1,13 @@
+ubuntu-touch-meta (1.200) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Removed libmirclient8driver-android from touch
+  * Removed libmirplatform3driver-android from touch
+  * Added mir-graphics-drivers-desktop to desktop
+  * Added mir-graphics-drivers-android to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 26 Nov 2014 15:44:36 +0100
+
 ubuntu-touch-meta (1.199) vivid; urgency=medium
 
   * Refreshed dependencies
