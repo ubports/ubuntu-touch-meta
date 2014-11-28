@@ -6,6 +6,7 @@ libqt5keychain0
 libqt5multimedia5-plugins
 libqt5script5
 libqt5sql5-sqlite
+oxideqt-codecs-extra
 qml-module-qt-labs-settings
 qml-module-qtgraphicaleffects
 qml-module-qtlocation

@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.201) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Moved oxideqt-codecs-extra to sdk-libs (LP: #1395862)
+
+ -- Michael Vogt <mvo@ubuntu.com>  Fri, 28 Nov 2014 09:25:48 +0100
+
 ubuntu-touch-meta (1.200) vivid; urgency=medium
 
   * Refreshed dependencies
