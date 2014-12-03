@@ -1,7 +1,4 @@
-cmake
-cmake-extras
 google-mock
-intltool
 libboost1.55-dev
 libcontent-hub-dev
 libjsoncpp-dev
@@ -13,7 +10,6 @@ libqt5svg5-dev
 libqt5webkit5-dev
 libqt5xmlpatterns5-dev
 libunity-scopes-dev
-python3
 qt3d5-dev
 qt5-default
 qtbase5-dev
@@ -23,5 +19,4 @@ qtlocation5-dev
 qtmultimedia5-dev
 qtscript5-dev
 qttools5-dev
-qttools5-dev-tools
 ubuntu-ui-toolkit-doc

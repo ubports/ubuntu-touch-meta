@@ -34,6 +34,14 @@ Description: Ubuntu SDK
  This package depends on all the packages of the Ubuntu SDK:
   - Development headers
 
+Package: ubuntu-sdk-libs-tools
+Architecture: amd64 armhf i386
+Depends: ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: Ubuntu SDK Build Tools
+ This package depends on all the packages of the Ubuntu SDK:
+  - Build tools
+
 Package: ubuntu-touch
 Architecture: amd64 armhf i386
 Depends: ubuntu-sdk-libs, ${germinate:Depends}, ${misc:Depends}

@@ -1,3 +1,17 @@
+ubuntu-touch-meta (1.202) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added intltool to sdk
+  * Added upstart-watchdog to touch
+  * Removed cmake from sdk-libs-dev
+  * Removed cmake-extras from sdk-libs-dev
+  * Removed intltool from sdk-libs-dev
+  * Removed python3 from sdk-libs-dev
+  * Removed qttools5-dev-tools from sdk-libs-dev
+  * add new ubuntu-sdk-libs-tools package
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Wed, 03 Dec 2014 11:45:49 +0100
+
 ubuntu-touch-meta (1.201) vivid; urgency=medium
 
   * Refreshed dependencies

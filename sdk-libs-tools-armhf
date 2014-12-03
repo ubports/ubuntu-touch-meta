@@ -1,0 +1,5 @@
+cmake
+cmake-extras
+intltool
+python3
+qttools5-dev-tools
