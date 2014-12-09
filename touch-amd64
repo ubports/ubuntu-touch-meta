@@ -121,6 +121,8 @@ mtp-server
 nano
 network-manager
 nuntium
+obexd-client
+obexd-server
 ofono-scripts
 openssh-server
 packagekit

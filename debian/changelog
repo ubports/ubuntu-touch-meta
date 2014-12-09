@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.204) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added obexd-client to touch
+  * Added obexd-server to touch
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Tue, 09 Dec 2014 23:52:13 -0200
+
 ubuntu-touch-meta (1.203) vivid; urgency=medium
 
   * Refreshed dependencies
