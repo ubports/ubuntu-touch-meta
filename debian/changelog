@@ -1,3 +1,14 @@
+ubuntu-touch-meta (1.205) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-keyboard-azerbaijani to touch
+  * Added ubuntu-keyboard-bosnian to touch
+  * Added ubuntu-keyboard-catalan to touch
+  * Added ubuntu-keyboard-croatian to touch
+  * Added ubuntu-keyboard-emoji to touch
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Thu, 11 Dec 2014 21:05:36 -0200
+
 ubuntu-touch-meta (1.204) vivid; urgency=medium
 
   * Refreshed dependencies
