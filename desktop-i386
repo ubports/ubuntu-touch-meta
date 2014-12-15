@@ -35,6 +35,7 @@ gallery-app
 gir1.2-accounts-1.0
 gir1.2-ubuntu-app-launch-2
 gstreamer0.10-plugins-good
+gstreamer0.10-pulseaudio
 gstreamer1.0-fluendo-mp3
 gstreamer1.0-plugins-bad-faad
 gstreamer1.0-plugins-bad-videoparsers
