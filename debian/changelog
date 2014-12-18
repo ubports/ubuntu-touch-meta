@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.207) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added oxideqt-codecs-extra to touch
+  * Removed oxideqt-codecs-extra from sdk-libs (LP: #1399597)
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 18 Dec 2014 10:57:34 +0000
+
 ubuntu-touch-meta (1.206) vivid; urgency=medium
 
   * Refreshed dependencies

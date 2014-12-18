@@ -120,6 +120,7 @@ obexd-client
 obexd-server
 ofono-scripts
 openssh-server
+oxideqt-codecs-extra
 packagekit
 packagekit-plugin-click
 packagekit-tools
