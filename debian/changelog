@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.208) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added qt5-qmake-arm-linux-gnueabihf to sdk-libs-tools [amd64 i386]
+  * Added ubuntu-sdk-qmake-extras to sdk-libs-tools
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Mon, 26 Jan 2015 10:35:43 +0100
+
 ubuntu-touch-meta (1.207) vivid; urgency=medium
 
   * Refreshed dependencies
