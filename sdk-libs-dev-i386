@@ -19,4 +19,5 @@ qtlocation5-dev
 qtmultimedia5-dev
 qtscript5-dev
 qttools5-dev
+ubuntu-sdk-qmake-extras
 ubuntu-ui-toolkit-doc
