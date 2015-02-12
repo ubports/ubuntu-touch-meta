@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.210) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added qtdeclarative5-ubuntu-ui-extras0.2 to touch
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Thu, 12 Feb 2015 23:35:41 -0200
+
 ubuntu-touch-meta (1.209) vivid; urgency=medium
 
   * Refreshed dependencies
