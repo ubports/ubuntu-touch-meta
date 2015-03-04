@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.212) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added fonts-lohit-deva to desktop, touch (LP: #1378184)
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 04 Mar 2015 15:08:30 +0100
+
 ubuntu-touch-meta (1.211) vivid; urgency=medium
 
   * Refreshed dependencies
