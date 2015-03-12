@@ -8,6 +8,7 @@ libproperties-cpp-dev
 libqt5sensors5-dev
 libqt5svg5-dev
 libqt5webkit5-dev
+libqt5websockets5-dev
 libqt5xmlpatterns5-dev
 libunity-scopes-dev
 qt3d5-dev
