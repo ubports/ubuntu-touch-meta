@@ -1,6 +1,7 @@
 libcontent-hub0
 libjsoncpp0
 libnet-cpp1
+liboxideqt-qmlplugin
 libprocess-cpp2
 libqt5keychain0
 libqt5multimedia5-plugins
@@ -14,7 +15,6 @@ qml-module-qtmultimedia
 qml-module-qtpositioning
 qml-module-qtquick-layouts
 qml-module-qtsensors
-qml-module-qtwebkit
 qml-module-ubuntu-onlineaccounts
 qmlscene
 qtchooser

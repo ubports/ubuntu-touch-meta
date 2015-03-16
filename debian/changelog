@@ -1,3 +1,13 @@
+ubuntu-touch-meta (1.216) vivid; urgency=medium
+
+  [ Timo Jyrinki ]
+  * Refreshed dependencies
+  * Added liboxideqt-qmlplugin to sdk-libs
+  * Removed libqt5webkit5-dev from sdk-libs-dev (LP: #1362640)
+  * Removed qml-module-qtwebkit from sdk-libs
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Mon, 16 Mar 2015 10:11:26 +0100
+
 ubuntu-touch-meta (1.215) vivid; urgency=medium
 
   * Refreshed dependencies
