@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.217) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added upstart-sysv to touch
+  * Removed upstart from touch
+
+ -- Didier Roche <didrocks@ubuntu.com>  Mon, 23 Mar 2015 20:47:24 +0100
+
 ubuntu-touch-meta (1.216) vivid; urgency=medium
 
   [ Timo Jyrinki ]

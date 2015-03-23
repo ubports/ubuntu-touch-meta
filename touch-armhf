@@ -199,7 +199,7 @@ unity-scope-mediascanner2
 unity-scope-scopes
 unity-webapps-qml
 unity8
-upstart
+upstart-sysv
 upstart-watchdog
 urfkill
 url-dispatcher
