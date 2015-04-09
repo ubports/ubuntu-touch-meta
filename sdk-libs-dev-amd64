@@ -9,6 +9,7 @@ libqt5sensors5-dev
 libqt5svg5-dev
 libqt5websockets5-dev
 libqt5xmlpatterns5-dev
+libssl-dev
 libunity-scopes-dev
 qt3d5-dev
 qt5-default
@@ -17,6 +18,7 @@ qtdeclarative5-dev
 qtdeclarative5-dev-tools
 qtlocation5-dev
 qtmultimedia5-dev
+qtpim5-dev
 qtscript5-dev
 qttools5-dev
 ubuntu-sdk-qmake-extras

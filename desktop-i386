@@ -8,6 +8,7 @@ account-polld
 address-book-app
 alsa-base
 alsa-utils
+apparmor-easyprof-ubuntu
 apport
 apport-noui
 bluetooth-touch
