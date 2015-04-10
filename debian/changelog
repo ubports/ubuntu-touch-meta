@@ -1,3 +1,9 @@
+ubuntu-touch-meta (1.219) vivid; urgency=medium
+
+  * Add 15.04 final frameworks.
+
+ -- Loïc Minier <loic.minier@ubuntu.com>  Fri, 10 Apr 2015 02:21:18 +0200
+
 ubuntu-touch-meta (1.218) vivid; urgency=medium
 
   * Refreshed dependencies
