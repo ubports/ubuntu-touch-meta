@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.220) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Removed hud from touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Tue, 21 Apr 2015 13:46:16 +0200
+
 ubuntu-touch-meta (1.219) vivid; urgency=medium
 
   * Add 15.04 final frameworks.

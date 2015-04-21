@@ -43,7 +43,6 @@ gstreamer1.0-plugins-bad-videoparsers
 gstreamer1.0-plugins-good
 gstreamer1.0-pulseaudio
 health-check
-hud
 indicator-bluetooth
 indicator-datetime
 indicator-display
