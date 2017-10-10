@@ -1,8 +1,335 @@
-ubuntu-touch-meta (1.222+ubports) vivid; urgency=medium
+ubuntu-touch-meta (1.221vivid48ubports3) vivid; urgency=medium
 
   * Imported to UBports
 
- -- UBports auto importer <infra@ubports.com>  Wed, 11 Oct 2017 01:44:39 +0200
+ -- Marius Gripsgard <marius@ubports.com>  Wed, 11 Oct 2017 01:48:42 +0200
+
+ubuntu-touch-meta (1.221vivid48ubports2) vivid; urgency=medium
+
+  * Add account-polld-plugins-go 
+
+ -- Marius Gripsgard <mariogrip@ubuntu.com>  Sat, 03 Jun 2017 22:13:47 +0200
+
+ubuntu-touch-meta (1.221vivid48ubports1) vivid; urgency=medium
+
+  * Add ubuntu-location-provider-geoclue2
+
+ -- Marius Gripsgard <mariogrip@ubuntu.com>  Mon, 22 May 2017 18:27:59 +0200
+
+ubuntu-touch-meta (1.221vivid48) vivid; urgency=medium
+
+  * Add gstreamer0.10-opus to touch and desktop.
+
+ -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Thu, 10 Nov 2016 12:08:37 +0200
+
+ubuntu-touch-meta (1.221vivid47) vivid; urgency=medium
+ 
+  * Added address-book-updater to touch
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Wed, 21 Sep 2016 18:09:40 +0200
+
+ubuntu-touch-meta (1.221vivid46) vivid; urgency=medium
+
+  * Added aethercast to touch (LP: #1625068)
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Mon, 19 Sep 2016 13:50:42 +0200
+
+ubuntu-touch-meta (1.221vivid45) vivid; urgency=medium
+
+  * Added ofono, system-image-dbus and telepathy-ofono to touch
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Fri, 09 Sep 2016 11:21:57 -0400
+
+ubuntu-touch-meta (1.221vivid44) vivid; urgency=medium
+
+  * Added ubuntu-keyboard-latvian to touch
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Wed, 10 Aug 2016 17:58:18 +0200
+
+ubuntu-touch-meta (1.221vivid43) vivid; urgency=medium
+
+  * Added account-plugin-owncloud to touch
+  * Added indicator-keyboard to touch 
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Wed, 03 Aug 2016 16:33:42 +0200
+
+ubuntu-touch-meta (1.221vivid42) vivid; urgency=medium
+
+  * Add the new ubuntu-sdk-15.04.7 frameworks.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Tue, 12 Jul 2016 17:10:25 +0200
+
+ubuntu-touch-meta (1.221vivid41) vivid; urgency=medium
+
+  * Added fonts-emojione to touch (color emoji support)
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Tue, 28 Jun 2016 09:46:55 +0200
+
+ubuntu-touch-meta (1.221vivid40) vivid; urgency=medium
+
+  * Added language-pack-touch-br to touch
+  * Added language-pack-touch-cy to touch
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Mon, 27 Jun 2016 17:54:17 +0200
+
+ubuntu-touch-meta (1.221vivid39) vivid; urgency=medium
+
+  * Add the new ubuntu-sdk-15.04.6 frameworks.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Thu, 23 Jun 2016 14:57:27 +0200
+
+ubuntu-touch-meta (1.221vivid38) vivid; urgency=medium
+
+  * Added qml-module-qtsysteminfo to sdk-libs
+  * Removed ubuntu-html5-container from sdk-libs
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Thu, 16 Jun 2016 13:59:56 +0300
+
+ubuntu-touch-meta (1.221vivid37) vivid; urgency=medium
+
+  * Added libertine-tools to touch
+  * Added python3-libertine-chroot to touch
+  * Removed pocket-desktop meta-package and related seeds as it's all part of
+    ubuntu-touch now (LP: #1583271)
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Tue, 14 Jun 2016 10:58:51 +0300
+
+ubuntu-touch-meta (1.221vivid36) vivid; urgency=medium
+
+  * Remove deprecated touch frameworks (LP: #1555782):
+    - ubuntu-sdk-13.10
+    - ubuntu-sdk-14.04-dev1
+    - ubuntu-sdk-14.04-html-dev1
+    - ubuntu-sdk-14.04-papi-dev1
+    - ubuntu-sdk-14.04-qml-dev1
+    - ubuntu-sdk-14.10-dev2
+    - ubuntu-sdk-14.10-html-dev2
+    - ubuntu-sdk-14.10-qml-dev2
+    - ubuntu-sdk-14.10-qml-dev3
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Thu, 02 Jun 2016 13:49:30 +0200
+
+ubuntu-touch-meta (1.221vivid35) vivid; urgency=medium
+
+  * Removed policykit-unity8 from touch (causes regressions)
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Tue, 10 May 2016 16:09:17 +0200
+
+ubuntu-touch-meta (1.221vivid34) vivid; urgency=medium
+
+  * Added ubuntu-keyboard-chinese-chewing to touch
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Mon, 09 May 2016 20:01:01 +0200
+
+ubuntu-touch-meta (1.221vivid33) vivid; urgency=medium
+
+  * Added qtconnectivity5-dev to sdk-libs-dev
+  * Added policykit-unity8 to touch
+  * Add the new ubuntu-sdk-15.04.5 frameworks.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Fri, 06 May 2016 21:14:26 +0200
+
+ubuntu-touch-meta (1.221vivid32) vivid; urgency=medium
+
+  * Removed mir-test-tools from touch
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Tue, 29 Mar 2016 12:36:15 +0200
+
+ubuntu-touch-meta (1.221vivid31) vivid; urgency=medium
+
+  * Added indicator-session to touch as per new OOBE requirements.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Wed, 23 Mar 2016 12:16:45 +0100
+
+ubuntu-touch-meta (1.221vivid30) vivid; urgency=medium
+
+  * Replaced ttf-punjabi-fonts with fonts-lohit-guru in touch (LP: #1539361)
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Fri, 04 Mar 2016 13:42:26 -0500
+
+ubuntu-touch-meta (1.221vivid29) vivid; urgency=medium
+
+  * Added ttf-punjabi-fonts to touch (LP: #1539361)
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Thu, 03 Mar 2016 13:20:21 -0500
+
+ubuntu-touch-meta (1.221vivid28) vivid; urgency=medium
+
+  * Added ubuntu-keyboard-japanese to touch.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Tue, 23 Feb 2016 10:29:11 +0100
+
+ubuntu-touch-meta (1.221vivid27) vivid; urgency=medium
+
+  * Added gnome-keyring to touch
+  * Added language-pack-touch-hr to touch
+  * Added libp11-kit-gnome-keyring to touch
+  * Added libpam-gnome-keyring to touch
+  * Removed liboxideqt-qmlplugin from sdk-libs
+  * Re-added the previously reverted ubuntu-sdk-15.04.4 frameworks
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Wed, 17 Feb 2016 17:41:27 +0100
+
+ubuntu-touch-meta (1.221vivid26) vivid; urgency=medium
+
+  * Revert the previous framework addition - the necessary features did not
+    land so its introduction does not make any sense.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Mon, 15 Feb 2016 17:08:45 +0100
+
+ubuntu-touch-meta (1.221vivid25) vivid; urgency=medium
+
+  * Add the new ubuntu-sdk-15.04.4 frameworks.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Wed, 27 Jan 2016 18:06:41 +0100
+
+ubuntu-touch-meta (1.221vivid23) vivid; urgency=medium
+
+  * Add gdbserver. Needed by QtCreator debugging applications and scopes.
+    (LP: #1364872)
+
+ -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Thu, 17 Dec 2015 16:05:23 +0200
+
+ubuntu-touch-meta (1.221vivid22) vivid; urgency=medium
+
+  * Add qml-module-qtpurchasing to sdk-libs. Will be part of the 
+    ubuntu-sdk-15.04.3 framework. (LP: #1527237)
+
+ -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Thu, 17 Dec 2015 14:39:25 +0200
+
+ubuntu-touch-meta (1.221vivid21) vivid; urgency=medium
+
+  * Add qml-module-qtbluetooth to the touch seeds (sdk-libs). Will be part of
+    the ubuntu-sdk-15.04.3 framework.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Wed, 16 Dec 2015 16:25:01 +0100
+
+ubuntu-touch-meta (1.221vivid20) vivid; urgency=medium
+
+  * Remove the leftover ubuntu-application-api2-examples.
+  * Remove the deprecated friends packages.
+  * Add the language-pack-touch-pa language pack to the touch seeds.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Fri, 11 Dec 2015 16:05:23 +0100
+
+ubuntu-touch-meta (1.221vivid19) vivid; urgency=medium
+
+  * Remove the 15.10-dev1 frameworks from the stable seeds (LP: #1518393)
+  * Add the new ubuntu-sdk-15.04.3 frameworks.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Mon, 23 Nov 2015 12:09:22 +0100
+
+ubuntu-touch-meta (1.221vivid18) vivid; urgency=medium
+
+  * Replace obexd-[client,server] with bluez-obexd
+
+ -- Simon Fels <simon.fels@canonical.com>  Tue, 17 Nov 2015 10:33:16 +0100
+
+ubuntu-touch-meta (1.221vivid17) vivid; urgency=medium
+
+  * Add fonts-tlwg-kinnari to the touch seeds for Thai font support.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Mon, 16 Nov 2015 17:21:39 +0100
+
+ubuntu-touch-meta (1.221vivid16) vivid; urgency=medium
+
+  * Add the ubuntu-sdk-15.04.2 frameworks.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Tue, 10 Nov 2015 19:47:32 +0100
+
+ubuntu-touch-meta (1.221vivid15) vivid; urgency=medium
+
+  * Add qt5-image-formats-plugins to sdk-libs
+
+ -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Mon, 19 Oct 2015 15:08:51 +0300
+
+ubuntu-touch-meta (1.221vivid14) vivid; urgency=medium
+
+  * Add libertine-demo to pocket-desktop.
+  * Remove libertine-tools as it's pulled in by libertine-demo.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Thu, 01 Oct 2015 13:57:12 +0200
+
+ubuntu-touch-meta (1.221vivid13) vivid; urgency=medium
+
+  * Add the ubuntu-sdk-15.04.1 frameworks.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Wed, 23 Sep 2015 17:10:58 +0200
+
+ubuntu-touch-meta (1.221vivid12) vivid; urgency=medium
+
+  * Add qtubuntu-sensors to the seeds as it's no longer pulled in as a
+    dependency.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Fri, 18 Sep 2015 11:09:22 +0200
+
+ubuntu-touch-meta (1.221vivid11) vivid; urgency=medium
+
+  * Add gstreamer1.0-plugins-ugly-amr to touch (LP: #1386553)
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Thu, 17 Sep 2015 18:05:47 +0200
+
+ubuntu-touch-meta (1.221vivid10) vivid; urgency=medium
+
+  * Add the new pocket-desktop seed for ubuntu-pd
+  * Create the new ubuntu-pocket-desktop meta-package
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Thu, 17 Sep 2015 11:24:55 +0200
+
+ubuntu-touch-meta (1.221vivid8) vivid; urgency=medium
+
+  * Add indicator-transfer-download-manager.
+
+ -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Wed, 02 Sep 2015 09:56:18 +0300
+
+ubuntu-touch-meta (1.221vivid7) vivid; urgency=medium
+
+  * Backport Michael Vogt's fix: add framework for ubuntu-sdk-15.10-dev1
+    (LP: #1456328)
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Mon, 24 Aug 2015 16:55:45 +0200
+
+ubuntu-touch-meta (1.221vivid6) vivid; urgency=medium
+
+  * Add iw to the touch seeds. Doesn't weight much and can be useful for
+    development and statistics
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Mon, 17 Aug 2015 20:41:10 +0200
+
+ubuntu-touch-meta (1.221vivid5) vivid; urgency=medium
+
+  * Add pulseaudio-module-trust-store to the touch seeds for trust-store
+    integration
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Mon, 17 Aug 2015 17:07:23 +0200
+
+ubuntu-touch-meta (1.221vivid4) vivid; urgency=medium
+
+  * Add new keyboard layouts to touch: ubuntu-keyboard-greek, 
+    ubuntu-keyboard-icelandic, ubuntu-keyboard-norwegian-bokmal,
+    ubuntu-keyboard-romanian, ubuntu-keyboard-scottish-gaelic,
+    ubuntu-keyboard-slovenian and ubuntu-keyboard-ukrainian
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Mon, 22 Jun 2015 09:50:06 +0200
+
+ubuntu-touch-meta (1.221vivid3) vivid; urgency=medium
+
+  * Add telepathy-ofono-ril-mc-plugin to touch
+
+ -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Fri, 22 May 2015 09:04:42 +0300
+
+ubuntu-touch-meta (1.221vivid2) vivid; urgency=medium
+
+  * Add qml-module-qtqml-models2 and qml-module-qtqml-statemachine 
+    to sdk-libs
+
+ -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Wed, 13 May 2015 10:32:22 +0300
+
+ubuntu-touch-meta (1.221vivid1) vivid; urgency=medium
+
+  * Add openvpn to touch
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 24 Apr 2015 20:41:17 +0200
 
 ubuntu-touch-meta (1.221) vivid; urgency=medium
 

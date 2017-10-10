@@ -31,11 +31,10 @@ fonts-nanum
 fonts-takao-pgothic
 fonts-wqy-microhei
 forkstat
-friends-facebook
-friends-twitter
 gallery-app
 gir1.2-accounts-1.0
 gir1.2-ubuntu-app-launch-2
+gstreamer0.10-opus
 gstreamer0.10-plugins-good
 gstreamer0.10-pulseaudio
 gstreamer1.0-fluendo-mp3
@@ -96,7 +95,6 @@ python-evdev
 python3-gi
 python3-oauthlib
 python3-pkg-resources
-qtdeclarative5-friends0.2
 qtorganizer5-eds
 qtubuntu-media
 qtvideonode-plugin
@@ -115,7 +113,6 @@ telepathy-gabble
 thumbnailer-service
 ttf-ubuntu-font-family
 ubuntu-app-launch-tools
-ubuntu-application-api2-examples
 ubuntu-artwork
 ubuntu-keyboard-arabic
 ubuntu-keyboard-chinese-pinyin
