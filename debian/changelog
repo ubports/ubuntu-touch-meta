@@ -1,12 +1,13 @@
-ubuntu-touch-meta (1.221vivid48ubports3) vivid; urgency=medium
+ubuntu-touch-meta (1.222xenial48ubports3) xenial; urgency=medium
 
   * Imported to UBports
+  * Bump to xenial
 
  -- Marius Gripsgard <marius@ubports.com>  Wed, 11 Oct 2017 01:48:42 +0200
 
 ubuntu-touch-meta (1.221vivid48ubports2) vivid; urgency=medium
 
-  * Add account-polld-plugins-go 
+  * Add account-polld-plugins-go
 
  -- Marius Gripsgard <mariogrip@ubuntu.com>  Sat, 03 Jun 2017 22:13:47 +0200
 
@@ -23,7 +24,7 @@ ubuntu-touch-meta (1.221vivid48) vivid; urgency=medium
  -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Thu, 10 Nov 2016 12:08:37 +0200
 
 ubuntu-touch-meta (1.221vivid47) vivid; urgency=medium
- 
+
   * Added address-book-updater to touch
 
  -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Wed, 21 Sep 2016 18:09:40 +0200
@@ -49,7 +50,7 @@ ubuntu-touch-meta (1.221vivid44) vivid; urgency=medium
 ubuntu-touch-meta (1.221vivid43) vivid; urgency=medium
 
   * Added account-plugin-owncloud to touch
-  * Added indicator-keyboard to touch 
+  * Added indicator-keyboard to touch
 
  -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Wed, 03 Aug 2016 16:33:42 +0200
 
@@ -192,7 +193,7 @@ ubuntu-touch-meta (1.221vivid23) vivid; urgency=medium
 
 ubuntu-touch-meta (1.221vivid22) vivid; urgency=medium
 
-  * Add qml-module-qtpurchasing to sdk-libs. Will be part of the 
+  * Add qml-module-qtpurchasing to sdk-libs. Will be part of the
     ubuntu-sdk-15.04.3 framework. (LP: #1527237)
 
  -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Thu, 17 Dec 2015 14:39:25 +0200
@@ -305,7 +306,7 @@ ubuntu-touch-meta (1.221vivid5) vivid; urgency=medium
 
 ubuntu-touch-meta (1.221vivid4) vivid; urgency=medium
 
-  * Add new keyboard layouts to touch: ubuntu-keyboard-greek, 
+  * Add new keyboard layouts to touch: ubuntu-keyboard-greek,
     ubuntu-keyboard-icelandic, ubuntu-keyboard-norwegian-bokmal,
     ubuntu-keyboard-romanian, ubuntu-keyboard-scottish-gaelic,
     ubuntu-keyboard-slovenian and ubuntu-keyboard-ukrainian
@@ -320,7 +321,7 @@ ubuntu-touch-meta (1.221vivid3) vivid; urgency=medium
 
 ubuntu-touch-meta (1.221vivid2) vivid; urgency=medium
 
-  * Add qml-module-qtqml-models2 and qml-module-qtqml-statemachine 
+  * Add qml-module-qtqml-models2 and qml-module-qtqml-statemachine
     to sdk-libs
 
  -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Wed, 13 May 2015 10:32:22 +0300
