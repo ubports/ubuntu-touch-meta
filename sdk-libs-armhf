@@ -1,7 +1,7 @@
 libcontent-hub0
-libjsoncpp0
-libnet-cpp1
-libprocess-cpp2
+libjsoncpp1
+libnet-cpp2
+libprocess-cpp3
 libqt5keychain0
 libqt5multimedia5-plugins
 libqt5script5
