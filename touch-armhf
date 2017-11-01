@@ -245,3 +245,4 @@ wireless-tools
 ubuntu-location-provider-geoclue2
 account-polld-plugins-go
 davfs2
+bash-completion
