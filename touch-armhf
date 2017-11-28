@@ -247,3 +247,5 @@ account-polld-plugins-go
 davfs2
 bash-completion
 account-plugin-nextcloud
+libnotify-bin
+htop
