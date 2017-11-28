@@ -249,3 +249,8 @@ bash-completion
 account-plugin-nextcloud
 libnotify-bin
 htop
+libmaliit-glib0
+libxmuu1
+maliit-inputcontext-gtk2
+maliit-inputcontext-gtk3
+xauth
