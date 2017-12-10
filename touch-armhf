@@ -254,3 +254,5 @@ libxmuu1
 maliit-inputcontext-gtk2
 maliit-inputcontext-gtk3
 xauth
+vpnc
+vim-nox
