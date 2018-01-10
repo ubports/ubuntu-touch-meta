@@ -247,5 +247,3 @@ cgroup-lite
 cgroupfs-mount
 cups
 timekeeper
-accounts-qml-module
-online-accounts-api
