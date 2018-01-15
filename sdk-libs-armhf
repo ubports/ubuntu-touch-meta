@@ -13,7 +13,6 @@ qml-module-qtgraphicaleffects
 qml-module-qtlocation
 qml-module-qtmultimedia
 qml-module-qtpositioning
-qml-module-qtpurchasing
 qml-module-qtqml-models2
 qml-module-qtqml-statemachine
 qml-module-qtquick-layouts
