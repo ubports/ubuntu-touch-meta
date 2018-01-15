@@ -1,5 +1,5 @@
 google-mock
-libboost1.55-dev
+libboost1.58-dev
 libcontent-hub-dev
 libjsoncpp-dev
 libnet-cpp-dev
