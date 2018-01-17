@@ -17,12 +17,16 @@ apport
 apport-noui
 bluetooth-touch
 bluez
+bluez-obexd
 ca-certificates
 cameraplugin-aal
+cgroup-lite
+ciborium
 click
 click-apparmor
 click-ubuntu-policy
 content-hub
+cpustat
 dbus-property-service
 debsig-verify
 dialer-app
@@ -132,8 +136,8 @@ mobile-broadband-provider-info
 mtp-server
 nano
 network-manager
+ntpdate
 nuntium
-bluez-obexd
 ofono
 ofono-scripts
 openssh-server
@@ -242,7 +246,6 @@ wireless-tools
 ubuntu-location-provider-geoclue2
 account-polld-plugins-go
 hybris-usb
-cgroup-lite
 cgroupfs-mount
 cups
 timekeeper
