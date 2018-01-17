@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.3xenial1ubports1) xenial; urgency=medium
+
+  * Sync with xenial
+  * Add arm64
+
+ -- Marius Gripsgard <marius@ubports.com>  Wed, 17 Jan 2018 03:06:17 +0100
+
 ubuntu-touch-meta (1.222xenial48ubports3) xenial; urgency=medium
 
   * Imported to UBports
