@@ -6,7 +6,7 @@ Standards-Version: 3.9.6
 Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 
 Package: ubuntu-sdk
-Architecture: amd64 armhf i386
+Architecture: amd64 arm64 armhf i386
 Depends: ubuntu-sdk-libs-dev, ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
 Description: Ubuntu SDK
@@ -17,7 +17,7 @@ Description: Ubuntu SDK
   - Demos and examples
 
 Package: ubuntu-sdk-libs
-Architecture: amd64 armhf i386
+Architecture: amd64 arm64 armhf i386
 Multi-Arch: same
 Depends: ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
@@ -26,7 +26,7 @@ Description: Ubuntu SDK Runtime libraries
   - Runtime libraries
 
 Package: ubuntu-sdk-libs-dev
-Architecture: amd64 armhf i386
+Architecture: amd64 arm64 armhf i386
 Multi-Arch: same
 Depends: ubuntu-sdk-libs, ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
@@ -35,7 +35,7 @@ Description: Ubuntu SDK
   - Development headers
 
 Package: ubuntu-sdk-libs-tools
-Architecture: amd64 armhf i386
+Architecture: amd64 arm64 armhf i386
 Depends: ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
 Description: Ubuntu SDK Build Tools
@@ -43,7 +43,7 @@ Description: Ubuntu SDK Build Tools
   - Build tools
 
 Package: ubuntu-touch
-Architecture: amd64 armhf i386
+Architecture: amd64 arm64 armhf i386
 Depends: ubuntu-sdk-libs, ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
 Description: Ubuntu touch system
