@@ -1,4 +1,4 @@
-ubuntu-touch-meta (1.3xenial1ubports1) xenial; urgency=medium
+ubuntu-touch-meta (1.333xenial1ubports1) xenial; urgency=medium
 
   * Sync with xenial
   * Add arm64
