@@ -52,12 +52,23 @@ Description: Ubuntu touch system
  It is safe to remove this package if some of the touch system packages are
  not desired.
 
-Package: ubuntu-desktop-next
-Architecture: amd64 armhf i386
-Depends: ubuntu-sdk-libs, ${germinate:Depends}, ${misc:Depends}
+#Package: ubuntu-desktop-next
+#Architecture: amd64 armhf i386
+#Depends: ubuntu-sdk-libs, ${germinate:Depends}, ${misc:Depends}
+#Recommends: ${germinate:Recommends}
+#Description: Ubuntu Desktop system - Unity 8 edition
+# This package depends on the Unity 8 desktop environment and the applications
+# designed to work well with it.
+# .
+# It is safe to remove this package if some of these packages are not desired.
+
+Package: ubuntu-pocket-desktop
+Architecture: amd64 arm64 armhf i386
+Depends: ubuntu-touch, ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
-Description: Ubuntu Desktop system - Unity 8 edition
- This package depends on the Unity 8 desktop environment and the applications
- designed to work well with it.
+Description: Ubuntu touch pocket desktop system
+ This package depends on all of the packages in the Ubuntu pocket desktop
+ system.
  .
- It is safe to remove this package if some of these packages are not desired.
+ It is safe to remove this package if some of the touch system packages are
+ not desired.

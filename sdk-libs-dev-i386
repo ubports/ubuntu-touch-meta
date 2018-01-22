@@ -1,5 +1,5 @@
 google-mock
-libboost1.55-dev
+libboost1.58-dev
 libcontent-hub-dev
 libjsoncpp-dev
 libnet-cpp-dev
@@ -14,13 +14,11 @@ libunity-scopes-dev
 qt3d5-dev
 qt5-default
 qtbase5-dev
-qtconnectivity5-dev
 qtdeclarative5-dev
 qtdeclarative5-dev-tools
 qtlocation5-dev
 qtmultimedia5-dev
 qtpim5-dev
-qtscript5-dev
 qttools5-dev
 ubuntu-sdk-qmake-extras
 ubuntu-ui-toolkit-doc

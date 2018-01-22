@@ -3,4 +3,4 @@ sdk-libs ubuntu-sdk-libs
 sdk-libs-dev ubuntu-sdk-libs-dev
 sdk-libs-tools ubuntu-sdk-libs-tools
 touch ubuntu-touch
-desktop ubuntu-desktop-next
+pocket-desktop ubuntu-pocket-desktop
