@@ -249,3 +249,4 @@ hybris-usb
 cgroupfs-mount
 cups
 timekeeper
+qml-module-io-thp-pyotherside
