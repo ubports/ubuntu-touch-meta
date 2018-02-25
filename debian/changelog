@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.333xenial1ubports2) xenial; urgency=medium
+
+  * Bump to libjsoncpp1 on amd64 & i386
+  * Bump to libnet-cpp2 on amd64 & i386
+  * Bump to libprocess-cpp3 on amd64 & i386
+
+ -- Dan Chapman <dan@ubports.com>  Sun, 18 Feb 2018 09:37:12 +0000
+
 ubuntu-touch-meta (1.333xenial1ubports1) xenial; urgency=medium
 
   * Sync with xenial
