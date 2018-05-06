@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.333xenial1ubports3) xenial; urgency=medium
+
+  * Add QtQuick COntrols 2
+  * Add qqc2-suru style
+
+ -- Dan Chapman <dan@ubports.com>  Sun, 06 May 2018 18:29:33 +0000
+
 ubuntu-touch-meta (1.333xenial1ubports2) xenial; urgency=medium
 
   * Bump to libjsoncpp1 on amd64 & i386
