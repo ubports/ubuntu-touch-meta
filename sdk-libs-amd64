@@ -19,6 +19,8 @@ qml-module-qtquick-layouts
 qml-module-qtsensors
 qml-module-qtsysteminfo
 qml-module-ubuntu-onlineaccounts
+qml-module-qtquick-controls2
+qml-module-qtquick-controls2-suru
 qmlscene
 qtchooser
 qt5-image-formats-plugins
