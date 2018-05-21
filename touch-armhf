@@ -187,6 +187,7 @@ ubuntu-app-launch-tools
 ubuntu-keyboard-arabic
 ubuntu-keyboard-azerbaijani
 ubuntu-keyboard-bosnian
+ubuntu-keyboard-bulgarian
 ubuntu-keyboard-catalan
 ubuntu-keyboard-chinese-chewing
 ubuntu-keyboard-chinese-pinyin
@@ -216,7 +217,9 @@ ubuntu-keyboard-serbian
 ubuntu-keyboard-slovenian
 ubuntu-keyboard-spanish
 ubuntu-keyboard-swedish
-ubuntu-keyboard-ukrainian
+ubuntu-keyboard-swiss-french
+ubuntu-keyboard-turkish
+ubuntu-keyboard-ukrainian1
 ubuntu-location-service-bin
 ubuntu-push-client
 ubuntu-system-settings
