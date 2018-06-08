@@ -164,6 +164,7 @@ python3-libertine-chroot
 python3-oauthlib
 python3-pkg-resources
 qml-module-qtmultimedia-gles
+qml-module-qtwebengine
 qtdeclarative5-qtlocation-plugin-gles
 qtdeclarative5-ubuntu-ui-extras0.2
 qtdeclarative5-ubuntu-ui-toolkit-plugin-gles

@@ -253,6 +253,7 @@ cgroupfs-mount
 cups
 timekeeper
 qml-module-io-thp-pyotherside
+qml-module-qtwebengine
 ubuntu-touch-coreapps
 xauth
 ubuntu-printing-app
