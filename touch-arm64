@@ -246,7 +246,6 @@ ubuntu-location-provider-geoclue2
 account-polld-plugins-go
 hybris-usb
 cgroupfs-mount
-cups
 timekeeper
 qml-module-io-thp-pyotherside
 ubuntu-touch-coreapps
