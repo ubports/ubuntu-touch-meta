@@ -108,6 +108,7 @@ language-pack-touch-ug
 language-pack-touch-uk
 language-pack-touch-zh-hans
 language-pack-touch-zh-hant
+libertine-scope
 libertine-tools
 libhybris
 libhybris-test
@@ -225,6 +226,7 @@ ubuntu-keyboard-ukrainian
 ubuntu-location-service-bin
 ubuntu-push-client
 ubuntu-system-settings
+ubuntu-system-settings-libertine
 ubuntu-system-settings-online-accounts
 ubuntu-touch-customization-hooks
 ubuntu-touch-session
@@ -252,4 +254,3 @@ ubuntu-touch-coreapps
 xauth
 ubuntu-printing-app
 libsmbclient
-
