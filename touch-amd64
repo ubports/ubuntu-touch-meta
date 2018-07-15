@@ -16,6 +16,7 @@ android-tools-adbd
 apparmor-easyprof-ubuntu
 apport
 apport-noui
+bash-completion
 bluetooth-touch
 bluez
 ca-certificates
