@@ -252,3 +252,4 @@ qml-module-io-thp-pyotherside
 ubuntu-touch-coreapps
 xauth
 libsmbclient
+qml-module-qtquick-controls

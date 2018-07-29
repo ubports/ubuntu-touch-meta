@@ -255,3 +255,4 @@ timekeeper
 qml-module-io-thp-pyotherside
 xauth
 libsmbclient
+qml-module-qtquick-controls
