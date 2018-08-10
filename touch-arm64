@@ -131,6 +131,7 @@ media-hub
 mediaplayer-app
 messaging-app
 mir-graphics-drivers-android
+mir-graphics-drivers-android-caf
 mir-utils
 mobile-broadband-provider-info
 mtp-server
