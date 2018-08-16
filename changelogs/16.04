@@ -1,19 +1,18 @@
 - Updated to 16.04 (Xenial Xerus)
-- New power saving feauters
-- New security improvments
-- New Dash Opacity option
 - Updated Firmware
-- Added QA scripts
-- Added libertine
-- Added request desktop site in browser
+- New power saving feauters
+- Removed unmaintained pre-installed scopes
+- Improved browsing contacts from the dialer
+- Added option to manually set the dash background opacity
+- Added graphical libertine manager to system-settings to make installing desktop-apps - specifically deb-packages - easier (experimental)
+- Added option to request the desktop-version of a website to the browser
 - Added QtWebEngine support
 - Added PyOtherSide
-- Removed unmaintained pre-installed scopes
-- Auto-docus the text input on the contacts search page in dailer
-- Added OTA tag for each channel
+- Added release tags that are consistent across devices for all channels
 - Added support for QQC2
 - Added new search engine startpage
+- Added QA scripts
 - Fixed varius wifi issues
-- Over 100 backlog issues fixed
+- Fixed over 100 backlog issues
 
 The pre-installed webbrowser has some known issues. To work around any problems you're experiencing, you can download the new experimental "WebBrowser Next" from the OpenStore. This issue will be targeted in OTA-5.
