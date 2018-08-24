@@ -1,5 +1,4 @@
 - Updated to 16.04 (Xenial Xerus)
-- Updated Firmware for various devices
 - Updated user-interface toolkit to Qt 5.9 bringing performance improvements and new features
 - New power saving features
 - Removed unmaintained pre-installed scopes
