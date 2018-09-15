@@ -118,6 +118,7 @@ libertine-tools
 libhybris
 libhybris-test
 libhybris-utils
+qml-module-org-kde-kirigami2
 libmediainfo0v5
 libmessaging-menu0
 libnss-extrausers
