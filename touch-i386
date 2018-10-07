@@ -148,7 +148,6 @@ ofono
 ofono-scripts
 openssh-server
 openvpn
-oxideqt-codecs-extra
 packagekit
 packagekit-plugin-click
 packagekit-tools
@@ -247,8 +246,8 @@ upstart-watchdog
 urfkill
 url-dispatcher
 usensord
-webapp-container
-webbrowser-app
+morph-webapp-container
+morph-browser
 wget
 whoopsie
 wireless-tools

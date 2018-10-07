@@ -150,8 +150,8 @@ unity8-desktop-session-mir
 urfkill
 url-dispatcher
 usensord
-webapp-container
-webbrowser-app
+morph-webapp-container
+morph-browser
 wget
 whoopsie
 wireless-tools
