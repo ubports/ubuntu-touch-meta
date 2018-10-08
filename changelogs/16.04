@@ -3,21 +3,22 @@
 - New power saving features
 - Removed unmaintained pre-installed scopes
 - Improved browsing contacts from the dialer
+- Added new wallpapers and ringtones
 - Added option to manually set the dash background opacity
 - Added graphical libertine manager to system-settings to make installing desktop-apps - specifically deb-packages - easier (experimental)
+- Added new browser based on QtWebEngine
 - Added option to request the desktop-version of a website to the browser
-- Added QtWebEngine support
 - Added PyOtherSide
 - Added release tags that are consistent across devices for all channels
-- Added support for Qt Quick Controls 2 (QQC2)
+- Added support for Qt Quick Controls 2 (QQC2) with automatic scaling features
+- Added support for Kirigami2 controls
 - Added new search engine startpage
 - Added QA scripts
 - Added new keyboard layouts
 - Fixed various wifi issues
+- Fixed an issue where the "Last updated" date would be incorrect on some devices
 - Fixed more than 100 backlog issues
 
 Known issues:
 
-- The pre-installed webbrowser is unstable. To work around any problems you're experiencing, you can download the new experimental "WebBrowser Next" from the OpenStore. This issue will be targeted in OTA-5.
 - Third-party apps that have binary components will have to be recompiled. This is due to an upstream ABI incompatibility between Qt 5.9 and earlier versions.
-- Since we have to stick with the upstart init system for now, it is not yet possible to install snap packages. This will be targeted in a future release.
