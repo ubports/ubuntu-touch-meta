@@ -6,6 +6,7 @@ account-plugin-owncloud
 account-plugin-tools
 account-plugin-twitter
 account-plugin-ubuntuone
+account-plugin-vk
 account-polld
 address-book-app
 address-book-updater
@@ -14,8 +15,6 @@ alsa-base
 alsa-utils
 android-tools-adbd
 apparmor-easyprof-ubuntu
-apport
-apport-noui
 bash-completion
 bluetooth-touch
 bluez
@@ -39,7 +38,6 @@ fonts-takao-pgothic
 fonts-tlwg-kinnari
 fonts-wqy-microhei
 forkstat
-gdbserver
 gir1.2-accounts-1.0
 gir1.2-ubuntu-app-launch-2
 gnome-keyring
@@ -114,6 +112,7 @@ libertine-tools
 libhybris
 libhybris-test
 libhybris-utils
+qml-module-org-kde-kirigami2
 libmediainfo0
 libmessaging-menu0
 libnss-extrausers
@@ -147,7 +146,6 @@ ofono
 ofono-scripts
 openssh-server
 openvpn
-oxideqt-codecs-extra
 packagekit
 packagekit-plugin-click
 packagekit-tools
@@ -213,6 +211,7 @@ ubuntu-keyboard-hungarian
 ubuntu-keyboard-icelandic
 ubuntu-keyboard-italian
 ubuntu-keyboard-japanese
+ubuntu-keyboard-korean
 ubuntu-keyboard-latvian
 ubuntu-keyboard-norwegian-bokmal
 ubuntu-keyboard-polish
@@ -245,10 +244,9 @@ upstart-watchdog
 urfkill
 url-dispatcher
 usensord
-webapp-container
-webbrowser-app
+morph-webapp-container
+morph-browser
 wget
-whoopsie
 wireless-tools
 ubuntu-location-provider-geoclue2
 qml-module-io-thp-pyotherside
