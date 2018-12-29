@@ -1,3 +1,9 @@
+ubuntu-touch-meta (1.433xenial1ubports4) xenial; urgency=medium
+
+  * Add mir caf platform
+
+ -- Marius Gripsgard <marius@ubports.com>  Sat, 29 Dec 2018 02:56:18 +0100
+
 ubuntu-touch-meta (1.433xenial1ubports3) xenial; urgency=medium
 
   * Add QtQuick COntrols 2
