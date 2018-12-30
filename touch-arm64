@@ -22,6 +22,7 @@ bluez-obexd
 ca-certificates
 cameraplugin-aal
 cgroup-lite
+ciborium
 click
 click-apparmor
 click-ubuntu-policy
@@ -100,6 +101,7 @@ language-pack-touch-pl
 language-pack-touch-pt
 language-pack-touch-ro
 language-pack-touch-ru
+language-pack-touch-sc
 language-pack-touch-sk
 language-pack-touch-sl
 language-pack-touch-sr
@@ -186,6 +188,7 @@ ubuntu-app-launch-tools
 ubuntu-keyboard-arabic
 ubuntu-keyboard-azerbaijani
 ubuntu-keyboard-bosnian
+ubuntu-keyboard-bulgarian
 ubuntu-keyboard-catalan
 ubuntu-keyboard-chinese-chewing
 ubuntu-keyboard-chinese-pinyin
@@ -206,6 +209,7 @@ ubuntu-keyboard-italian
 ubuntu-keyboard-japanese
 ubuntu-keyboard-korean
 ubuntu-keyboard-latvian
+ubuntu-keyboard-lithuanian
 ubuntu-keyboard-norwegian-bokmal
 ubuntu-keyboard-polish
 ubuntu-keyboard-portuguese
@@ -216,6 +220,8 @@ ubuntu-keyboard-serbian
 ubuntu-keyboard-slovenian
 ubuntu-keyboard-spanish
 ubuntu-keyboard-swedish
+ubuntu-keyboard-swiss-french
+ubuntu-keyboard-turkish
 ubuntu-keyboard-ukrainian
 ubuntu-location-service-bin
 ubuntu-push-client
