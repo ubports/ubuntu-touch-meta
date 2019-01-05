@@ -42,12 +42,33 @@ Description: Ubuntu SDK Build Tools
  This package depends on all the packages of the Ubuntu SDK:
   - Build tools
 
-Package: ubuntu-touch
+Package: ubuntu-touch-core
 Architecture: amd64 arm64 armhf i386
 Depends: ubuntu-sdk-libs, ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
+Description: Ubuntu touch system core
+ This package depends on all of the core packages in the Ubuntu touch system
+ .
+ It is safe to remove this package if some of the touch system packages are
+ not desired.
+
+Package: ubuntu-touch
+Architecture: amd64 arm64 armhf i386
+Depends: ubuntu-touch-core, ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
 Description: Ubuntu touch system
  This package depends on all of the packages in the Ubuntu touch system
+ .
+ It is safe to remove this package if some of the touch system packages are
+ not desired.
+
+Package: ubuntu-touch-hybris
+Architecture: amd64 arm64 armhf i386
+Depends: ubuntu-touch, ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: Ubuntu touch system hybris
+ This package depends on all of the packages in the Ubuntu touch system
+ including libhybris and hybris parts (for lxc android)
  .
  It is safe to remove this package if some of the touch system packages are
  not desired.

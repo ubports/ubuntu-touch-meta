@@ -1,3 +1,33 @@
+ubuntu-touch-meta (1.433xenial1ubports5) xenial; urgency=medium
+
+  * Added core and hybris package
+  * Let touch depend on core and let hybris depend on touch
+
+  * Refreshed dependencies
+  * Added account-polld-plugins-go to touch [amd64]
+  * Added language-pack-touch-br to touch
+  * Added language-pack-touch-cy to touch
+  * Added ntpdate to touch [amd64]
+  * Added qml-module-io-thp-pyotherside to sdk-libs
+  * Added qml-module-org-kde-kirigami2 to sdk-libs
+  * Added qml-module-qt-labs-folderlistmodel to sdk-libs
+  * Added qml-module-qtorganizer to sdk-libs
+  * Added qml-module-qtquick-localstorage to sdk-libs
+  * Added qml-module-qtquick-particles2 to sdk-libs
+  * Added qml-module-qtquick-window2 to sdk-libs
+  * Added qml-module-qtquick-xmllistmodel to sdk-libs
+  * Added qml-module-qtquick2 to sdk-libs
+  * Added qml-module-ubuntu-onlineaccounts-client to sdk-libs
+  * Added qtdeclarative5-doc to sdk
+  * Added qtfeedback5-doc to sdk
+  * Added qtlocation5-doc to sdk
+  * Added qtpim5-doc to sdk
+  * Added qtsensors5-doc to sdk
+  * Added qtwebsockets5-doc to sdk
+  * Added qtxmlpatterns5-doc to sdk
+
+ -- Marius Gripsgard <marius@ubports.com>   Sat, 05 Jan 2019 12:28:19 +0100
+
 ubuntu-touch-meta (1.433xenial1ubports4) xenial; urgency=medium
 
   * Add mir caf platform

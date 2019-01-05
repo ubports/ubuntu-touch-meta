@@ -1,0 +1,16 @@
+android-tools-adbd
+cameraplugin-aal
+dbus-property-service
+gstreamer1.0-hybris
+hybris-usb
+initramfs-tools-ubuntu-touch
+libhybris
+libhybris-test
+libhybris-utils
+lxc-android-config
+mir-graphics-drivers-android
+mir-graphics-drivers-android-caf
+pulseaudio-module-droid
+qtmir-android
+qtubuntu-android
+ubuntu-touch-generic-initrd
