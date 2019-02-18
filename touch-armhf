@@ -117,6 +117,7 @@ libhybris
 libhybris-test
 libhybris-utils
 qml-module-org-kde-kirigami2
+qml-module-ubuntu-web
 libmediainfo0v5
 libmessaging-menu0
 libnss-extrausers

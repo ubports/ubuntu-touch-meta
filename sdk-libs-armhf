@@ -22,7 +22,6 @@ qml-module-ubuntu-onlineaccounts
 qml-module-qtquick-controls2
 qml-module-qtquick-controls2-suru
 qml-module-qtwebengine
-qml-module-ubuntu-web
 qmlscene
 qtchooser
 qt5-image-formats-plugins

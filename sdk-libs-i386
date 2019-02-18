@@ -20,7 +20,6 @@ qml-module-qtsensors
 qml-module-qtsysteminfo
 qml-module-ubuntu-onlineaccounts
 qml-module-qtwebengine
-qml-module-ubuntu-web
 qmlscene
 qtchooser
 qt5-image-formats-plugins
