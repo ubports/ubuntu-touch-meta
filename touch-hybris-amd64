@@ -10,6 +10,7 @@ lxc-android-config
 mir-graphics-drivers-android
 mir-graphics-drivers-android-caf
 pulseaudio-module-droid
+pulseaudio-modules-droid-24
 qtmir-android
 qtubuntu-android
 ubuntu-touch-generic-initrd
