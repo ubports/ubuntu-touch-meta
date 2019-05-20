@@ -156,6 +156,7 @@ powerstat
 pulseaudio
 pulseaudio-module-bluetooth
 pulseaudio-module-droid
+pulseaudio-modules-droid-24
 pulseaudio-module-trust-store
 pulseaudio-utils
 python3-gi
