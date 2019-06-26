@@ -255,7 +255,6 @@ morph-webapp-container
 morph-browser
 wget
 wireless-tools
-ubuntu-location-provider-geoclue2
 qml-module-io-thp-pyotherside
 ubuntu-touch-coreapps
 xauth
