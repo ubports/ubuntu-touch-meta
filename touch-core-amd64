@@ -85,7 +85,6 @@ timekeeper
 ubports-qa-scripts
 ubuntu-app-launch-tools
 ubuntu-application-api3-examples
-ubuntu-location-provider-geoclue2
 ubuntu-location-service-bin
 ubuntu-push-client
 udisks2

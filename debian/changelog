@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.433xenial1ubports8) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added pulseaudio-modules-droid-24 to touch-hybris
+  * Removed ubuntu-location-provider-geoclue2 from touch-core
+
+ -- Marius Gripsgard <marius@ubports.com>  Fri, 23 Aug 2019 15:19:39 +0200
+
 ubuntu-touch-meta (1.433xenial1ubports7) xenial; urgency=medium
 
   * Refreshed dependencies

@@ -5,3 +5,4 @@ sdk-libs-tools ubuntu-sdk-libs-tools
 touch ubuntu-touch
 touch-core ubuntu-touch-core
 touch-hybris ubuntu-touch-hybris
+touch-mainline ubuntu-touch-mainline
