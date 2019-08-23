@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports9) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Removed qml-module-ubuntu-web from touch [amd64 arm64]
+
+ -- Marius Gripsgard <marius@ubports.com>  Fri, 23 Aug 2019 18:34:39 +0200
+
 ubuntu-touch-meta (1.433xenial1ubports8) xenial; urgency=medium
 
   * Refreshed dependencies
