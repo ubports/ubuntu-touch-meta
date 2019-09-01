@@ -1,3 +1,19 @@
+ubuntu-touch-meta (1.433xenial1ubports10) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Removed libqt5gui5-gles from touch [amd64]
+  * Removed libqt5location5-gles from touch [amd64]
+  * Removed libqt5multimediawidgets5-gles from touch [amd64]
+  * Removed libqt5opengl5-gles from touch [amd64]
+  * Removed libqt5quick5-gles from touch [amd64]
+  * Removed libqt5quickparticles5-gles from touch [amd64]
+  * Removed qml-module-qtmultimedia-gles from touch [amd64]
+  * Removed qtdeclarative5-qtlocation-plugin-gles from touch [amd64]
+  * Removed qtdeclarative5-ubuntu-ui-toolkit-plugin-gles from touch
+    [amd64]
+
+ -- Marius Gripsgard <marius@ubports.com>  Sun, 01 Sep 2019 21:31:34 +0200
+
 ubuntu-touch-meta (1.433xenial1ubports9) xenial; urgency=medium
 
   * Refreshed dependencies
