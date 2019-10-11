@@ -9,6 +9,7 @@ libhybris-utils
 lxc-android-config
 mir-graphics-drivers-android
 mir-graphics-drivers-android-caf
+mir-platform-graphics-android-caf15
 pulseaudio-module-droid
 pulseaudio-modules-droid-24
 qtmir-android
