@@ -13,6 +13,7 @@ qml-module-qt-labs-folderlistmodel
 qml-module-qt-labs-settings
 qml-module-qt-websockets
 qml-module-qtbluetooth
+qml-module-qtcharts
 qml-module-qtgraphicaleffects
 qml-module-qtlocation
 qml-module-qtmultimedia

@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.433xenial1ubports11) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added pulseaudio-modules-droid-glue-24 to touch-hybris
+  * Added qml-module-qtcharts to sdk-libs
+  * Removed account-plugin-ubuntuone from touch
+
+ -- Marius Gripsgard <marius@ubports.com>  Sun, 03 Nov 2019 05:49:49 +0100
+
 ubuntu-touch-meta (1.433xenial1ubports10) xenial; urgency=medium
 
   * Refreshed dependencies

@@ -11,6 +11,7 @@ mir-graphics-drivers-android
 mir-graphics-drivers-android-caf
 pulseaudio-module-droid
 pulseaudio-modules-droid-24
+pulseaudio-modules-droid-glue-24
 qtmir-android
 qtubuntu-android
 ubuntu-touch-generic-initrd
