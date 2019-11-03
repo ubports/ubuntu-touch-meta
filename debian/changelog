@@ -1,4 +1,4 @@
-ubuntu-touch-meta (1.433xenial1ubports11) UNRELEASED; urgency=medium
+ubuntu-touch-meta (1.433xenial1ubports11) xenial; urgency=medium
 
   * Refreshed dependencies
   * Added pulseaudio-modules-droid-glue-24 to touch-hybris
