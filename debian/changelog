@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.433xenial1ubports12) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-keyboard-english-dvorak to touch
+  * Added ubuntu-touch-session-mir to touch-hybris
+  * Added ubuntu-touch-session-wayland to touch-mainline
+
+ -- root <root@runner-72989761-project-10211609-concurrent-0>  Tue, 05 Nov 2019 20:29:34 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports11) xenial; urgency=medium
 
   * Refreshed dependencies
