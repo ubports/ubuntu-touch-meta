@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports13) xenial; urgency=medium
+
+  * Removed qml-module-io-thp-pyotherside to sdk-libs (Fixes:
+    https://github.com/ubports/ubuntu-touch-meta/issues/56)
+
+ -- Alberto Mardegan <mardy@users.sourceforge.net>  Thu, 12 Dec 2019 22:49:09 +0300
+
 ubuntu-touch-meta (1.433xenial1ubports12) xenial; urgency=medium
 
   * Refreshed dependencies
