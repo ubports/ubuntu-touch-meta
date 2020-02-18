@@ -14,5 +14,6 @@ pulseaudio-modules-droid-24
 pulseaudio-modules-droid-glue-24
 qtmir-android
 qtubuntu-android
+qtubuntu-sensors
 ubuntu-touch-generic-initrd
 ubuntu-touch-session-mir

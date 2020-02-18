@@ -1,3 +1,14 @@
+ubuntu-touch-meta (1.433xenial1ubports13) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added libqt5sensors5-sensorfw to touch-mainline
+  * Added libsensorfw-qt5-configs to touch-mainline
+  * Added libsensorfw-qt5-plugins to touch-mainline
+  * Added qtubuntu-sensors to touch-hybris
+  * Removed qtubuntu-sensors from touch-core
+
+ -- root <root@runner-72989761-project-10211609-concurrent-0>  Tue, 18 Feb 2020 16:12:30 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports12) xenial; urgency=medium
 
   * Refreshed dependencies
