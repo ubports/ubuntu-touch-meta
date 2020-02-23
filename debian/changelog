@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports14) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added qml-module-qt-labs-platform to sdk-libs
+
+ -- root <root@runner-ed2dce3a-project-10211609-concurrent-0>  Sun, 23 Feb 2020 23:27:19 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports13) xenial; urgency=medium
 
   * Refreshed dependencies
