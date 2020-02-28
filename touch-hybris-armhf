@@ -1,6 +1,7 @@
 android-tools-adbd
 cameraplugin-aal
 dbus-property-service
+gstreamer1.0-droid
 gstreamer1.0-hybris
 hybris-usb
 libhybris
@@ -9,6 +10,7 @@ libhybris-utils
 lxc-android-config
 mir-graphics-drivers-android
 mir-graphics-drivers-android-caf
+nemo-qtmultimedia-plugins
 pulseaudio-module-droid
 pulseaudio-modules-droid-24
 pulseaudio-modules-droid-glue-24
