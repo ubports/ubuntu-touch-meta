@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports15) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added libqt5feedback5-hfd to touch-mainline
+
+ -- root <root@runner-0277ea0f-project-10211609-concurrent-0>  Mon, 04 May 2020 23:37:21 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports14) xenial; urgency=medium
 
   * Refreshed dependencies
