@@ -3,7 +3,6 @@ cameraplugin-aal
 dbus-property-service
 gstreamer1.0-hybris
 hybris-usb
-initramfs-tools-ubuntu-touch
 libhybris
 libhybris-test
 libhybris-utils
@@ -16,5 +15,4 @@ pulseaudio-modules-droid-glue-24
 qtmir-android
 qtubuntu-android
 qtubuntu-sensors
-ubuntu-touch-generic-initrd
 ubuntu-touch-session-mir
