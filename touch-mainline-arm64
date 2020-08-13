@@ -4,3 +4,4 @@ libsensorfw-qt5-configs
 libsensorfw-qt5-plugins
 mir-graphics-drivers-desktop
 ubuntu-touch-session-wayland
+v4l-utils
