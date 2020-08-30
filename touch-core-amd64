@@ -31,6 +31,7 @@ gstreamer1.0-plugins-good
 gstreamer1.0-plugins-ugly-amr
 gstreamer1.0-pulseaudio
 health-check
+hfd-service
 iw
 libertine-tools
 libmediainfo0v5
@@ -38,7 +39,10 @@ libmessaging-menu0
 libnss-extrausers
 libp11-kit-gnome-keyring
 libpam-gnome-keyring
+libqt5feedback5-hfd
+libqt5sensors5-sensorfw
 libqtubuntu-media-signals1
+libsensorfw-qt5-configs
 libsmbclient
 libtinyxml2-2v5
 libzen0v5
@@ -90,7 +94,6 @@ ubuntu-push-client
 udisks2
 ufw
 urfkill
-usensord
 wget
 wireless-tools
 xauth

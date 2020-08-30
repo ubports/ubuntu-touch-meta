@@ -1,3 +1,20 @@
+ubuntu-touch-meta (1.433xenial1ubports18) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added hfd-service to touch-core
+  * Added libqt5feedback5-hfd to touch-core
+  * Added libqt5sensors5-sensorfw to touch-core
+  * Added libsensorfw-qt5-configs to touch-core
+  * Added libsensorfw-qt5-hybris to touch-hybris
+  * Added qml-module-hfd to sdk-libs
+  * Removed libqt5feedback5-hfd from touch-mainline
+  * Removed libqt5sensors5-sensorfw from touch-mainline
+  * Removed libsensorfw-qt5-configs from touch-mainline
+  * Removed qtubuntu-sensors from touch-hybris
+  * Removed usensord from touch-core
+
+ -- root <root@runner-ed2dce3a-project-10211609-concurrent-0>  Sun, 30 Aug 2020 18:27:15 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports17) xenial; urgency=medium
 
   * Refreshed dependencies

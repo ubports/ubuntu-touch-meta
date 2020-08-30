@@ -5,6 +5,7 @@ hybris-usb
 libhybris
 libhybris-test
 libhybris-utils
+libsensorfw-qt5-hybris
 lxc-android-config
 mir-graphics-drivers-android
 mir-graphics-drivers-android-caf
@@ -13,5 +14,4 @@ pulseaudio-modules-droid-24
 pulseaudio-modules-droid-glue-24
 qtmir-android
 qtubuntu-android
-qtubuntu-sensors
 ubuntu-touch-session-mir

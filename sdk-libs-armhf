@@ -6,6 +6,7 @@ libqt5keychain0
 libqt5multimedia5-plugins
 libqt5script5
 libqt5sql5-sqlite
+qml-module-hfd
 qml-module-io-thp-pyotherside
 qml-module-org-kde-kirigami2
 qml-module-qmltermwidget1.0
