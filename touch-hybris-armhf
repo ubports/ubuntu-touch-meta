@@ -3,6 +3,7 @@ cameraplugin-aal
 dbus-property-service
 gstreamer1.0-hybris
 hybris-usb
+jumpercable
 libhybris
 libhybris-test
 libhybris-utils
