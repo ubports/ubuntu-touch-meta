@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.433xenial1ubports20) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added anbox-ubuntu-touch to touch-core
+  * Added android-tools-adb to touch-core
+
+ -- root <root@runner-72989761-project-10211609-concurrent-0>  Thu, 17 Dec 2020 18:41:28 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports19) xenial; urgency=medium
 
   * Refreshed dependencies

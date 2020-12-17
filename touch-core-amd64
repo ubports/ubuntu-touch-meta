@@ -2,6 +2,8 @@ account-polld
 aethercast
 alsa-base
 alsa-utils
+anbox-ubuntu-touch
+android-tools-adb
 apparmor-easyprof-ubuntu
 bash-completion
 bluetooth-touch
