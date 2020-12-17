@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports21) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added python3-libertine-lxd to touch-core
+
+ -- root <root@runner-ed2dce3a-project-10211609-concurrent-0>  Thu, 17 Dec 2020 18:55:10 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports20) xenial; urgency=medium
 
   * Refreshed dependencies
