@@ -1,3 +1,12 @@
+ubuntu-touch-meta (1.433xenial1ubports22) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added qml-module-ubuntu-web-compat to touch
+  * Removed qml-module-ubuntu-web from touch [armhf]
+  * Removed unity-webapps-qml from touch
+
+ -- root <root@runner-ed2dce3a-project-10211609-concurrent-0>  Thu, 17 Dec 2020 19:14:01 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports21) xenial; urgency=medium
 
   * Refreshed dependencies
