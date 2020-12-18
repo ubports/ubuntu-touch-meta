@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports23) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Removed python3-libertine-lxd from touch-core
+
+ -- root <root@runner-72989761-project-10211609-concurrent-0>  Fri, 18 Dec 2020 16:10:54 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports22) xenial; urgency=medium
 
   * Refreshed dependencies

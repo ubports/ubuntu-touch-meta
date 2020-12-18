@@ -68,7 +68,6 @@ pulseaudio-module-trust-store
 pulseaudio-utils
 python3-gi
 python3-libertine-chroot
-python3-libertine-lxd
 python3-oauthlib
 python3-pkg-resources
 qtubuntu-appmenutheme
