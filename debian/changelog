@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports25) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Removed qt5-qmake-arm-linux-gnueabihf from sdk-libs-tools [amd64]
+
+ -- root <root@runner-fa6cab46-project-10211609-concurrent-0>  Tue, 05 Jan 2021 18:03:21 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports24) xenial; urgency=medium
 
   * Refreshed dependencies
