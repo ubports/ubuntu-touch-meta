@@ -1,3 +1,27 @@
+ubuntu-touch-meta (1.433xenial1ubports24) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added qml-module-qtwebchannel to sdk-libs
+  * Added qml-module-qtwebsockets to sdk-libs
+  * Added qml-module-ubuntu-components to sdk-libs
+  * Added qml-module-ubuntu-mediascanner0.1 to sdk-libs
+  * Added tls-padding to touch-hybris [armhf]
+  * Removed libjsoncpp1 from sdk-libs
+  * Removed libnet-cpp2 from sdk-libs
+  * Removed libprocess-cpp3 from sdk-libs
+  * Removed qtdeclarative5-folderlistmodel-plugin from sdk-libs
+  * Removed qtdeclarative5-localstorage-plugin from sdk-libs
+  * Removed qtdeclarative5-online-accounts-client0.1 from sdk-libs
+  * Removed qtdeclarative5-particles-plugin from sdk-libs
+  * Removed qtdeclarative5-qtorganizer-plugin from sdk-libs
+  * Removed qtdeclarative5-qtquick2-plugin from sdk-libs
+  * Removed qtdeclarative5-ubuntu-mediascanner0.1 from sdk-libs
+  * Removed qtdeclarative5-ubuntu-ui-toolkit-plugin from sdk-libs
+  * Removed qtdeclarative5-window-plugin from sdk-libs
+  * Removed qtdeclarative5-xmllistmodel-plugin from sdk-libs
+
+ -- root <root@runner-0277ea0f-project-10211609-concurrent-0>  Tue, 05 Jan 2021 17:22:01 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports23) xenial; urgency=medium
 
   * Refreshed dependencies
