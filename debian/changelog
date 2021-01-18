@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.433xenial1ubports26) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added qml-module-qt-labs-qmlmodels to sdk-libs
+  * Added qml-module-qtquick-shapes to sdk-libs
+
+ -- root <root@runner-72989761-project-10211609-concurrent-0>  Mon, 18 Jan 2021 15:23:20 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports25) xenial; urgency=medium
 
   * Refreshed dependencies

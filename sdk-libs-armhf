@@ -8,6 +8,7 @@ qml-module-org-kde-kirigami2
 qml-module-qmltermwidget1.0
 qml-module-qt-labs-folderlistmodel
 qml-module-qt-labs-platform
+qml-module-qt-labs-qmlmodels
 qml-module-qt-labs-settings
 qml-module-qt-websockets
 qml-module-qtbluetooth
@@ -24,6 +25,7 @@ qml-module-qtquick-controls2-suru
 qml-module-qtquick-layouts
 qml-module-qtquick-localstorage
 qml-module-qtquick-particles2
+qml-module-qtquick-shapes
 qml-module-qtquick-window2
 qml-module-qtquick-xmllistmodel
 qml-module-qtquick2
