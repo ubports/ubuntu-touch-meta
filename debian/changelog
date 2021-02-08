@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.433xenial1ubports27) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added gstreamer1.0-droid to touch-hybris
+  * Added nemo-qtmultimedia-plugins to touch-hybris
+
+ -- root <root@runner-0277ea0f-project-10211609-concurrent-0>  Mon, 08 Feb 2021 23:50:55 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports26) xenial; urgency=medium
 
   * Refreshed dependencies
