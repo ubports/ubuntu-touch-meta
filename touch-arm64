@@ -81,6 +81,7 @@ morph-browser
 morph-webapp-container
 ntpdate
 policykit-desktop-privileges
+qml-module-ubuntu-web-compat
 qtdeclarative5-ubuntu-ui-extras0.2
 qtorganizer5-eds
 suru-icon-theme
@@ -127,6 +128,7 @@ ubuntu-keyboard-slovenian
 ubuntu-keyboard-spanish
 ubuntu-keyboard-swedish
 ubuntu-keyboard-swiss-french
+ubuntu-keyboard-thai
 ubuntu-keyboard-turkish
 ubuntu-keyboard-ukrainian
 ubuntu-system-settings
@@ -136,7 +138,6 @@ ubuntu-touch-customization-hooks
 ubuntu-touch-session
 ubuntu-touch-settings
 ubuntu-touch-sounds
-unity-webapps-qml
 unity8
 upstart-sysv
 upstart-watchdog

@@ -2,5 +2,4 @@ cmake
 cmake-extras
 intltool
 python3
-qt5-qmake-arm-linux-gnueabihf
 qttools5-dev-tools

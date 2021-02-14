@@ -1,3 +1,39 @@
+ubuntu-touch-meta (1.433xenial1ubports19) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added anbox-ubuntu-touch to touch-core
+  * Added android-tools-adb to touch-core
+  * Added gstreamer1.0-droid to touch-hybris
+  * Added jumpercable to touch-hybris
+  * Added nemo-qtmultimedia-plugins to touch-hybris
+  * Added qml-module-qt-labs-qmlmodels to sdk-libs
+  * Added qml-module-qtquick-shapes to sdk-libs
+  * Added qml-module-qtwebchannel to sdk-libs
+  * Added qml-module-qtwebsockets to sdk-libs
+  * Added qml-module-ubuntu-components to sdk-libs
+  * Added qml-module-ubuntu-mediascanner0.1 to sdk-libs
+  * Added qml-module-ubuntu-web-compat to touch
+  * Added tls-padding to touch-hybris
+  * Added ubuntu-keyboard-thai to touch
+  * Removed libjsoncpp1 from sdk-libs
+  * Removed libnet-cpp2 from sdk-libs
+  * Removed libprocess-cpp3 from sdk-libs
+  * Removed qml-module-ubuntu-web from touch [armhf]
+  * Removed qt5-qmake-arm-linux-gnueabihf from sdk-libs-tools [amd64]
+  * Removed qtdeclarative5-folderlistmodel-plugin from sdk-libs
+  * Removed qtdeclarative5-localstorage-plugin from sdk-libs
+  * Removed qtdeclarative5-online-accounts-client0.1 from sdk-libs
+  * Removed qtdeclarative5-particles-plugin from sdk-libs
+  * Removed qtdeclarative5-qtorganizer-plugin from sdk-libs
+  * Removed qtdeclarative5-qtquick2-plugin from sdk-libs
+  * Removed qtdeclarative5-ubuntu-mediascanner0.1 from sdk-libs
+  * Removed qtdeclarative5-ubuntu-ui-toolkit-plugin from sdk-libs
+  * Removed qtdeclarative5-window-plugin from sdk-libs
+  * Removed qtdeclarative5-xmllistmodel-plugin from sdk-libs
+  * Removed unity-webapps-qml from touch
+
+ -- root <root@runner-0277ea0f-project-10211609-concurrent-0>  Sun, 14 Feb 2021 19:08:53 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports18) xenial; urgency=medium
 
   * Refreshed dependencies
