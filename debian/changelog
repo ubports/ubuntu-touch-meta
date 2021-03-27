@@ -1,3 +1,13 @@
+ubuntu-touch-meta (1.433xenial1ubports29) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added nfcd to touch-hybris
+  * Added nfcd-binder-plugin to touch-hybris
+  * Added nfcd-repowerd-plugin to touch-hybris
+  * Added qml-module-qtnfc to sdk-libs
+
+ -- root <root@runner-0277ea0f-project-10211609-concurrent-0>  Sat, 27 Mar 2021 22:27:16 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports28) xenial; urgency=medium
 
   * Refreshed dependencies

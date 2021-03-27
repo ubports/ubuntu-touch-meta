@@ -16,6 +16,7 @@ qml-module-qtcharts
 qml-module-qtgraphicaleffects
 qml-module-qtlocation
 qml-module-qtmultimedia
+qml-module-qtnfc
 qml-module-qtorganizer
 qml-module-qtpositioning
 qml-module-qtqml-models2

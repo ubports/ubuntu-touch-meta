@@ -12,6 +12,9 @@ lxc-android-config
 mir-graphics-drivers-android
 mir-graphics-drivers-android-caf
 nemo-qtmultimedia-plugins
+nfcd
+nfcd-binder-plugin
+nfcd-repowerd-plugin
 pulseaudio-module-droid
 pulseaudio-modules-droid-24
 pulseaudio-modules-droid-glue-24
