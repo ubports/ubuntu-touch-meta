@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports30) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-keyboard-macedonian to touch
+
+ -- root <root@runner-ed2dce3a-project-10211609-concurrent-0>  Sat, 10 Apr 2021 15:42:36 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports29) xenial; urgency=medium
 
   * Refreshed dependencies
