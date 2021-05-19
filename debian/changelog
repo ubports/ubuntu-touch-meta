@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports32) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-application-api3-touch to touch-hybris
+
+ -- root <root@runner-fa6cab46-project-10211609-concurrent-0>  Wed, 19 May 2021 20:02:46 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports31) xenial; urgency=medium
 
   * Refreshed dependencies
