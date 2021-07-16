@@ -1,3 +1,11 @@
+ubuntu-touch-meta (1.433xenial1ubports33) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added libqt5webview5-dev to sdk-libs-dev
+  * Added qml-module-qtwebview to sdk-libs
+
+ -- root <root@runner-72989761-project-10211609-concurrent-0>  Fri, 16 Jul 2021 16:49:13 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports32) xenial; urgency=medium
 
   * Refreshed dependencies
