@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports34) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added tree to touch-core
+
+ -- root <root@runner-fa6cab46-project-10211609-concurrent-0>  Tue, 21 Sep 2021 12:33:10 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports33) xenial; urgency=medium
 
   * Refreshed dependencies
