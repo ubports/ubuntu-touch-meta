@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports35) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Removed address-book-updater from touch
+
+ -- root <root@runner-fa6cab46-project-10211609-concurrent-0>  Fri, 24 Sep 2021 19:21:24 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports34) xenial; urgency=medium
 
   * Refreshed dependencies
