@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports37) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added fonts-taml to touch
+
+ -- root <root@runner-nthfetyx-project-10211609-concurrent-0>  Tue, 21 Dec 2021 11:44:38 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports36) xenial; urgency=medium
 
   * Refreshed dependencies
