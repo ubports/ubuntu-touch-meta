@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports38) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-keyboard-persian to touch
+
+ -- root <root@runner-j2nyww-s-project-10211609-concurrent-0>  Wed, 12 Jan 2022 19:42:55 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports37) xenial; urgency=medium
 
   * Refreshed dependencies
