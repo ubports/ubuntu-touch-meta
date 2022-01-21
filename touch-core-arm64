@@ -19,6 +19,7 @@ content-hub
 cpustat
 debsig-verify
 eventstat
+f2fs-tools
 fbset
 forkstat
 gir1.2-accounts-1.0
