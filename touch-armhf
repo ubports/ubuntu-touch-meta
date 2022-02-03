@@ -10,6 +10,7 @@ account-polld-plugins-go
 address-book-app
 bluez-obexd
 dialer-app
+fm-radio-service
 fonts-beng
 fonts-emojione
 fonts-khmeros

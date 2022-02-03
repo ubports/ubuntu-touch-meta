@@ -1,3 +1,10 @@
+ubuntu-touch-meta (1.433xenial1ubports40) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added fm-radio-service to touch
+
+ -- root <root@runner-xs6vzpvo-project-10211609-concurrent-0>  Thu, 03 Feb 2022 20:11:22 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports39) xenial; urgency=medium
 
   * Refreshed dependencies
