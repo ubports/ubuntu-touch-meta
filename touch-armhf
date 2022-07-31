@@ -8,14 +8,17 @@ account-plugin-twitter
 account-plugin-vk
 account-polld-plugins-go
 address-book-app
-address-book-updater
 bluez-obexd
 dialer-app
+fm-radio-service
+fonts-beng
 fonts-emojione
+fonts-khmeros
 fonts-lohit-deva
 fonts-lohit-guru
 fonts-nanum
 fonts-takao-pgothic
+fonts-taml
 fonts-tlwg-kinnari
 fonts-wqy-microhei
 indicator-bluetooth
@@ -93,6 +96,7 @@ thumbnailer-service
 ttf-ubuntu-font-family
 ubuntu-keyboard-arabic
 ubuntu-keyboard-azerbaijani
+ubuntu-keyboard-belarusian
 ubuntu-keyboard-bosnian
 ubuntu-keyboard-bulgarian
 ubuntu-keyboard-catalan
@@ -117,7 +121,9 @@ ubuntu-keyboard-japanese
 ubuntu-keyboard-korean
 ubuntu-keyboard-latvian
 ubuntu-keyboard-lithuanian
+ubuntu-keyboard-macedonian
 ubuntu-keyboard-norwegian-bokmal
+ubuntu-keyboard-persian
 ubuntu-keyboard-polish
 ubuntu-keyboard-portuguese
 ubuntu-keyboard-romanian

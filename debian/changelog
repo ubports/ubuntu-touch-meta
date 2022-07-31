@@ -1,3 +1,26 @@
+ubuntu-touch-meta (1.433xenial1ubports20) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added f2fs-tools to touch-core
+  * Added fm-radio-service to touch
+  * Added fonts-beng to touch
+  * Added fonts-khmeros to touch
+  * Added fonts-taml to touch
+  * Added libqt5webview5-dev to sdk-libs-dev
+  * Added nfcd to touch-hybris
+  * Added nfcd-binder-plugin to touch-hybris
+  * Added nfcd-repowerd-plugin to touch-hybris
+  * Added qml-module-qtnfc to sdk-libs
+  * Added qml-module-qtwebview to sdk-libs
+  * Added tree to touch-core
+  * Added ubuntu-application-api3-touch to touch-hybris
+  * Added ubuntu-keyboard-belarusian to touch
+  * Added ubuntu-keyboard-macedonian to touch
+  * Added ubuntu-keyboard-persian to touch
+  * Removed address-book-updater from touch
+
+ -- root <root@runner-jhcjxvh-project-10211609-concurrent-0>  Sun, 31 Jul 2022 22:56:21 +0000
+
 ubuntu-touch-meta (1.433xenial1ubports19) xenial; urgency=medium
 
   * Refreshed dependencies

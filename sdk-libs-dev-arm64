@@ -9,6 +9,7 @@ libproperties-cpp-dev
 libqt5sensors5-dev
 libqt5svg5-dev
 libqt5websockets5-dev
+libqt5webview5-dev
 libqt5xmlpatterns5-dev
 libssl-dev
 qt3d5-dev

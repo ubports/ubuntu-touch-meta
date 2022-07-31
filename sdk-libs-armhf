@@ -17,6 +17,7 @@ qml-module-qtcharts
 qml-module-qtgraphicaleffects
 qml-module-qtlocation
 qml-module-qtmultimedia
+qml-module-qtnfc
 qml-module-qtorganizer
 qml-module-qtpositioning
 qml-module-qtqml-models2
@@ -35,6 +36,7 @@ qml-module-qtsysteminfo
 qml-module-qtwebchannel
 qml-module-qtwebengine
 qml-module-qtwebsockets
+qml-module-qtwebview
 qml-module-ubuntu-components
 qml-module-ubuntu-mediascanner0.1
 qml-module-ubuntu-onlineaccounts
